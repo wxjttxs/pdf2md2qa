@@ -1,0 +1,9 @@
+{
+  "id": 2742,
+  "text": "573.Bogani, G., et al.Laparoscopic versus open abdominal management of cervical cancer: long-term results from a propensity-matched analysis.$J$ Minim Invasive Gynecol 21, 857-862 (2014).574.Campos, L.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 573.Bogani, G., et al.Laparoscopic versus open abdominal management of cervical cancer: long-term results from a propensity-matched analysis.$J$ Minim Invasive Gynecol 21, 857-862 (2014).574.Campos, L.\n\n<question>: ",
+  "ChatGPT_response_0": "根据目前的研究，宫颈癌患者的手术方式有开放式手术和腹腔镜手术两种选择。研究显示，腹腔镜手术在一些方面可能会带来更好的长期疗效。然而，选择何种手术方式还取决于患者的具体情况和医生的建议。建议患者与医疗团队进行深入讨论，以确定最适合个人情况的手术方式。",
+  "query": "哪种手术方式对宫颈癌患者的长期疗效更好呢？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪种手术方式对宫颈癌患者的长期疗效更好呢？\n\n<reference text>: 573.Bogani, G., et al.Laparoscopic versus open abdominal management of cervical cancer: long-term results from a propensity-matched analysis.$J$ Minim Invasive Gynecol 21, 857-862 (2014).574.Campos, L.\n\n<reply>: ",
+  "response": "根据目前的研究，宫颈癌患者的手术方式有开放式手术和腹腔镜手术两种选择。研究显示，腹腔镜手术在一些方面可能会带来更好的长期疗效。然而，选择何种手术方式还取决于患者的具体情况和医生的建议。建议患者与医疗团队进行深入讨论，以确定最适合个人情况的手术方式。"
+}

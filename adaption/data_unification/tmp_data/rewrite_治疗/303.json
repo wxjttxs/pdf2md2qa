@@ -1,0 +1,9 @@
+{
+  "id": 303,
+  "text": "Seven of these algorithms were addressed in the July 2021 edition of the updated guideline and another four were addressed in the December 2021 edition, while the final two algorithms are addressed in this current guideline publication.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Seven of these algorithms were addressed in the July 2021 edition of the updated guideline and another four were addressed in the December 2021 edition, while the final two algorithms are addressed in this current guideline publication.\n\n<question>: ",
+  "ChatGPT_response_0": "在2021年7月更新的指南中，其中有七种算法进行了讨论。而在12月2021年的版本中，另外四种算法也被纳入讨论。最终的两种算法则在当前的指南出版物中进行了探讨。",
+  "query": "这些算法中有多少是在2021年7月更新指南中讨论的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些算法中有多少是在2021年7月更新指南中讨论的？\n\n<reference text>: Seven of these algorithms were addressed in the July 2021 edition of the updated guideline and another four were addressed in the December 2021 edition, while the final two algorithms are addressed in this current guideline publication.\n\n<reply>: ",
+  "response": "在2021年7月更新的指南中，其中有七种算法进行了讨论。而在12月2021年的版本中，另外四种算法也被纳入讨论。最终的两种算法则在当前的指南出版物中进行了探讨。"
+}

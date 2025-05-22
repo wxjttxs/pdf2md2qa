@@ -1,0 +1,9 @@
+{
+  "id": 407,
+  "text": "Updated Recommendations on the Use of 9-valent Human Papillomavirus Vaccine in Hong Kong (As of 30 November 2022).Centre for Health Protection, Department of Health, Hong Kong Special Administrative Region; 2022.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Updated Recommendations on the Use of 9-valent Human Papillomavirus Vaccine in Hong Kong (As of 30 November 2022).Centre for Health Protection, Department of Health, Hong Kong Special Administrative Region; 2022.\n\n<question>: ",
+  "ChatGPT_response_0": "根据2022年11月30日香港卫生署发布的最新指引，九价人类乳头瘤病毒疫苗的使用推荐有一些更新。这些更新可能涉及疫苗接种的年龄范围、接种剂次和间隔、特定人群的推荐等方面。建议您咨询专业医疗机构或医生，以获取最准确和最新的九价HPV疫苗使用建议。",
+  "query": "在香港，九价人类乳头瘤病毒疫苗的使用推荐有哪些更新？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在香港，九价人类乳头瘤病毒疫苗的使用推荐有哪些更新？\n\n<reference text>: Updated Recommendations on the Use of 9-valent Human Papillomavirus Vaccine in Hong Kong (As of 30 November 2022).Centre for Health Protection, Department of Health, Hong Kong Special Administrative Region; 2022.\n\n<reply>: ",
+  "response": "根据2022年11月30日香港卫生署发布的最新指引，九价人类乳头瘤病毒疫苗的使用推荐有一些更新。这些更新可能涉及疫苗接种的年龄范围、接种剂次和间隔、特定人群的推荐等方面。建议您咨询专业医疗机构或医生，以获取最准确和最新的九价HPV疫苗使用建议。"
+}

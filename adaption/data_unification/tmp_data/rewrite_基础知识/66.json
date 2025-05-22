@@ -1,0 +1,9 @@
+{
+  "id": 66,
+  "text": "0</td><td>342</td><td>481</td><td>40.8</td></tr></table></body></html> HDI, Human Development Index.a The four tiers of HDI are: low $( < 0 .5 5 )$ , medium $( \\geq 0 .5 5$ to $< 0 .7$ ), high $( \\geq 0 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0</td><td>342</td><td>481</td><td>40.8</td></tr></table></body></html> HDI, Human Development Index.a The four tiers of HDI are: low $( < 0 .5 5 )$ , medium $( \\geq 0 .5 5$ to $< 0 .7$ ), high $( \\geq 0 .\n\n<question>: ",
+  "ChatGPT_response_0": "人类发展指数有四个等级，分别是低（<0.55）、中等（≥0.55至<0.7）、高（≥0.7至<0.8）、非常高（≥0.8）。这些等级是根据人类发展指数（HDI）的数值范围来界定的，反映了国家人类发展水平的不同阶段。",
+  "query": "人类发展指数有哪四个等级，他们分别是如何界定的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 人类发展指数有哪四个等级，他们分别是如何界定的？\n\n<reference text>: 0</td><td>342</td><td>481</td><td>40.8</td></tr></table></body></html> HDI, Human Development Index.a The four tiers of HDI are: low $( < 0 .5 5 )$ , medium $( \\geq 0 .5 5$ to $< 0 .7$ ), high $( \\geq 0 .\n\n<reply>: ",
+  "response": "人类发展指数有四个等级，分别是低（<0.55）、中等（≥0.55至<0.7）、高（≥0.7至<0.8）、非常高（≥0.8）。这些等级是根据人类发展指数（HDI）的数值范围来界定的，反映了国家人类发展水平的不同阶段。"
+}

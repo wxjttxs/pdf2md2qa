@@ -1,0 +1,9 @@
+{
+  "id": 533,
+  "text": "8 \\%$ (989) in health workers, and $9 5 .7 \\%$ (419) in government officers, respectively, and the proportion was relatively higher in women and the respondents with higher education.In the female respondents with daughters, 341 $( 8 2 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 8 \\%$ (989) in health workers, and $9 5 .7 \\%$ (419) in government officers, respectively, and the proportion was relatively higher in women and the respondents with higher education.In the female respondents with daughters, 341 $( 8 2 .\n\n<question>: ",
+  "ChatGPT_response_0": "在受访女性中，有女儿的受访人数约为341人，占女性受访者的$82.7 \\%$。此比例在受访者中相对较高，并且与受访女性教育程度较高的受访者有关。",
+  "query": "在受访女性中，有女儿的受访人数是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在受访女性中，有女儿的受访人数是多少？\n\n<reference text>: 8 \\%$ (989) in health workers, and $9 5 .7 \\%$ (419) in government officers, respectively, and the proportion was relatively higher in women and the respondents with higher education.In the female respondents with daughters, 341 $( 8 2 .\n\n<reply>: ",
+  "response": "在受访女性中，有女儿的受访人数约为341人，占女性受访者的$82.7 \\%$。此比例在受访者中相对较高，并且与受访女性教育程度较高的受访者有关。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1029,
+  "text": "J Natl Cancer Inst, 2013, 105(9):624-633.[70] SHI Y, LI L, HU Z, et al.A genome-wide association study identifies two new cervical cancer susceptibility loci at 4q12 and 17q12[J].Nat Genet, 2013, 45(8):918-922.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: J Natl Cancer Inst, 2013, 105(9):624-633.[70] SHI Y, LI L, HU Z, et al.A genome-wide association study identifies two new cervical cancer susceptibility loci at 4q12 and 17q12[J].Nat Genet, 2013, 45(8):918-922.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "在研究中，发现了两个新的宫颈癌易感位点，分别位于染色体4q12和17q12位置。这些位点可能与宫颈癌的遗传易感性有关，帮助了解其发病机制并可能为未来的治疗提供新的思路。",
+  "query": "你知道在哪些染色体位置发现了新的宫颈癌易感位点吗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 你知道在哪些染色体位置发现了新的宫颈癌易感位点吗？\n\n<reference text>: J Natl Cancer Inst, 2013, 105(9):624-633.[70] SHI Y, LI L, HU Z, et al.A genome-wide association study identifies two new cervical cancer susceptibility loci at 4q12 and 17q12[J].Nat Genet, 2013, 45(8):918-922.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "在研究中，发现了两个新的宫颈癌易感位点，分别位于染色体4q12和17q12位置。这些位点可能与宫颈癌的遗传易感性有关，帮助了解其发病机制并可能为未来的治疗提供新的思路。"
+}

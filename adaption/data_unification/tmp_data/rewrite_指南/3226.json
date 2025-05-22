@@ -1,0 +1,9 @@
+{
+  "id": 3226,
+  "text": "1161.Shoji, T., et al.Phase II study of triweekly cisplatin and irinotecan as neoadjuvant chemotherapy for locally advanced cervical cancer.Oncol Lett 1, 515-519 (2010).1162.Kokawa, K., Nishimura, R., Fujii, T.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1161.Shoji, T., et al.Phase II study of triweekly cisplatin and irinotecan as neoadjuvant chemotherapy for locally advanced cervical cancer.Oncol Lett 1, 515-519 (2010).1162.Kokawa, K., Nishimura, R., Fujii, T.\n\n<question>: ",
+  "ChatGPT_response_0": "该研究采用三周一次顺铂和伊立替康作为局部晚期宫颈癌的新辅助化疗方案。愿这对您有所帮助。",
+  "query": "这个研究中，是通过什么方案的化疗作为局部晚期宫颈癌的新辅助治疗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这个研究中，是通过什么方案的化疗作为局部晚期宫颈癌的新辅助治疗？\n\n<reference text>: 1161.Shoji, T., et al.Phase II study of triweekly cisplatin and irinotecan as neoadjuvant chemotherapy for locally advanced cervical cancer.Oncol Lett 1, 515-519 (2010).1162.Kokawa, K., Nishimura, R., Fujii, T.\n\n<reply>: ",
+  "response": "该研究采用三周一次顺铂和伊立替康作为局部晚期宫颈癌的新辅助化疗方案。愿这对您有所帮助。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 111,
+  "text": "Thus, the position of the SCJ moves centrally throughout a woman’s life, from its distal origin on the ecto­ cervix or vagina into the endocervical canal, until it has gradually moved out of the visible area in most older women.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Thus, the position of the SCJ moves centrally throughout a woman’s life, from its distal origin on the ecto­ cervix or vagina into the endocervical canal, until it has gradually moved out of the visible area in most older women.\n\n<question>: ",
+  "ChatGPT_response_0": "SCJ在女性生活中会随着时间逐渐向内移动，从宫颈外口或阴道的远端位置逐渐移向子宫颈管，直至在大多数年长女性身上逐渐移出可见区域。这个过程在女性生涯中起着重要作用，因为它反映了生理变化和年龄相关的影响。",
+  "query": "SCJ在女性生活中会如何移动？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: SCJ在女性生活中会如何移动？\n\n<reference text>: Thus, the position of the SCJ moves centrally throughout a woman’s life, from its distal origin on the ecto­ cervix or vagina into the endocervical canal, until it has gradually moved out of the visible area in most older women.\n\n<reply>: ",
+  "response": "SCJ在女性生活中会随着时间逐渐向内移动，从宫颈外口或阴道的远端位置逐渐移向子宫颈管，直至在大多数年长女性身上逐渐移出可见区域。这个过程在女性生涯中起着重要作用，因为它反映了生理变化和年龄相关的影响。"
+}

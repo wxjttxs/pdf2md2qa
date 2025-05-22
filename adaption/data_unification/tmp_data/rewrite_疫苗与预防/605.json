@@ -1,0 +1,9 @@
+{
+  "id": 605,
+  "text": "3</td><td>85</td><td>91.4</td><td>699</td><td>78.0</td></tr><tr><td>否</td><td>13</td><td>1.3</td><td>0</td><td>0.0</td><td>13</td><td>1.5</td></tr><tr><td>中立</td><td>192</td><td>19.4</td><td>8</td><td>8.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 3</td><td>85</td><td>91.4</td><td>699</td><td>78.0</td></tr><tr><td>否</td><td>13</td><td>1.3</td><td>0</td><td>0.0</td><td>13</td><td>1.5</td></tr><tr><td>中立</td><td>192</td><td>19.4</td><td>8</td><td>8.\n\n<question>: ",
+  "ChatGPT_response_0": "根据数据，中立的占比在总体中约为19.4%。",
+  "query": "这组数据中，中立的占比在总体中属于什么比例？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这组数据中，中立的占比在总体中属于什么比例？\n\n<reference text>: 3</td><td>85</td><td>91.4</td><td>699</td><td>78.0</td></tr><tr><td>否</td><td>13</td><td>1.3</td><td>0</td><td>0.0</td><td>13</td><td>1.5</td></tr><tr><td>中立</td><td>192</td><td>19.4</td><td>8</td><td>8.\n\n<reply>: ",
+  "response": "根据数据，中立的占比在总体中约为19.4%。"
+}

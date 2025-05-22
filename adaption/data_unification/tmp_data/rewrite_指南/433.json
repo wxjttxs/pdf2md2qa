@@ -1,0 +1,9 @@
+{
+  "id": 433,
+  "text": "0 mm and not more than 5.0 mm, witha horizontal spread of 7.0 mm or less</td></tr><tr><td>T1b</td><td>IB</td><td>Clinically visible lesion confined to the cervix or microscopic lesion greater than Tla/IA2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 mm and not more than 5.0 mm, witha horizontal spread of 7.0 mm or less</td></tr><tr><td>T1b</td><td>IB</td><td>Clinically visible lesion confined to the cervix or microscopic lesion greater than Tla/IA2.\n\n<question>: ",
+  "ChatGPT_response_0": "在临床上，宫颈上可见的病变限于不超过5.0毫米，水平方向扩展不超过7.0毫米。",
+  "query": "在临床上，宫颈上可见的病变限于多少毫米之内，水平方向扩展不超过多少毫米？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在临床上，宫颈上可见的病变限于多少毫米之内，水平方向扩展不超过多少毫米？\n\n<reference text>: 0 mm and not more than 5.0 mm, witha horizontal spread of 7.0 mm or less</td></tr><tr><td>T1b</td><td>IB</td><td>Clinically visible lesion confined to the cervix or microscopic lesion greater than Tla/IA2.\n\n<reply>: ",
+  "response": "在临床上，宫颈上可见的病变限于不超过5.0毫米，水平方向扩展不超过7.0毫米。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1195,
+  "text": "![](images/d1b9aecaab3a4f18ea19974d758b72c1284f9b293a511ba2b5603a827354436a.jpg) # 常见问题解答 (FAQs) 1.接种宫颈癌疫苗的推荐年龄是多少？HPV 疫苗建议 9 至 26 岁之间的人接种。最好在开始任何性活动之前接种疫苗，因为这样可以最好地预防 HPV 感染。早期接种疫苗可显著降低成年后患宫颈癌的风险。# 2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ![](images/d1b9aecaab3a4f18ea19974d758b72c1284f9b293a511ba2b5603a827354436a.jpg) # 常见问题解答 (FAQs) 1.接种宫颈癌疫苗的推荐年龄是多少？HPV 疫苗建议 9 至 26 岁之间的人接种。最好在开始任何性活动之前接种疫苗，因为这样可以最好地预防 HPV 感染。早期接种疫苗可显著降低成年后患宫颈癌的风险。# 2.\n\n<question>: ",
+  "ChatGPT_response_0": "HPV疫苗的推荐接种年龄为9至26岁之间的人群，最好在开始任何性活动之前接种以最大程度预防HPV感染。早期接种能够显著降低成年后患宫颈癌的风险。因此，这个年龄段的人群是最适合接种HPV疫苗的。",
+  "query": "哪些年龄段的人最适合接种HPV疫苗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪些年龄段的人最适合接种HPV疫苗？\n\n<reference text>: ![](images/d1b9aecaab3a4f18ea19974d758b72c1284f9b293a511ba2b5603a827354436a.jpg) # 常见问题解答 (FAQs) 1.接种宫颈癌疫苗的推荐年龄是多少？HPV 疫苗建议 9 至 26 岁之间的人接种。最好在开始任何性活动之前接种疫苗，因为这样可以最好地预防 HPV 感染。早期接种疫苗可显著降低成年后患宫颈癌的风险。# 2.\n\n<reply>: ",
+  "response": "HPV疫苗的推荐接种年龄为9至26岁之间的人群，最好在开始任何性活动之前接种以最大程度预防HPV感染。早期接种能够显著降低成年后患宫颈癌的风险。因此，这个年龄段的人群是最适合接种HPV疫苗的。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 974,
+  "text": "Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.\n\n<question>: ",
+  "ChatGPT_response_0": "在FIGO 1B1期疾病的患者中，有75%的人采用了三个周期的基于铂类药物的化疗方案作为新辅助治疗方案。",
+  "query": "在FIGO 1B1期疾病的患者中，有75%的人采用了哪种新辅助治疗方案？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在FIGO 1B1期疾病的患者中，有75%的人采用了哪种新辅助治疗方案？\n\n<reference text>: Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.\n\n<reply>: ",
+  "response": "在FIGO 1B1期疾病的患者中，有75%的人采用了三个周期的基于铂类药物的化疗方案作为新辅助治疗方案。"
+}

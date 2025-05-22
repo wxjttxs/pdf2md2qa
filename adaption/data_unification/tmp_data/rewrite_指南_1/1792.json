@@ -1,0 +1,9 @@
+{
+  "id": 1792,
+  "text": "There was no grade 4 or 5 acute radiation toxicity.In all, $1 1 \\%$ of the patients had grade 3 gastrointestinal late toxicities, and $1 9 \\%$ of the patients had grade 3 genitourinary late toxicities.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: There was no grade 4 or 5 acute radiation toxicity.In all, $1 1 \\%$ of the patients had grade 3 gastrointestinal late toxicities, and $1 9 \\%$ of the patients had grade 3 genitourinary late toxicities.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "11%的患者经历了3级胃肠道晚期毒性，19%的患者经历了3级泌尿生殖道晚期毒性。",
+  "query": "考虑一种治疗方案，其中没有出现4级或5级急性辐射毒性。请问有多少百分比的患者经历了3级胃肠道晚期毒性，多少患者经历了3级泌尿生殖道晚期毒性？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 考虑一种治疗方案，其中没有出现4级或5级急性辐射毒性。请问有多少百分比的患者经历了3级胃肠道晚期毒性，多少患者经历了3级泌尿生殖道晚期毒性？\n\n<reference text>: There was no grade 4 or 5 acute radiation toxicity.In all, $1 1 \\%$ of the patients had grade 3 gastrointestinal late toxicities, and $1 9 \\%$ of the patients had grade 3 genitourinary late toxicities.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "11%的患者经历了3级胃肠道晚期毒性，19%的患者经历了3级泌尿生殖道晚期毒性。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 171,
+  "text": "Health facilities will follow their normal reporting procedures.Copies of reports with dates and signatures are usually sent to the next level (e.g., district, province) and the originals stored at the health facility (Figure 1).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Health facilities will follow their normal reporting procedures.Copies of reports with dates and signatures are usually sent to the next level (e.g., district, province) and the originals stored at the health facility (Figure 1).\n\n<question>: ",
+  "ChatGPT_response_0": "医疗机构通常会遵循他们的常规报告程序。通常，带有日期和签名的报告副本会被发送到下一个级别（如区、省等），而原始报告则会被储存在医疗机构中。",
+  "query": "医疗机构通常会采取哪些步骤进行报告?",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 医疗机构通常会采取哪些步骤进行报告?\n\n<reference text>: Health facilities will follow their normal reporting procedures.Copies of reports with dates and signatures are usually sent to the next level (e.g., district, province) and the originals stored at the health facility (Figure 1).\n\n<reply>: ",
+  "response": "医疗机构通常会遵循他们的常规报告程序。通常，带有日期和签名的报告副本会被发送到下一个级别（如区、省等），而原始报告则会被储存在医疗机构中。"
+}

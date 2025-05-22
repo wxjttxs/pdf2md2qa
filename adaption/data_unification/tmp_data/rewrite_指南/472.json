@@ -1,0 +1,9 @@
+{
+  "id": 472,
+  "text": "2 \\% )$ , 159-205 (mean: $2 2 .6 \\%$ ), 343-389 $( 4 3 .9 \\% )$ , and 14-19 $( 2 .0 \\% )$ for IA1 patients (Table 9), and 49 $( 1 0 \\% )$ , 142-162 $( 3 0 .9 \\% )$ , 265-276 $( 5 5 .1 \\% )$ , and 15 $( 3 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2 \\% )$ , 159-205 (mean: $2 2 .6 \\%$ ), 343-389 $( 4 3 .9 \\% )$ , and 14-19 $( 2 .0 \\% )$ for IA1 patients (Table 9), and 49 $( 1 0 \\% )$ , 142-162 $( 3 0 .9 \\% )$ , 265-276 $( 5 5 .1 \\% )$ , and 15 $( 3 .\n\n<question>: ",
+  "ChatGPT_response_0": "根据表格9显示的数据，IA1患者中占比例最高的组别是265-276，占比为55.1%。",
+  "query": "表格9显示了不同IA1患者的百分比范围和平均值。在这些数值中，哪一组IA1患者所占比例最高？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 表格9显示了不同IA1患者的百分比范围和平均值。在这些数值中，哪一组IA1患者所占比例最高？\n\n<reference text>: 2 \\% )$ , 159-205 (mean: $2 2 .6 \\%$ ), 343-389 $( 4 3 .9 \\% )$ , and 14-19 $( 2 .0 \\% )$ for IA1 patients (Table 9), and 49 $( 1 0 \\% )$ , 142-162 $( 3 0 .9 \\% )$ , 265-276 $( 5 5 .1 \\% )$ , and 15 $( 3 .\n\n<reply>: ",
+  "response": "根据表格9显示的数据，IA1患者中占比例最高的组别是265-276，占比为55.1%。"
+}

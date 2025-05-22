@@ -1,0 +1,9 @@
+{
+  "id": 912,
+  "text": "who.int/reproductivehealth/publications/cancers/9789241502856/ en/).15.WHO guidelines for the use of thermal ablation for cervical pre-cancer lesions.Geneva: World Health Organization; 2019 (https://apps.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: who.int/reproductivehealth/publications/cancers/9789241502856/ en/).15.WHO guidelines for the use of thermal ablation for cervical pre-cancer lesions.Geneva: World Health Organization; 2019 (https://apps.\n\n<question>: ",
+  "ChatGPT_response_0": "热消融术用于宫颈癌前病变治疗的指南是世界卫生组织发布的。您可以在世界卫生组织的官方网站上找到有关热消融术治疗宫颈癌前病变的指南。这些指南可以帮助医生正确且有效地使用热消融术来治疗患有宫颈癌前病变的患者。如果您需要更详细的信息，建议您查阅相关的世界卫生组织指南文件。",
+  "query": "热消融术用于宫颈癌前病变治疗的指南是哪里的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 热消融术用于宫颈癌前病变治疗的指南是哪里的？\n\n<reference text>: who.int/reproductivehealth/publications/cancers/9789241502856/ en/).15.WHO guidelines for the use of thermal ablation for cervical pre-cancer lesions.Geneva: World Health Organization; 2019 (https://apps.\n\n<reply>: ",
+  "response": "热消融术用于宫颈癌前病变治疗的指南是世界卫生组织发布的。您可以在世界卫生组织的官方网站上找到有关热消融术治疗宫颈癌前病变的指南。这些指南可以帮助医生正确且有效地使用热消融术来治疗患有宫颈癌前病变的患者。如果您需要更详细的信息，建议您查阅相关的世界卫生组织指南文件。"
+}

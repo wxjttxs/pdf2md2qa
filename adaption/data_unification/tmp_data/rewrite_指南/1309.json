@@ -1,0 +1,9 @@
+{
+  "id": 1309,
+  "text": "7 2$ ( $9 5 \\% \\mathrm { C I } = 0 .5 5 – 0 .9 5$ ), $\\mathrm { \\ p } = 0 .0 2$ , respectively).A non-significant trend was observed in terms of local recurrence, distant recurrence and rates of radical resection in favour of NACT.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 7 2$ ( $9 5 \\% \\mathrm { C I } = 0 .5 5 – 0 .9 5$ ), $\\mathrm { \\ p } = 0 .0 2$ , respectively).A non-significant trend was observed in terms of local recurrence, distant recurrence and rates of radical resection in favour of NACT.\n\n<question>: ",
+  "ChatGPT_response_0": "在NACT组和对照组中，观察到在局部复发、远处复发率以及根治切除率方面存在未达到统计显著性的趋势，有利于NACT组。",
+  "query": "对于NACT组和对照组，哪些方面的结果呈现出了趋势，但并没有达到统计显著性？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于NACT组和对照组，哪些方面的结果呈现出了趋势，但并没有达到统计显著性？\n\n<reference text>: 7 2$ ( $9 5 \\% \\mathrm { C I } = 0 .5 5 – 0 .9 5$ ), $\\mathrm { \\ p } = 0 .0 2$ , respectively).A non-significant trend was observed in terms of local recurrence, distant recurrence and rates of radical resection in favour of NACT.\n\n<reply>: ",
+  "response": "在NACT组和对照组中，观察到在局部复发、远处复发率以及根治切除率方面存在未达到统计显著性的趋势，有利于NACT组。"
+}

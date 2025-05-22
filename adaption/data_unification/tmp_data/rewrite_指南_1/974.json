@@ -1,0 +1,9 @@
+{
+  "id": 974,
+  "text": "Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "宫颈癌IB1期患者中，最常见的肿瘤大小是约2.4厘米。对于新辅助化疗方案，最常用的是铂类为基础的化疗方案，通常进行三个疗程。",
+  "query": "宫颈癌IB1期患者中，最常见的肿瘤大小是多少？最常用的新辅助化疗方案是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 宫颈癌IB1期患者中，最常见的肿瘤大小是多少？最常用的新辅助化疗方案是什么？\n\n<reference text>: Among the patients with FIGO stage IB1 disease $( 7 5 \\% )$ , $6 1 \\%$ had tumours of $2 { \\cdot } 4 ~ \\mathrm { c m }$ .The most frequently used neoadjuvant regimen was three courses of platinum-based chemotherapy.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "宫颈癌IB1期患者中，最常见的肿瘤大小是约2.4厘米。对于新辅助化疗方案，最常用的是铂类为基础的化疗方案，通常进行三个疗程。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 910,
+  "text": "8万例[15]。几乎 $100 \\%$ 的子宫颈癌、 $88 \\%$ 的肛门癌、 $50 \\%$ 的阴茎癌、 $43 \\%$ 的外阴癌以及口咽癌等肿瘤均与高危型HPV持续性感染有关[16]。低危型HPV感染引起生殖器疣等良性病变，约$90 \\%$ 的生殖器疣由HPV 6/11感染引起[17]。全球生殖器疣患病率（包括新发和复发病例）为（ $1 6 0 \\sim 2 8 9$ ）/10万（中位数为194.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 8万例[15]。几乎 $100 \\%$ 的子宫颈癌、 $88 \\%$ 的肛门癌、 $50 \\%$ 的阴茎癌、 $43 \\%$ 的外阴癌以及口咽癌等肿瘤均与高危型HPV持续性感染有关[16]。低危型HPV感染引起生殖器疣等良性病变，约$90 \\%$ 的生殖器疣由HPV 6/11感染引起[17]。全球生殖器疣患病率（包括新发和复发病例）为（ $1 6 0 \\sim 2 8 9$ ）/10万（中位数为194.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "几乎100%的子宫颈癌与高危型HPV持续性感染密切相关。",
+  "query": "**问题**: 哪些癌症的发生与高危型HPV持续性感染密切相关，其占比是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: **问题**: 哪些癌症的发生与高危型HPV持续性感染密切相关，其占比是多少？\n\n<reference text>: 8万例[15]。几乎 $100 \\%$ 的子宫颈癌、 $88 \\%$ 的肛门癌、 $50 \\%$ 的阴茎癌、 $43 \\%$ 的外阴癌以及口咽癌等肿瘤均与高危型HPV持续性感染有关[16]。低危型HPV感染引起生殖器疣等良性病变，约$90 \\%$ 的生殖器疣由HPV 6/11感染引起[17]。全球生殖器疣患病率（包括新发和复发病例）为（ $1 6 0 \\sim 2 8 9$ ）/10万（中位数为194.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "几乎100%的子宫颈癌与高危型HPV持续性感染密切相关。"
+}

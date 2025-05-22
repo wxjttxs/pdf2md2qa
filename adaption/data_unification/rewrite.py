@@ -47,7 +47,7 @@ class GPT:
             print(api_key, organization)
         if organization == 'None':
             organization = ''
-        url = "https://api.openai.com/v1/chat/completions"
+        url = "https://api.huatuogpt.cn/v1/chat/completions"
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {api_key}",
@@ -98,23 +98,21 @@ class GPT:
 #%%
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_path", type=str, default="pubmed_test.json")
+parser.add_argument("--input_dir", type=str, default="gongjingai_results")
 parser.add_argument("--num_process", type=int, default=200)
+parser.add_argument("--process_mode", type=str, choices=["single_file", "directory"], default="single_file", 
+                    help="Choose 'single_file' to process a single file or 'directory' to process all files in a directory")
 args = parser.parse_args()
 
-# load data
-with open(args.data_path) as f:
-    tmpdata = json.load(f)
-data = []
-for ii,text in enumerate(tmpdata):
-    data.append({'id':ii,'text':text})
-    
-print(f"read data:{len(data)}")
-
+# 设置提示模板和参数
 query_prompt = """Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.
 
 <text>: {}
 
-<question>: """
+<question>: 
+
+**如果text中内容跟宫颈癌无关，跳过**
+"""
 
 ans_prompt = """You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.
 
@@ -122,10 +120,11 @@ ans_prompt = """You are HuatuoGPT-II, equipped with in-depth knowledge in medici
 
 <reference text>: {}
 
+**如果text中内容跟宫颈癌无关，跳过**
+
 <reply>: """
 
-task_name = f'rewrite_{ os.path.split(args.data_path)[-1].replace(".json","")}'
-save_dir = f'tmp_data/{task_name}'
+# 设置其他参数
 query_try_num = 2
 ans_try_num = 2
 q_max_length = 400
@@ -181,7 +180,6 @@ def get_data_ans(d):
 
 wrongtime = 0
 def write_piece_order_data(d):
-    global tmp_data
     global wrongtime
     try:
         save_path = os.path.join(save_dir, str(d['id']) + ".json")
@@ -249,25 +247,142 @@ def merge_files(save_dir):
             print(str(e))
     return res
 
+def process_single_file(data_path):
+    """处理单个文件"""
+    global save_dir
+    
+    # 加载数据
+    with open(data_path) as f:
+        tmpdata = json.load(f)
+    data = []
+    for ii,text in enumerate(tmpdata):
+        data.append({'id':ii,'text':text})
+        
+    print(f"read data:{len(data)}")
+    
+    # 设置输出目录
+    task_name = f'rewrite_{ os.path.split(data_path)[-1].replace(".json","")}'
+    save_dir = f'tmp_data/{task_name}'
+    
+    # 创建输出目录
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir, exist_ok=True)
+        print("Path created at", save_dir)
 
-#  start runing
-if not os.path.exists(save_dir):
-    os.mkdir(save_dir)
-    print("Path created at", save_dir)
+    # 获取已处理的数据
+    finished_data = merge_files(save_dir)
+    print(f'finished_data: {len(finished_data)}')
 
-finished_data = merge_files(save_dir)
-print(f'finished_data: {len(finished_data)}')
+    # 过滤已处理的数据
+    data = deduplicate(data,finished_data)
+    print(f"{len(data)} to be processed")
+    random.shuffle(data)
 
+    # 处理数据
+    with ThreadPoolExecutor(max_workers=args.num_process) as executor:
+        results = list(tqdm(executor.map(write_piece_order_data, data), total=len(data), desc="Processing samples", unit="sample"))
 
-data = deduplicate(data,finished_data)
-print(f"{len(data)} to be processed")
-random.shuffle(data)
+    print(f'finish_')
+    finished_data = merge_files(save_dir)
+    with open(f'{task_name}.json','w') as fw:
+        json.dump(finished_data,fw,ensure_ascii=False,indent=2)
 
-with ThreadPoolExecutor(max_workers=args.num_process) as executor:
-    results = list(tqdm(executor.map(write_piece_order_data, data), total=len(data), desc="Processing samples", unit="sample"))
+def process_directory(input_dir):
+    """处理目录中的所有JSON文件"""
+    global save_dir
+    
+    # 检查输入目录是否存在
+    if not os.path.exists(input_dir):
+        print(f"错误: 输入目录 {input_dir} 不存在!")
+        exit(1)
+    
+    # 获取输入目录中的所有JSON文件
+    json_files = [f for f in os.listdir(input_dir) if f.endswith('.json')]
+    if not json_files:
+        print(f"错误: 输入目录 {input_dir} 中没有找到JSON文件!")
+        exit(1)
+    
+    print(f"找到 {len(json_files)} 个JSON文件")
+    
+    # 处理每个JSON文件
+    for json_file in json_files:
+        print(f"\n处理文件: {json_file}")
+        
+        # 加载数据
+        file_path = os.path.join(input_dir, json_file)
+        with open(file_path, 'r', encoding='utf-8') as f:
+            json_data = json.load(f)
+        
+        # 准备处理数据
+        data = []
+        
+        # 检查是否为列表还是字典，并相应地处理
+        if isinstance(json_data, list):
+            for ii, item in enumerate(json_data):
+                if 'text' in item:
+                    data.append({'id': ii, 'text': item['text']})
+        elif isinstance(json_data, dict):
+            for ii, (key, value) in enumerate(json_data.items()):
+                if isinstance(value, dict) and 'text' in value:
+                    data.append({'id': ii, 'text': value['text']})
+                elif isinstance(value, str):
+                    data.append({'id': ii, 'text': value})
+        else:
+            print(f"警告: {json_file} 的格式不受支持")
+            continue
+        
+        print(f"从 {json_file} 中提取了 {len(data)} 条数据")
+        
+        # 如果没有提取到数据，跳过处理
+        if not len(data):
+            print(f"警告: 从 {json_file} 中未提取到数据，跳过")
+            continue
+        
+        # 设置输出目录和文件名
+        task_name = f'rewrite_{os.path.splitext(json_file)[0]}'
+        save_dir = f'tmp_data/{task_name}'
+        
+        # 创建输出目录
+        if not os.path.exists(save_dir):
+            os.makedirs(save_dir, exist_ok=True)
+            print(f"创建输出目录: {save_dir}")
+        
+        # 检查已处理的数据
+        finished_data = merge_files(save_dir)
+        print(f'已处理数据: {len(finished_data)}')
+        
+        # 排除已处理的数据
+        data = deduplicate(data, finished_data)
+        print(f"{len(data)} 条数据待处理")
+        
+        # 随机打乱数据顺序
+        random.shuffle(data)
+        
+        # 使用多线程处理数据
+        if data:
+            with ThreadPoolExecutor(max_workers=min(args.num_process, len(data))) as executor:
+                results = list(tqdm(executor.map(write_piece_order_data, data), total=len(data), desc=f"处理 {json_file}", unit="sample"))
+            
+            print(f'{json_file} 处理完成')
+            
+            # 合并并保存结果
+            finished_data = merge_files(save_dir)
+            output_file = f'{task_name}.json'
+            with open(output_file,'w', encoding='utf-8') as fw:
+                json.dump(finished_data, fw, ensure_ascii=False, indent=2)
+            print(f'结果已保存至 {output_file}')
+        else:
+            print(f"所有数据已处理完成，无需重新处理")
+    
+    print("所有文件处理完成")
 
-print(f'finish_')
-finished_data = merge_files(save_dir)
-with open(f'{task_name}.json','w') as fw:
-    json.dump(finished_data,fw,ensure_ascii=False,indent=2)
+# 主程序入口
+if __name__ == "__main__":
+    if args.process_mode == "single_file":
+        # 处理单个文件
+        process_single_file(args.data_path)
+    else:
+        # 处理目录中的所有文件
+        input_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), args.input_dir)
+        process_directory(input_dir)
 

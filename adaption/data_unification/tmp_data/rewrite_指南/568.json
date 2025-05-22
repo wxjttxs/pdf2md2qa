@@ -1,0 +1,9 @@
+{
+  "id": 568,
+  "text": "0 0 7 }$ and $\\mathrm { p } < 0 .0 4$ , respectively).In the second one77, the NACT schedule was cisplatin $( 7 5 ~ \\mathrm { m g } / \\mathrm { m } ^ { 2 }$ on day 1) and 5-FU (24 $\\mathrm { m g / k g / d }$ from day 1 to day 5).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 0 7 }$ and $\\mathrm { p } < 0 .0 4$ , respectively).In the second one77, the NACT schedule was cisplatin $( 7 5 ~ \\mathrm { m g } / \\mathrm { m } ^ { 2 }$ on day 1) and 5-FU (24 $\\mathrm { m g / k g / d }$ from day 1 to day 5).\n\n<question>: ",
+  "ChatGPT_response_0": "第一种方案的化疗药物是**XXX**。第二种方案的化疗药物是顺铂和5-氟尿嘧啶。",
+  "query": "第一种方案和第二种方案的化疗药物分别是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 第一种方案和第二种方案的化疗药物分别是什么？\n\n<reference text>: 0 0 7 }$ and $\\mathrm { p } < 0 .0 4$ , respectively).In the second one77, the NACT schedule was cisplatin $( 7 5 ~ \\mathrm { m g } / \\mathrm { m } ^ { 2 }$ on day 1) and 5-FU (24 $\\mathrm { m g / k g / d }$ from day 1 to day 5).\n\n<reply>: ",
+  "response": "第一种方案的化疗药物是**XXX**。第二种方案的化疗药物是顺铂和5-氟尿嘧啶。"
+}

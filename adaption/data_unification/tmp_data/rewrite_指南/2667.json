@@ -1,0 +1,9 @@
+{
+  "id": 2667,
+  "text": "Int $J$ Gynecol Cancer 24, 1306-1311 (2014).477.Schlaerth, J.B., Spirtos, N.M.& Schlaerth, A.C.Radical trachelectomy and pelvic lymphadenectomy with uterine preservation in the treatment of cervical cancer.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Int $J$ Gynecol Cancer 24, 1306-1311 (2014).477.Schlaerth, J.B., Spirtos, N.M.& Schlaerth, A.C.Radical trachelectomy and pelvic lymphadenectomy with uterine preservation in the treatment of cervical cancer.\n\n<question>: ",
+  "ChatGPT_response_0": "您好，治疗宫颈癌时可以考虑采用根治性子宫颈切除术（radical trachelectomy）结合盆腔淋巴结清扫来保留子宫。这种手术方式可以有效治疗宫颈癌，同时保留子宫功能。具体的手术操作需要专业医生根据患者情况来进行详细评估和制定治疗方案。希望能对您有所帮助。",
+  "query": "什么手术方式可以在治疗宫颈癌时保留子宫？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么手术方式可以在治疗宫颈癌时保留子宫？\n\n<reference text>: Int $J$ Gynecol Cancer 24, 1306-1311 (2014).477.Schlaerth, J.B., Spirtos, N.M.& Schlaerth, A.C.Radical trachelectomy and pelvic lymphadenectomy with uterine preservation in the treatment of cervical cancer.\n\n<reply>: ",
+  "response": "您好，治疗宫颈癌时可以考虑采用根治性子宫颈切除术（radical trachelectomy）结合盆腔淋巴结清扫来保留子宫。这种手术方式可以有效治疗宫颈癌，同时保留子宫功能。具体的手术操作需要专业医生根据患者情况来进行详细评估和制定治疗方案。希望能对您有所帮助。"
+}

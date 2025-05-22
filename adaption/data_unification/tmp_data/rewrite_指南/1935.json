@@ -1,0 +1,9 @@
+{
+  "id": 1935,
+  "text": "3</td></tr><tr><td>Tewari et al.1662,1663</td><td>2014</td><td>114</td><td>Cisplatin/paclitaxel</td><td>45</td><td>14.3</td></tr><tr><td>Suprasert et al.1706</td><td>2010</td><td>21</td><td>Cisplatin/topotecan</td><td>28.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 3</td></tr><tr><td>Tewari et al.1662,1663</td><td>2014</td><td>114</td><td>Cisplatin/paclitaxel</td><td>45</td><td>14.3</td></tr><tr><td>Suprasert et al.1706</td><td>2010</td><td>21</td><td>Cisplatin/topotecan</td><td>28.\n\n<question>: ",
+  "ChatGPT_response_0": "这项研究使用了化疗药物顺铂（Cisplatin）和紫杉醇（Paclitaxel）的组合，以及顺铂（Cisplatin）和托泊替康（Topotecan）的组合。在相关研究中，这些药物组合被用于治疗某些疾病，具有一定的疗效和效果。",
+  "query": "这项研究中使用了哪些化疗药物和药物组合？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中使用了哪些化疗药物和药物组合？\n\n<reference text>: 3</td></tr><tr><td>Tewari et al.1662,1663</td><td>2014</td><td>114</td><td>Cisplatin/paclitaxel</td><td>45</td><td>14.3</td></tr><tr><td>Suprasert et al.1706</td><td>2010</td><td>21</td><td>Cisplatin/topotecan</td><td>28.\n\n<reply>: ",
+  "response": "这项研究使用了化疗药物顺铂（Cisplatin）和紫杉醇（Paclitaxel）的组合，以及顺铂（Cisplatin）和托泊替康（Topotecan）的组合。在相关研究中，这些药物组合被用于治疗某些疾病，具有一定的疗效和效果。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 774,
+  "text": "09</td><td>419.34</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html> 2.3 不同 WHO 区域分布“一带一路”沿线国家宫颈癌流行程度分布（表3） 127 个“一带一路”沿线国家中，第I 类中度流行国家共计63 个，占 $4 9 .6 1 \\%$ ，其中非洲区域国家20 个，欧洲22 个，占比较多；第II类低度流行国家41 个，占 $3 2 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 09</td><td>419.34</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html> 2.3 不同 WHO 区域分布“一带一路”沿线国家宫颈癌流行程度分布（表3） 127 个“一带一路”沿线国家中，第I 类中度流行国家共计63 个，占 $4 9 .6 1 \\%$ ，其中非洲区域国家20 个，欧洲22 个，占比较多；第II类低度流行国家41 个，占 $3 2 .\n\n<question>: ",
+  "ChatGPT_response_0": "根据数据，有63个“一带一路”沿线国家被归类为第I类中度流行国家。其中非洲区域国家有20个，欧洲有22个。",
+  "query": "“一带一路”沿线国家中有多少个国家被归类为第I类中度流行国家？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: “一带一路”沿线国家中有多少个国家被归类为第I类中度流行国家？\n\n<reference text>: 09</td><td>419.34</td></tr><tr><td>P值</td><td>0.00</td><td>0.00</td><td>0.00</td></tr></table></body></html> 2.3 不同 WHO 区域分布“一带一路”沿线国家宫颈癌流行程度分布（表3） 127 个“一带一路”沿线国家中，第I 类中度流行国家共计63 个，占 $4 9 .6 1 \\%$ ，其中非洲区域国家20 个，欧洲22 个，占比较多；第II类低度流行国家41 个，占 $3 2 .\n\n<reply>: ",
+  "response": "根据数据，有63个“一带一路”沿线国家被归类为第I类中度流行国家。其中非洲区域国家有20个，欧洲有22个。"
+}

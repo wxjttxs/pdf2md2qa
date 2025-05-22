@@ -1,0 +1,9 @@
+{
+  "id": 437,
+  "text": "Table 8.The proposed changes and classification(s) by the GCIG417 <html><body><table><tr><td>FIGO stage</td><td>Definition</td><td>Proposed staging</td><td>Proposed classification(s)</td></tr><tr><td>IB1</td><td>Clinically visible lesion ≤ 4.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Table 8.The proposed changes and classification(s) by the GCIG417 <html><body><table><tr><td>FIGO stage</td><td>Definition</td><td>Proposed staging</td><td>Proposed classification(s)</td></tr><tr><td>IB1</td><td>Clinically visible lesion ≤ 4.\n\n<question>: ",
+  "ChatGPT_response_0": "IB1阶段的定义是：临床可见的病变≤4。根据GCIG417提出的变化和分类表，IB1阶段提出了新的分期和分类。",
+  "query": "GCIG417提出的变化和分类表中，IB1阶段的定义是什么？提出了哪些分期和分类？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: GCIG417提出的变化和分类表中，IB1阶段的定义是什么？提出了哪些分期和分类？\n\n<reference text>: Table 8.The proposed changes and classification(s) by the GCIG417 <html><body><table><tr><td>FIGO stage</td><td>Definition</td><td>Proposed staging</td><td>Proposed classification(s)</td></tr><tr><td>IB1</td><td>Clinically visible lesion ≤ 4.\n\n<reply>: ",
+  "response": "IB1阶段的定义是：临床可见的病变≤4。根据GCIG417提出的变化和分类表，IB1阶段提出了新的分期和分类。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 291,
+  "text": "5</td><td>70.6</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.(2011)</td></tr><tr><td>Thailand (Songkhla)</td><td>1990-1999</td><td>81.2</td><td>56.3</td><td>15.4</td><td>61.3</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 5</td><td>70.6</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.(2011)</td></tr><tr><td>Thailand (Songkhla)</td><td>1990-1999</td><td>81.2</td><td>56.3</td><td>15.4</td><td>61.3</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.\n\n<question>: ",
+  "ChatGPT_response_0": "在泰国（宋卡府）的数据表明，1990年至1999年的时期，5岁儿童的绝对存活率为61.3%。",
+  "query": "在柟玐你那里，什么时候的数据表明5岁绝对存活率是 61.3？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在柟玐你那里，什么时候的数据表明5岁绝对存活率是 61.3？\n\n<reference text>: 5</td><td>70.6</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.(2011)</td></tr><tr><td>Thailand (Songkhla)</td><td>1990-1999</td><td>81.2</td><td>56.3</td><td>15.4</td><td>61.3</td><td> 5-yr absolute survival</td><td>Sankaranarayanan et al.\n\n<reply>: ",
+  "response": "在泰国（宋卡府）的数据表明，1990年至1999年的时期，5岁儿童的绝对存活率为61.3%。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 45,
+  "text": "# 5.2 Staging # 5.2.1 TNM classification and FIGO ![](images/9cc35bcd1e2753ed1c056e80540b54219d07a0f54f5fffed110a13a921002b27.jpg) Patients with cervical cancer should be staged according to the TNM classification.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # 5.2 Staging # 5.2.1 TNM classification and FIGO ![](images/9cc35bcd1e2753ed1c056e80540b54219d07a0f54f5fffed110a13a921002b27.jpg) Patients with cervical cancer should be staged according to the TNM classification.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "宫颈癌的分期应依据TNM分级系统进行分类。",
+  "query": "宫颈癌的分期应该依据哪种分级系统进行？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 宫颈癌的分期应该依据哪种分级系统进行？\n\n<reference text>: # 5.2 Staging # 5.2.1 TNM classification and FIGO ![](images/9cc35bcd1e2753ed1c056e80540b54219d07a0f54f5fffed110a13a921002b27.jpg) Patients with cervical cancer should be staged according to the TNM classification.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "宫颈癌的分期应依据TNM分级系统进行分类。"
+}

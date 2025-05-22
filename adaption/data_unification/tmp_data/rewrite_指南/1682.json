@@ -1,0 +1,9 @@
+{
+  "id": 1682,
+  "text": "34 (95% CI = 0.12-1.01)</td></tr><tr><td>Nausea and vomiting</td><td>OR = 0.21 (95% CI = 0.13-0.36)</td></tr><tr><td>Leucopenia</td><td>OR = 0.84 (95% CI = 0.48-1.49)</td></tr><tr><td>Thrombocytopenia</td><td>OR = 1.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 34 (95% CI = 0.12-1.01)</td></tr><tr><td>Nausea and vomiting</td><td>OR = 0.21 (95% CI = 0.13-0.36)</td></tr><tr><td>Leucopenia</td><td>OR = 0.84 (95% CI = 0.48-1.49)</td></tr><tr><td>Thrombocytopenia</td><td>OR = 1.\n\n<question>: ",
+  "ChatGPT_response_0": "这项研究中不同副作用所对应的OR值范围包括：恶心和呕吐的OR为0.21（95% CI = 0.13-0.36），白细胞减少的OR为0.84（95% CI = 0.48-1.49），而血小板减少的OR值范围则未具体提及。",
+  "query": "这项研究中各种不同的副作用所对应的 OR 值范围是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中各种不同的副作用所对应的 OR 值范围是多少？\n\n<reference text>: 34 (95% CI = 0.12-1.01)</td></tr><tr><td>Nausea and vomiting</td><td>OR = 0.21 (95% CI = 0.13-0.36)</td></tr><tr><td>Leucopenia</td><td>OR = 0.84 (95% CI = 0.48-1.49)</td></tr><tr><td>Thrombocytopenia</td><td>OR = 1.\n\n<reply>: ",
+  "response": "这项研究中不同副作用所对应的OR值范围包括：恶心和呕吐的OR为0.21（95% CI = 0.13-0.36），白细胞减少的OR为0.84（95% CI = 0.48-1.49），而血小板减少的OR值范围则未具体提及。"
+}

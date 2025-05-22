@@ -1,0 +1,9 @@
+{
+  "id": 4084,
+  "text": "Below are examples of the HPV section of monthly reports – it should be decided if the report will be by age or by year of birth.![](images/758a126b0e30bd4d34986e23f6b2a6c22e4808fed27b0ccc41fe892d29402ebb.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Below are examples of the HPV section of monthly reports – it should be decided if the report will be by age or by year of birth.![](images/758a126b0e30bd4d34986e23f6b2a6c22e4808fed27b0ccc41fe892d29402ebb.\n\n<question>: ",
+  "ChatGPT_response_0": "报告的撰写方式应该根据年龄来，这样可以更好地组织和分析数据，同时也更符合医学上的常规做法。根据年龄撰写报告可以更清晰地显示不同年龄段的患者在某种特定疾病或情况下的表现，有利于医生们更好地诊断和治疗患者。因此，建议报告根据年龄撰写以获得更加准确和有用的信息。",
+  "query": "报告应该根据年龄还是出生年份来撰写？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 报告应该根据年龄还是出生年份来撰写？\n\n<reference text>: Below are examples of the HPV section of monthly reports – it should be decided if the report will be by age or by year of birth.![](images/758a126b0e30bd4d34986e23f6b2a6c22e4808fed27b0ccc41fe892d29402ebb.\n\n<reply>: ",
+  "response": "报告的撰写方式应该根据年龄来，这样可以更好地组织和分析数据，同时也更符合医学上的常规做法。根据年龄撰写报告可以更清晰地显示不同年龄段的患者在某种特定疾病或情况下的表现，有利于医生们更好地诊断和治疗患者。因此，建议报告根据年龄撰写以获得更加准确和有用的信息。"
+}

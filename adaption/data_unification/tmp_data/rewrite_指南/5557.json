@@ -1,0 +1,9 @@
+{
+  "id": 5557,
+  "text": "2nd ed.Geneva：World Health Organization，2014.［4］HULL R，MBELE M，MAKHAFOLA T，et al.Cervical cancer inlow and middle-income countries［J］.Oncol Lett，2020，20（3）：2058-2074.DOI：10.3892/ol.2020.11754.［5］BHATLA N，DENNY L.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2nd ed.Geneva：World Health Organization，2014.［4］HULL R，MBELE M，MAKHAFOLA T，et al.Cervical cancer inlow and middle-income countries［J］.Oncol Lett，2020，20（3）：2058-2074.DOI：10.3892/ol.2020.11754.［5］BHATLA N，DENNY L.\n\n<question>: ",
+  "ChatGPT_response_0": "这篇文献讨论了低收入和中等收入国家的宫颈癌情况。",
+  "query": "这篇文献讨论了哪些国家或地区的宫颈癌情况？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这篇文献讨论了哪些国家或地区的宫颈癌情况？\n\n<reference text>: 2nd ed.Geneva：World Health Organization，2014.［4］HULL R，MBELE M，MAKHAFOLA T，et al.Cervical cancer inlow and middle-income countries［J］.Oncol Lett，2020，20（3）：2058-2074.DOI：10.3892/ol.2020.11754.［5］BHATLA N，DENNY L.\n\n<reply>: ",
+  "response": "这篇文献讨论了低收入和中等收入国家的宫颈癌情况。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 844,
+  "text": "International Journal of Cancer, 131, 2929-2938.https://doi.org/10.1002/ijc.27571 [20] Han, B., Zheng, R., Zeng, H., Wang, S., Sun, K., Chen, R., et al.(2024) Cancer Incidence and Mortality in China, 2022.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: International Journal of Cancer, 131, 2929-2938.https://doi.org/10.1002/ijc.27571 [20] Han, B., Zheng, R., Zeng, H., Wang, S., Sun, K., Chen, R., et al.(2024) Cancer Incidence and Mortality in China, 2022.\n\n<question>: ",
+  "ChatGPT_response_0": "根据2022年的《中国2022年癌症发病率和死亡率》一文指出，中国在2022年的癌症发病率和死亡率是取决于不同癌症类型及地区。具体数字可能会因地区、年龄、性别等因素而有所不同。如果需要更具体的数据，建议查阅该研究以获取更详细的信息。",
+  "query": "中國2022年的癌症發生率和死亡率是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 中國2022年的癌症發生率和死亡率是多少？\n\n<reference text>: International Journal of Cancer, 131, 2929-2938.https://doi.org/10.1002/ijc.27571 [20] Han, B., Zheng, R., Zeng, H., Wang, S., Sun, K., Chen, R., et al.(2024) Cancer Incidence and Mortality in China, 2022.\n\n<reply>: ",
+  "response": "根据2022年的《中国2022年癌症发病率和死亡率》一文指出，中国在2022年的癌症发病率和死亡率是取决于不同癌症类型及地区。具体数字可能会因地区、年龄、性别等因素而有所不同。如果需要更具体的数据，建议查阅该研究以获取更详细的信息。"
+}

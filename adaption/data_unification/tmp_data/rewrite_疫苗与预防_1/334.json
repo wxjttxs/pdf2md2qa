@@ -1,0 +1,9 @@
+{
+  "id": 334,
+  "text": "3.\u0007 宫颈癌：我们能够克服的非传染性疾病》。世卫组织总干事发言，2018年5月18日。日内瓦：世界卫生组织；2018 年（https://www.who.int/dg/speeches/detail/cervical-cancer-an-ncd-we-can-overcome，2020年10月2日 访问）。4.\u0007Resolution adopted by the Human Rights Council on 26 September 2019.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 3.\u0007 宫颈癌：我们能够克服的非传染性疾病》。世卫组织总干事发言，2018年5月18日。日内瓦：世界卫生组织；2018 年（https://www.who.int/dg/speeches/detail/cervical-cancer-an-ncd-we-can-overcome，2020年10月2日 访问）。4.\u0007Resolution adopted by the Human Rights Council on 26 September 2019.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "在2018年5月底，世界卫生组织总干事在公开场合发表了关于宫颈癌的讲话。",
+  "query": "哪些国际组织的领导人在2018年5月底提到过关于宫颈癌的公开讲话？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪些国际组织的领导人在2018年5月底提到过关于宫颈癌的公开讲话？\n\n<reference text>: 3.\u0007 宫颈癌：我们能够克服的非传染性疾病》。世卫组织总干事发言，2018年5月18日。日内瓦：世界卫生组织；2018 年（https://www.who.int/dg/speeches/detail/cervical-cancer-an-ncd-we-can-overcome，2020年10月2日 访问）。4.\u0007Resolution adopted by the Human Rights Council on 26 September 2019.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "在2018年5月底，世界卫生组织总干事在公开场合发表了关于宫颈癌的讲话。"
+}

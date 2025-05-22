@@ -1,0 +1,9 @@
+{
+  "id": 3906,
+  "text": "g-i-n.net/</td></tr><tr><td>HAS</td><td>http://www.has-sante.fr/portail/jcms/fc_1249588/fr/accueil</td></tr><tr><td>INAHTA</td><td>http://www.inahta.org/</td></tr><tr><td>INESSS</td><td>http://www.inesss.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: g-i-n.net/</td></tr><tr><td>HAS</td><td>http://www.has-sante.fr/portail/jcms/fc_1249588/fr/accueil</td></tr><tr><td>INAHTA</td><td>http://www.inahta.org/</td></tr><tr><td>INESSS</td><td>http://www.inesss.\n\n<question>: ",
+  "ChatGPT_response_0": "这些链接是用于获取医学信息的，其中包括指南制订、医疗评估以及卫生技术评估等方面的相关内容。通过访问这些链接，您可以获得有关最新医学研究成果、临床实践指南和卫生技术评估的信息，有助于提高医疗保健质量、决策和实践的水平。",
+  "query": "这些链接是用于哪种类型的信息获取的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些链接是用于哪种类型的信息获取的？\n\n<reference text>: g-i-n.net/</td></tr><tr><td>HAS</td><td>http://www.has-sante.fr/portail/jcms/fc_1249588/fr/accueil</td></tr><tr><td>INAHTA</td><td>http://www.inahta.org/</td></tr><tr><td>INESSS</td><td>http://www.inesss.\n\n<reply>: ",
+  "response": "这些链接是用于获取医学信息的，其中包括指南制订、医疗评估以及卫生技术评估等方面的相关内容。通过访问这些链接，您可以获得有关最新医学研究成果、临床实践指南和卫生技术评估的信息，有助于提高医疗保健质量、决策和实践的水平。"
+}

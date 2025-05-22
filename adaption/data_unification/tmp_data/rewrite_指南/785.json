@@ -1,0 +1,9 @@
+{
+  "id": 785,
+  "text": "Systematic LN dissection should include the removal of lymphatic tissue from regions with the most frequent occurrence of positive LNs (SNs) including obturator fossa, external iliac regions, common iliac regions bilaterally, and presacral region.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Systematic LN dissection should include the removal of lymphatic tissue from regions with the most frequent occurrence of positive LNs (SNs) including obturator fossa, external iliac regions, common iliac regions bilaterally, and presacral region.\n\n<question>: ",
+  "ChatGPT_response_0": "系统性LN清扫通常包括从经常出现阳性LN（SNs）的区域移除淋巴组织，这些区域包括髂窝、外髂区、双侧的髂总区和前骶区。",
+  "query": "系统性LN清扫应包括哪些区域的淋巴组织移除？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 系统性LN清扫应包括哪些区域的淋巴组织移除？\n\n<reference text>: Systematic LN dissection should include the removal of lymphatic tissue from regions with the most frequent occurrence of positive LNs (SNs) including obturator fossa, external iliac regions, common iliac regions bilaterally, and presacral region.\n\n<reply>: ",
+  "response": "系统性LN清扫通常包括从经常出现阳性LN（SNs）的区域移除淋巴组织，这些区域包括髂窝、外髂区、双侧的髂总区和前骶区。"
+}

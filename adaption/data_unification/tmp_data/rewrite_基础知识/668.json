@@ -1,0 +1,9 @@
+{
+  "id": 668,
+  "text": "The survey received approval from the WHO Ethics Review Committee and was run in English and French from 22 June to 18 September 2020.Awareness of the survey had been raised among a wide range of civil society groups through a webinar.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: The survey received approval from the WHO Ethics Review Committee and was run in English and French from 22 June to 18 September 2020.Awareness of the survey had been raised among a wide range of civil society groups through a webinar.\n\n<question>: ",
+  "ChatGPT_response_0": "该调查是以英语和法语进行的，时间段是从2020年6月22日到9月18日。这项调查得到世界卫生组织伦理审查委员会的批准，并通过网络研讨会向广泛的民间社会团体提高了调查的知名度。",
+  "query": "这项调查是否在何种语言以及哪个时间段内进行？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项调查是否在何种语言以及哪个时间段内进行？\n\n<reference text>: The survey received approval from the WHO Ethics Review Committee and was run in English and French from 22 June to 18 September 2020.Awareness of the survey had been raised among a wide range of civil society groups through a webinar.\n\n<reply>: ",
+  "response": "该调查是以英语和法语进行的，时间段是从2020年6月22日到9月18日。这项调查得到世界卫生组织伦理审查委员会的批准，并通过网络研讨会向广泛的民间社会团体提高了调查的知名度。"
+}

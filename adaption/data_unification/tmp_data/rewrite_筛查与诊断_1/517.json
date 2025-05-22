@@ -1,0 +1,9 @@
+{
+  "id": 517,
+  "text": "[](images/e3b57efe3db38c1b9276b15521e6d3449f3e654faf577f461c84930f7602ff4f.jpg) # NCCN Guidelines Version 3.2024 Cervical Cancer # Updates in Version 1.2024 of the NCCN Guidelines for Cervical Cancer from Version 1.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: [](images/e3b57efe3db38c1b9276b15521e6d3449f3e654faf577f461c84930f7602ff4f.jpg) # NCCN Guidelines Version 3.2024 Cervical Cancer # Updates in Version 1.2024 of the NCCN Guidelines for Cervical Cancer from Version 1.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "很抱歉，我无法提供关于2024年NCCN宫颈癌指南更新的具体信息。如果您有任何其他问题或需要有关宫颈癌治疗的一般信息，请随时告诉我。",
+  "query": "请问NCCN 2024年关于宫颈癌的指南更新了哪些内容？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 请问NCCN 2024年关于宫颈癌的指南更新了哪些内容？\n\n<reference text>: [](images/e3b57efe3db38c1b9276b15521e6d3449f3e654faf577f461c84930f7602ff4f.jpg) # NCCN Guidelines Version 3.2024 Cervical Cancer # Updates in Version 1.2024 of the NCCN Guidelines for Cervical Cancer from Version 1.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "很抱歉，我无法提供关于2024年NCCN宫颈癌指南更新的具体信息。如果您有任何其他问题或需要有关宫颈癌治疗的一般信息，请随时告诉我。"
+}

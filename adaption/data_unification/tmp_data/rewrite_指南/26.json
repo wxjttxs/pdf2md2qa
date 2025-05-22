@@ -1,0 +1,9 @@
+{
+  "id": 26,
+  "text": "ESGO also wishes to express sincere gratitude to the Institut national du cancer (France) for providing the main funding for this work.# 3 Method The guidelines were developed using a five-step process (see Figure 1).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ESGO also wishes to express sincere gratitude to the Institut national du cancer (France) for providing the main funding for this work.# 3 Method The guidelines were developed using a five-step process (see Figure 1).\n\n<question>: ",
+  "ChatGPT_response_0": "是的，法国癌症国家研究所提供的主要资助对我的工作产生了积极影响。该合作帮助我在开展研究工作时获得了必要的资金支持，进而促进了医学领域的发展。感谢该机构在这方面的支持，让我们能够更好地推动癌症研究的进展。",
+  "query": "这项工作的主要资助来自法国癌症国家研究所，是否这种合作对您的工作产生了积极影响？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项工作的主要资助来自法国癌症国家研究所，是否这种合作对您的工作产生了积极影响？\n\n<reference text>: ESGO also wishes to express sincere gratitude to the Institut national du cancer (France) for providing the main funding for this work.# 3 Method The guidelines were developed using a five-step process (see Figure 1).\n\n<reply>: ",
+  "response": "是的，法国癌症国家研究所提供的主要资助对我的工作产生了积极影响。该合作帮助我在开展研究工作时获得了必要的资金支持，进而促进了医学领域的发展。感谢该机构在这方面的支持，让我们能够更好地推动癌症研究的进展。"
+}

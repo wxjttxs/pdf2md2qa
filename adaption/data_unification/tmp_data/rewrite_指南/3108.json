@@ -1,0 +1,9 @@
+{
+  "id": 3108,
+  "text": "1025.Briery, C., et al.Women with prolonged premature rupture of the membrane do not benefit from weekly progesterone: a randomized clinical trial.Am J Obstet Gynecol 201, S189 (2009).1026.Briery, C.M.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1025.Briery, C., et al.Women with prolonged premature rupture of the membrane do not benefit from weekly progesterone: a randomized clinical trial.Am J Obstet Gynecol 201, S189 (2009).1026.Briery, C.M.\n\n<question>: ",
+  "ChatGPT_response_0": "根据相关研究，对于早破膜后的妇女来说，每周使用孕酮可能并不会有益处。在一项随机临床试验中发现，对于拥有持续早破膜的妇女而言，每周使用孕酮并未带来明显好处。因此，这种治疗方式可能并不适用于这种情况。建议妇女在使用任何药物或治疗方法之前，应当咨询医生以获得专业建议。",
+  "query": "在早破膜后，是否每周使用孕酮对妇女有益？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在早破膜后，是否每周使用孕酮对妇女有益？\n\n<reference text>: 1025.Briery, C., et al.Women with prolonged premature rupture of the membrane do not benefit from weekly progesterone: a randomized clinical trial.Am J Obstet Gynecol 201, S189 (2009).1026.Briery, C.M.\n\n<reply>: ",
+  "response": "根据相关研究，对于早破膜后的妇女来说，每周使用孕酮可能并不会有益处。在一项随机临床试验中发现，对于拥有持续早破膜的妇女而言，每周使用孕酮并未带来明显好处。因此，这种治疗方式可能并不适用于这种情况。建议妇女在使用任何药物或治疗方法之前，应当咨询医生以获得专业建议。"
+}

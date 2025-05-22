@@ -1,0 +1,9 @@
+{
+  "id": 687,
+  "text": "Lancet Glob Health 2015;​3(2):​e85-e94.11.Cervical cancer screening.IARC handbooks of cancer prevention.Vol.18.Lyon, France:​International Agency for Research on Cancer (in press).12.Sankaranarayanan R, Nene BM, Dinshaw KA, et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Lancet Glob Health 2015;​3(2):​e85-e94.11.Cervical cancer screening.IARC handbooks of cancer prevention.Vol.18.Lyon, France:​International Agency for Research on Cancer (in press).12.Sankaranarayanan R, Nene BM, Dinshaw KA, et al.\n\n<question>: ",
+  "ChatGPT_response_0": "国际癌症研究机构（IARC）负责发行《癌症预防IARC手册》。",
+  "query": "哪个机构负责发行《癌症预防IARC手册》？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪个机构负责发行《癌症预防IARC手册》？\n\n<reference text>: Lancet Glob Health 2015;​3(2):​e85-e94.11.Cervical cancer screening.IARC handbooks of cancer prevention.Vol.18.Lyon, France:​International Agency for Research on Cancer (in press).12.Sankaranarayanan R, Nene BM, Dinshaw KA, et al.\n\n<reply>: ",
+  "response": "国际癌症研究机构（IARC）负责发行《癌症预防IARC手册》。"
+}

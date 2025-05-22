@@ -1,0 +1,9 @@
+{
+  "id": 35,
+  "text": "jpg) 10型HPV流行率的累积比例 Cumulative proportion of ICC associated Top 10 prevalent HPV types <html><body><table><tr><td>16</td><td>医院和人群 HPV % 62.5</td></tr><tr><td></td><td>18 12.4 58 8.6</td></tr><tr><td>52</td><td>5.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: jpg) 10型HPV流行率的累积比例 Cumulative proportion of ICC associated Top 10 prevalent HPV types <html><body><table><tr><td>16</td><td>医院和人群 HPV % 62.5</td></tr><tr><td></td><td>18 12.4 58 8.6</td></tr><tr><td>52</td><td>5.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "根据数据显示，在宫颈癌病例中最为常见的HPV类型是 HPV 16和HPV 18。这两种类型的HPV在宫颈癌中具有高度的流行率，是主要的致病因素。",
+  "query": "根据数据显示，哪些HPV类型在宫颈癌病例中最为常见？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 根据数据显示，哪些HPV类型在宫颈癌病例中最为常见？\n\n<reference text>: jpg) 10型HPV流行率的累积比例 Cumulative proportion of ICC associated Top 10 prevalent HPV types <html><body><table><tr><td>16</td><td>医院和人群 HPV % 62.5</td></tr><tr><td></td><td>18 12.4 58 8.6</td></tr><tr><td>52</td><td>5.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "根据数据显示，在宫颈癌病例中最为常见的HPV类型是 HPV 16和HPV 18。这两种类型的HPV在宫颈癌中具有高度的流行率，是主要的致病因素。"
+}

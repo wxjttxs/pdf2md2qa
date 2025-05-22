@@ -1,0 +1,9 @@
+{
+  "id": 499,
+  "text": "2024).Last updated on May 06, 2024</td><td>Locoregional Recurrence.</td></tr><tr><td>Overview..</td><td>MS-23 Therapy for MetastaticDisease.....MS-24 MS-2</td></tr><tr><td> Guidelines Update Methodology.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2024).Last updated on May 06, 2024</td><td>Locoregional Recurrence.</td></tr><tr><td>Overview..</td><td>MS-23 Therapy for MetastaticDisease.....MS-24 MS-2</td></tr><tr><td> Guidelines Update Methodology.\n\n<question>: ",
+  "ChatGPT_response_0": "治疗指南已经进行过更新。在局部复发的情况下，医学界通常会根据最新的研究和临床实践调整治疗指南，以确保患者获得最佳的治疗效果。因此，及时了解最新的指南是非常重要的，以便医生能够根据最新的信息为患者提供最有效的治疗方案。",
+  "query": "2024). 上一次更新时间为2024年5月6日。在局部复发的情况下，治疗指南是否进行了更新？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 2024). 上一次更新时间为2024年5月6日。在局部复发的情况下，治疗指南是否进行了更新？\n\n<reference text>: 2024).Last updated on May 06, 2024</td><td>Locoregional Recurrence.</td></tr><tr><td>Overview..</td><td>MS-23 Therapy for MetastaticDisease.....MS-24 MS-2</td></tr><tr><td> Guidelines Update Methodology.\n\n<reply>: ",
+  "response": "治疗指南已经进行过更新。在局部复发的情况下，医学界通常会根据最新的研究和临床实践调整治疗指南，以确保患者获得最佳的治疗效果。因此，及时了解最新的指南是非常重要的，以便医生能够根据最新的信息为患者提供最有效的治疗方案。"
+}

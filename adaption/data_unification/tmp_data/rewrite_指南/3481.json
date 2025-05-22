@@ -1,0 +1,9 @@
+{
+  "id": 3481,
+  "text": "J Guangdong Med 35, 761 (2014).1452.Wang, H.J.& Shu, C.R.Irinotecan combined with radiotherapy for locally advanced cervical carcinoma.$J$ Nanchang Univ (Med Sci) 52, 52-57 (2012).1453.Sebastiao, A.M., et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: J Guangdong Med 35, 761 (2014).1452.Wang, H.J.& Shu, C.R.Irinotecan combined with radiotherapy for locally advanced cervical carcinoma.$J$ Nanchang Univ (Med Sci) 52, 52-57 (2012).1453.Sebastiao, A.M., et al.\n\n<question>: ",
+  "ChatGPT_response_0": "广东医学杂志2014年第35期第761页和南昌大学医学院学报2012年第52期第52页都提到了伊立替康联合放疗治疗局部晚期宫颈癌的疗法。",
+  "query": "广东医学杂志2014年第35期第761页与南昌大学医学院学报2012年第52期第52页都提到了哪种治疗方式？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 广东医学杂志2014年第35期第761页与南昌大学医学院学报2012年第52期第52页都提到了哪种治疗方式？\n\n<reference text>: J Guangdong Med 35, 761 (2014).1452.Wang, H.J.& Shu, C.R.Irinotecan combined with radiotherapy for locally advanced cervical carcinoma.$J$ Nanchang Univ (Med Sci) 52, 52-57 (2012).1453.Sebastiao, A.M., et al.\n\n<reply>: ",
+  "response": "广东医学杂志2014年第35期第761页和南昌大学医学院学报2012年第52期第52页都提到了伊立替康联合放疗治疗局部晚期宫颈癌的疗法。"
+}

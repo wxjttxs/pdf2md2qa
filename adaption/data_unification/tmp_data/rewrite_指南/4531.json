@@ -1,0 +1,9 @@
+{
+  "id": 4531,
+  "text": "Geneva: World Health Organization: 2020 (https://apps.who.int/iris/handle/10665/336668).18.WHO handbook for guideline development, second edition.Geneva: World Health Organization; 2014 (https://apps.who.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Geneva: World Health Organization: 2020 (https://apps.who.int/iris/handle/10665/336668).18.WHO handbook for guideline development, second edition.Geneva: World Health Organization; 2014 (https://apps.who.\n\n<question>: ",
+  "ChatGPT_response_0": "世界卫生组织的指南制定手册第二版于2014年发行。您可以在该手册中找到有关指导方针制定的详细信息。",
+  "query": "你知不知道世界卫生组织在什么时候发行的指南制定手册第二版？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 你知不知道世界卫生组织在什么时候发行的指南制定手册第二版？\n\n<reference text>: Geneva: World Health Organization: 2020 (https://apps.who.int/iris/handle/10665/336668).18.WHO handbook for guideline development, second edition.Geneva: World Health Organization; 2014 (https://apps.who.\n\n<reply>: ",
+  "response": "世界卫生组织的指南制定手册第二版于2014年发行。您可以在该手册中找到有关指导方针制定的详细信息。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1363,
+  "text": "腹水腹部或骨盆内的异常积液。# 活检 取一小部分组织或液体以检查是否有疾病。# 双侧输卵管卵巢切除术 (BSO) 切除双侧卵巢和双侧输卵管的手术。# 近距离放疗 一种放疗，将密封在针、种状物、线、筒或导管中的放射性物质直接放入肿瘤内或肿瘤附近。也称为体内放疗。# 癌症抗原 125 (CA-125) 血液中这种物质含量高可能意味着子宫内膜癌已扩散到子宫以外。# 癌症等级 对异常癌细胞在显微镜下的外观进行的评级。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 腹水腹部或骨盆内的异常积液。# 活检 取一小部分组织或液体以检查是否有疾病。# 双侧输卵管卵巢切除术 (BSO) 切除双侧卵巢和双侧输卵管的手术。# 近距离放疗 一种放疗，将密封在针、种状物、线、筒或导管中的放射性物质直接放入肿瘤内或肿瘤附近。也称为体内放疗。# 癌症抗原 125 (CA-125) 血液中这种物质含量高可能意味着子宫内膜癌已扩散到子宫以外。# 癌症等级 对异常癌细胞在显微镜下的外观进行的评级。\n\n<question>: ",
+  "ChatGPT_response_0": "癌症抗原125（CA-125）是一种被用来检测子宫内膜癌扩散到子宫以外的标志物。它是一种特定的蛋白质，在血液中的高含量可能表明患者存在潜在的癌症情况。在临床实践中，检测CA-125的水平可以协助医生进行癌症的诊断和监测。建议在专业医疗机构进行相关检测以获得准确的诊断和治疗方案。",
+  "query": "什么是癌症抗原125（CA-125）？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是癌症抗原125（CA-125）？\n\n<reference text>: 腹水腹部或骨盆内的异常积液。# 活检 取一小部分组织或液体以检查是否有疾病。# 双侧输卵管卵巢切除术 (BSO) 切除双侧卵巢和双侧输卵管的手术。# 近距离放疗 一种放疗，将密封在针、种状物、线、筒或导管中的放射性物质直接放入肿瘤内或肿瘤附近。也称为体内放疗。# 癌症抗原 125 (CA-125) 血液中这种物质含量高可能意味着子宫内膜癌已扩散到子宫以外。# 癌症等级 对异常癌细胞在显微镜下的外观进行的评级。\n\n<reply>: ",
+  "response": "癌症抗原125（CA-125）是一种被用来检测子宫内膜癌扩散到子宫以外的标志物。它是一种特定的蛋白质，在血液中的高含量可能表明患者存在潜在的癌症情况。在临床实践中，检测CA-125的水平可以协助医生进行癌症的诊断和监测。建议在专业医疗机构进行相关检测以获得准确的诊断和治疗方案。"
+}

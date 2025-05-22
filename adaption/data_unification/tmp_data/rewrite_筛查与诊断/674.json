@@ -1,0 +1,9 @@
+{
+  "id": 674,
+  "text": "W., M.Schiffman); Pub‑ lic Health England and Screening, London (A.M.); Amsterdam University Medical Centers, Amsterdam (J.Berkhof); VCS Foun‑ dation, Melbourne, VIC (J.Brotherton), Australia; Azienda Unità Sanitaria Locale — IRCCS Reggio Emilia, Reggio Emilia, Italy (P.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: W., M.Schiffman); Pub‑ lic Health England and Screening, London (A.M.); Amsterdam University Medical Centers, Amsterdam (J.Berkhof); VCS Foun‑ dation, Melbourne, VIC (J.Brotherton), Australia; Azienda Unità Sanitaria Locale — IRCCS Reggio Emilia, Reggio Emilia, Italy (P.\n\n<question>: ",
+  "ChatGPT_response_0": "在伦敦进行检查的是Public Health England与Screening机构。",
+  "query": "谁是在伦敦进行检查的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 谁是在伦敦进行检查的？\n\n<reference text>: W., M.Schiffman); Pub‑ lic Health England and Screening, London (A.M.); Amsterdam University Medical Centers, Amsterdam (J.Berkhof); VCS Foun‑ dation, Melbourne, VIC (J.Brotherton), Australia; Azienda Unità Sanitaria Locale — IRCCS Reggio Emilia, Reggio Emilia, Italy (P.\n\n<reply>: ",
+  "response": "在伦敦进行检查的是Public Health England与Screening机构。"
+}

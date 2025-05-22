@@ -1,0 +1,9 @@
+{
+  "id": 1901,
+  "text": "1594</td><td>2001</td><td>43</td><td>Topotecan</td><td>18.6</td><td>6.4</td></tr><tr><td>Bookman et al.1593</td><td>2000</td><td>41</td><td>Topotecan</td><td>12.5</td><td>6.6</td></tr><tr><td>Abu-Rustum et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1594</td><td>2001</td><td>43</td><td>Topotecan</td><td>18.6</td><td>6.4</td></tr><tr><td>Bookman et al.1593</td><td>2000</td><td>41</td><td>Topotecan</td><td>12.5</td><td>6.6</td></tr><tr><td>Abu-Rustum et al.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究显示，Topotecan显示出更好的疗效，其中有研究结果显示其生存率为18.6个月，另一项研究显示其生存率为12.5个月。因此，从这些数据来看，Topotecan在治疗中显示出更好的效果。",
+  "query": "这些研究中，哪种药物显示了更好的疗效？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些研究中，哪种药物显示了更好的疗效？\n\n<reference text>: 1594</td><td>2001</td><td>43</td><td>Topotecan</td><td>18.6</td><td>6.4</td></tr><tr><td>Bookman et al.1593</td><td>2000</td><td>41</td><td>Topotecan</td><td>12.5</td><td>6.6</td></tr><tr><td>Abu-Rustum et al.\n\n<reply>: ",
+  "response": "根据研究显示，Topotecan显示出更好的疗效，其中有研究结果显示其生存率为18.6个月，另一项研究显示其生存率为12.5个月。因此，从这些数据来看，Topotecan在治疗中显示出更好的效果。"
+}

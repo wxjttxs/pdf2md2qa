@@ -1,0 +1,9 @@
+{
+  "id": 4827,
+  "text": "https:/ / www.cdc.gov / vaccines / pubs / surv￣manual / chpt05￣hpv.html.[4] World Health Organization.Human papillomavirus vaccines: WHO position paperꎬ May 2017￣Recommendations [ J ].Vaccineꎬ 2017ꎬ 35: 5753￣ 5755.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: https:/ / www.cdc.gov / vaccines / pubs / surv￣manual / chpt05￣hpv.html.[4] World Health Organization.Human papillomavirus vaccines: WHO position paperꎬ May 2017￣Recommendations [ J ].Vaccineꎬ 2017ꎬ 35: 5753￣ 5755.\n\n<question>: ",
+  "ChatGPT_response_0": "人乳头瘤病毒疫苗是预防感染人乳头瘤病毒（HPV）的有效工具。该病毒与宫颈癌等多种癌症相关联。世界卫生组织推荐接种HPV疫苗作为预防措施，尤其是在青春期接种可提供长期保护。疫苗的接种计划和剂量应遵循相关指南。如果您有任何疑问或需要更多信息，建议咨询医疗专业人士。",
+  "query": "您对人乳头瘤病毒疫苗的了解如何？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 您对人乳头瘤病毒疫苗的了解如何？\n\n<reference text>: https:/ / www.cdc.gov / vaccines / pubs / surv￣manual / chpt05￣hpv.html.[4] World Health Organization.Human papillomavirus vaccines: WHO position paperꎬ May 2017￣Recommendations [ J ].Vaccineꎬ 2017ꎬ 35: 5753￣ 5755.\n\n<reply>: ",
+  "response": "人乳头瘤病毒疫苗是预防感染人乳头瘤病毒（HPV）的有效工具。该病毒与宫颈癌等多种癌症相关联。世界卫生组织推荐接种HPV疫苗作为预防措施，尤其是在青春期接种可提供长期保护。疫苗的接种计划和剂量应遵循相关指南。如果您有任何疑问或需要更多信息，建议咨询医疗专业人士。"
+}

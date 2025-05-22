@@ -1,0 +1,9 @@
+{
+  "id": 449,
+  "text": "2% versus 3.7%, p = 0.002).</td></tr><tr><td>Fifteen original studies82,467,469-481 not included in the study published by Hou et al.427 and LoE 2- presenting data on LN involvement in IA1 and/or IA2 patients were identified (Table 9, Table 10).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2% versus 3.7%, p = 0.002).</td></tr><tr><td>Fifteen original studies82,467,469-481 not included in the study published by Hou et al.427 and LoE 2- presenting data on LN involvement in IA1 and/or IA2 patients were identified (Table 9, Table 10).\n\n<question>: ",
+  "ChatGPT_response_0": "在这些研究中，涉及癌症病人淋巴结转移的情况分析了15例。",
+  "query": "在这些研究中，原始资料中涉及癌症病人淋巴结转移的情况分析了多少例？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在这些研究中，原始资料中涉及癌症病人淋巴结转移的情况分析了多少例？\n\n<reference text>: 2% versus 3.7%, p = 0.002).</td></tr><tr><td>Fifteen original studies82,467,469-481 not included in the study published by Hou et al.427 and LoE 2- presenting data on LN involvement in IA1 and/or IA2 patients were identified (Table 9, Table 10).\n\n<reply>: ",
+  "response": "在这些研究中，涉及癌症病人淋巴结转移的情况分析了15例。"
+}

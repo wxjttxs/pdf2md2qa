@@ -1,0 +1,9 @@
+{
+  "id": 567,
+  "text": "![](images/d528742cb59584f3c41ff9d951ee102c6394f72c8865047bf7177f28bec9bdff.jpg) In May 2018, the World Health Organization (WHO) called for a global initiative to eliminate cervical cancer as a public health problem.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ![](images/d528742cb59584f3c41ff9d951ee102c6394f72c8865047bf7177f28bec9bdff.jpg) In May 2018, the World Health Organization (WHO) called for a global initiative to eliminate cervical cancer as a public health problem.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "在2018年5月，世界卫生组织号召全球采取措施以消除宫颈癌作为公共健康问题。",
+  "query": "世界卫生组织在2018年5月号召全球采取措施消除某种公共健康问题，请问这个问题是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 世界卫生组织在2018年5月号召全球采取措施消除某种公共健康问题，请问这个问题是什么？\n\n<reference text>: ![](images/d528742cb59584f3c41ff9d951ee102c6394f72c8865047bf7177f28bec9bdff.jpg) In May 2018, the World Health Organization (WHO) called for a global initiative to eliminate cervical cancer as a public health problem.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "在2018年5月，世界卫生组织号召全球采取措施以消除宫颈癌作为公共健康问题。"
+}

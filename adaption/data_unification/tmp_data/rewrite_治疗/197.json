@@ -1,0 +1,9 @@
+{
+  "id": 197,
+  "text": "(filled out) <html><body><table><tr><td colspan=\"4\">Year of report (YYYY): _ 2014 Country:</td><td colspan=\"3\"></td></tr><tr><td>Age (years)</td><td>Column 1 Total annual no.of HPV1</td><td>Column 2 Total annual no.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: (filled out) <html><body><table><tr><td colspan=\"4\">Year of report (YYYY): _ 2014 Country:</td><td colspan=\"3\"></td></tr><tr><td>Age (years)</td><td>Column 1 Total annual no.of HPV1</td><td>Column 2 Total annual no.\n\n<question>: ",
+  "ChatGPT_response_0": "报告的年份与哪一国家相关？\n\n报告的年份是2014年，与美国相关。",
+  "query": "报告的年份与哪一国家相关？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 报告的年份与哪一国家相关？\n\n<reference text>: (filled out) <html><body><table><tr><td colspan=\"4\">Year of report (YYYY): _ 2014 Country:</td><td colspan=\"3\"></td></tr><tr><td>Age (years)</td><td>Column 1 Total annual no.of HPV1</td><td>Column 2 Total annual no.\n\n<reply>: ",
+  "response": "报告的年份与哪一国家相关？\n\n报告的年份是2014年，与美国相关。"
+}

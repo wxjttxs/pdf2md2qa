@@ -1,0 +1,9 @@
+{
+  "id": 96,
+  "text": "1</td><td>1.0</td><td>Not attributable</td></tr><tr><td>HPV66</td><td>α-6</td><td>Group 2B</td><td>0.3</td><td>0.6</td><td>0.4</td><td>Not attributable</td></tr><tr><td>HPV70</td><td>α-7</td><td>Group 2B </td><td>0.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1</td><td>1.0</td><td>Not attributable</td></tr><tr><td>HPV66</td><td>α-6</td><td>Group 2B</td><td>0.3</td><td>0.6</td><td>0.4</td><td>Not attributable</td></tr><tr><td>HPV70</td><td>α-7</td><td>Group 2B </td><td>0.\n\n<question>: ",
+  "ChatGPT_response_0": "HPV66属于α-6组，病毒组别为2B；而HPV70属于α-7组，病毒组别也为2B。在研究中显示这两种病毒与某些疾病有关，然而具体相关性需要进一步深入研究和了解。对于这些病毒组别的了解有助于预防和管理相关疾病。",
+  "query": "什么是HPV66和HPV70的病毒组别?",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是HPV66和HPV70的病毒组别?\n\n<reference text>: 1</td><td>1.0</td><td>Not attributable</td></tr><tr><td>HPV66</td><td>α-6</td><td>Group 2B</td><td>0.3</td><td>0.6</td><td>0.4</td><td>Not attributable</td></tr><tr><td>HPV70</td><td>α-7</td><td>Group 2B </td><td>0.\n\n<reply>: ",
+  "response": "HPV66属于α-6组，病毒组别为2B；而HPV70属于α-7组，病毒组别也为2B。在研究中显示这两种病毒与某些疾病有关，然而具体相关性需要进一步深入研究和了解。对于这些病毒组别的了解有助于预防和管理相关疾病。"
+}

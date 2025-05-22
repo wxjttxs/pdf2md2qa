@@ -1,0 +1,9 @@
+{
+  "id": 781,
+  "text": "# 10.4.2 Negative lymph nodes on radiological staging # 10.4.2.1 Surgical treatment Radical surgery by a gynecologic oncologist is the preferred treatment modality.Minimally invasive approach is favored.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # 10.4.2 Negative lymph nodes on radiological staging # 10.4.2.1 Surgical treatment Radical surgery by a gynecologic oncologist is the preferred treatment modality.Minimally invasive approach is favored.\n\n<question>: ",
+  "ChatGPT_response_0": "手术治疗乃是治疗许多疾病的首选方式，特别是对于妇科肿瘤等疾病而言。在选择手术治疗时，通常会选择由妇科肿瘤科医生进行根治性手术，这是首选的治疗方式。此外，有时候也会优先考虑采用微创手术方式进行治疗，因为微创手术具有更少的创伤和更快的康复优势。",
+  "query": "手术治疗时，什么是首选的治疗方式？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 手术治疗时，什么是首选的治疗方式？\n\n<reference text>: # 10.4.2 Negative lymph nodes on radiological staging # 10.4.2.1 Surgical treatment Radical surgery by a gynecologic oncologist is the preferred treatment modality.Minimally invasive approach is favored.\n\n<reply>: ",
+  "response": "手术治疗乃是治疗许多疾病的首选方式，特别是对于妇科肿瘤等疾病而言。在选择手术治疗时，通常会选择由妇科肿瘤科医生进行根治性手术，这是首选的治疗方式。此外，有时候也会优先考虑采用微创手术方式进行治疗，因为微创手术具有更少的创伤和更快的康复优势。"
+}

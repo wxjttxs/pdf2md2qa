@@ -1,0 +1,9 @@
+{
+  "id": 5767,
+  "text": "DOI：10.1016/j.ygyno.2017.01.033.［6］CHINO J，ANNUNZIATA C M，BERIWAL S，et al.Radiationtherapy for cervical cancer：executive summary of an ASTROclinical practice guideline［J］.Pract Radiat Oncol，2020，10（4）：220-234.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: DOI：10.1016/j.ygyno.2017.01.033.［6］CHINO J，ANNUNZIATA C M，BERIWAL S，et al.Radiationtherapy for cervical cancer：executive summary of an ASTROclinical practice guideline［J］.Pract Radiat Oncol，2020，10（4）：220-234.\n\n<question>: ",
+  "ChatGPT_response_0": "这篇文章主要讨论的内容是子宫颈癌的放射治疗。ASTRO的临床实践指南汇总了子宫颈癌放射治疗的执行摘要，包括了治疗方案和指导方针，这些内容对于临床实践具有重要的指导意义。",
+  "query": "这篇文章主要讨论的是什么内容？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这篇文章主要讨论的是什么内容？\n\n<reference text>: DOI：10.1016/j.ygyno.2017.01.033.［6］CHINO J，ANNUNZIATA C M，BERIWAL S，et al.Radiationtherapy for cervical cancer：executive summary of an ASTROclinical practice guideline［J］.Pract Radiat Oncol，2020，10（4）：220-234.\n\n<reply>: ",
+  "response": "这篇文章主要讨论的内容是子宫颈癌的放射治疗。ASTRO的临床实践指南汇总了子宫颈癌放射治疗的执行摘要，包括了治疗方案和指导方针，这些内容对于临床实践具有重要的指导意义。"
+}

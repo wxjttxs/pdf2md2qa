@@ -1,0 +1,9 @@
+{
+  "id": 375,
+  "text": "Prev Med.123:316–23.doi:10.1016/j.ypmed.2019.04.010 PMID:31002830 Jedy-Agba E, Joko WY, Liu B, Buziba NG, Borok M, Korir A, et al.(2020).Trends in cervical cancer incidence in sub-Saharan Africa.Br J Cancer.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Prev Med.123:316–23.doi:10.1016/j.ypmed.2019.04.010 PMID:31002830 Jedy-Agba E, Joko WY, Liu B, Buziba NG, Borok M, Korir A, et al.(2020).Trends in cervical cancer incidence in sub-Saharan Africa.Br J Cancer.\n\n<question>: ",
+  "ChatGPT_response_0": "在撒哈拉以南非洲地区，宫颈癌的发病率呈上升趋势。根据最新的研究显示，宫颈癌在该地区的发病率逐年增加。这可能是由于多种因素所致，包括感染人乳头瘤病毒（HPV）等。因此，针对宫颈癌的预防和筛查工作在撒哈拉以南非洲地区尤为重要，以及早发现和治疗该疾病。",
+  "query": "在撒哈拉以南非洲地区，宫颈癌发病率的趋势是怎样的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在撒哈拉以南非洲地区，宫颈癌发病率的趋势是怎样的？\n\n<reference text>: Prev Med.123:316–23.doi:10.1016/j.ypmed.2019.04.010 PMID:31002830 Jedy-Agba E, Joko WY, Liu B, Buziba NG, Borok M, Korir A, et al.(2020).Trends in cervical cancer incidence in sub-Saharan Africa.Br J Cancer.\n\n<reply>: ",
+  "response": "在撒哈拉以南非洲地区，宫颈癌的发病率呈上升趋势。根据最新的研究显示，宫颈癌在该地区的发病率逐年增加。这可能是由于多种因素所致，包括感染人乳头瘤病毒（HPV）等。因此，针对宫颈癌的预防和筛查工作在撒哈拉以南非洲地区尤为重要，以及早发现和治疗该疾病。"
+}

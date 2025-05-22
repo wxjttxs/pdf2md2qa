@@ -1,0 +1,9 @@
+{
+  "id": 99,
+  "text": "利益冲突：所有作者均声明不存在利益冲突。# 参 考 文 献 [1] 李明珠, 魏丽惠, 隋龙, 等.中国子宫颈癌筛查指南( 一)[J].中国妇产科临床杂志 , 2023, 24(4): 437-442.DOI: 10.13390/j.issn.1672-1861.2023.04.029 [2] Han B, Zheng R, Zeng H, et al.Cancer incidence and mortality in China, 2022[J].",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 利益冲突：所有作者均声明不存在利益冲突。# 参 考 文 献 [1] 李明珠, 魏丽惠, 隋龙, 等.中国子宫颈癌筛查指南( 一)[J].中国妇产科临床杂志 , 2023, 24(4): 437-442.DOI: 10.13390/j.issn.1672-1861.2023.04.029 [2] Han B, Zheng R, Zeng H, et al.Cancer incidence and mortality in China, 2022[J].\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "根据最新的中国子宫颈癌筛查指南，所有作者均声明不存在利益冲突。",
+  "query": "中国的最新子宫颈癌筛查指南是否声明作者之间存在利益冲突？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 中国的最新子宫颈癌筛查指南是否声明作者之间存在利益冲突？\n\n<reference text>: 利益冲突：所有作者均声明不存在利益冲突。# 参 考 文 献 [1] 李明珠, 魏丽惠, 隋龙, 等.中国子宫颈癌筛查指南( 一)[J].中国妇产科临床杂志 , 2023, 24(4): 437-442.DOI: 10.13390/j.issn.1672-1861.2023.04.029 [2] Han B, Zheng R, Zeng H, et al.Cancer incidence and mortality in China, 2022[J].\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "根据最新的中国子宫颈癌筛查指南，所有作者均声明不存在利益冲突。"
+}

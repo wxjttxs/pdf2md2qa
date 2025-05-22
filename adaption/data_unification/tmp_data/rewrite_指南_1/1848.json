@@ -1,0 +1,9 @@
+{
+  "id": 1848,
+  "text": "14.4.2.1.5 Role of chemotherapy If further surgery or radiotherapy is considered, no more than 2 to 4 courses of combination chemotherapy should be given to avoid unnecessary long interval before definitive treatment.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 14.4.2.1.5 Role of chemotherapy If further surgery or radiotherapy is considered, no more than 2 to 4 courses of combination chemotherapy should be given to avoid unnecessary long interval before definitive treatment.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "不应超过2到4个疗程的联合化疗，以避免延误最终手术或放疗治疗。",
+  "query": "在考虑进一步的手术或放疗时，化疗的疗程不应超过几次以避免延误最终治疗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在考虑进一步的手术或放疗时，化疗的疗程不应超过几次以避免延误最终治疗？\n\n<reference text>: 14.4.2.1.5 Role of chemotherapy If further surgery or radiotherapy is considered, no more than 2 to 4 courses of combination chemotherapy should be given to avoid unnecessary long interval before definitive treatment.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "不应超过2到4个疗程的联合化疗，以避免延误最终手术或放疗治疗。"
+}

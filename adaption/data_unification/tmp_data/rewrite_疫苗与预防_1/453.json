@@ -1,0 +1,9 @@
+{
+  "id": 453,
+  "text": "据统计，2015 年中国因HPV 感染所致的新发癌症达 11 万例，其中宫颈癌占 $8 5 .6 \\% [ 1 5 ]$ ，且宫颈癌发病率呈上升趋势，1990 —2019 年中国女性宫颈癌年龄标化发病率由9.21/10 万上升至 $1 2 .0 6 / 1 0$ 万[16]。2015 年一项基于全国 14 个省（直辖市）23 家临床医院的调查结果显示，子宫颈癌患者直接经济负担为 $2 9 2 7 4 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 据统计，2015 年中国因HPV 感染所致的新发癌症达 11 万例，其中宫颈癌占 $8 5 .6 \\% [ 1 5 ]$ ，且宫颈癌发病率呈上升趋势，1990 —2019 年中国女性宫颈癌年龄标化发病率由9.21/10 万上升至 $1 2 .0 6 / 1 0$ 万[16]。2015 年一项基于全国 14 个省（直辖市）23 家临床医院的调查结果显示，子宫颈癌患者直接经济负担为 $2 9 2 7 4 .\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "2015年，中国因HPV感染导致的新发癌症总数为11万例，其中宫颈癌占85.6%。这意味着在所有因HPV感染的新发癌症中，宫颈癌是最主要的类型，占据了绝大部分比例。",
+  "query": "2015年，中国感染HPV导致的新发癌症有多少例，其中宫颈癌的比例是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 2015年，中国感染HPV导致的新发癌症有多少例，其中宫颈癌的比例是多少？\n\n<reference text>: 据统计，2015 年中国因HPV 感染所致的新发癌症达 11 万例，其中宫颈癌占 $8 5 .6 \\% [ 1 5 ]$ ，且宫颈癌发病率呈上升趋势，1990 —2019 年中国女性宫颈癌年龄标化发病率由9.21/10 万上升至 $1 2 .0 6 / 1 0$ 万[16]。2015 年一项基于全国 14 个省（直辖市）23 家临床医院的调查结果显示，子宫颈癌患者直接经济负担为 $2 9 2 7 4 .\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "2015年，中国因HPV感染导致的新发癌症总数为11万例，其中宫颈癌占85.6%。这意味着在所有因HPV感染的新发癌症中，宫颈癌是最主要的类型，占据了绝大部分比例。"
+}

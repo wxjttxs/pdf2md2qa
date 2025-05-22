@@ -1,0 +1,9 @@
+{
+  "id": 425,
+  "text": "2)</td><td>81.7% (95% CI = 74.6-87.5)</td></tr><tr><td>Timing of radiotracer injection</td><td></td><td></td></tr><tr><td>The day before the surgery</td><td>90% (95% CI = 87.6-91.8)</td><td>90.2% (95% CI = 85.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2)</td><td>81.7% (95% CI = 74.6-87.5)</td></tr><tr><td>Timing of radiotracer injection</td><td></td><td></td></tr><tr><td>The day before the surgery</td><td>90% (95% CI = 87.6-91.8)</td><td>90.2% (95% CI = 85.\n\n<question>: ",
+  "ChatGPT_response_0": "放射性示踪剂在手术前一天注射的成功率为81.7%，置信区间为74.6-87.5。这意味着在这种情况下，该方法成功的可能性相当高，但仍存在一定的变异性。因此，在注射放射性示踪剂时需要注意确保操作的准确性和有效性，以提高成功率。",
+  "query": "示例问题：在进行手术前一天注射放射性示踪剂的情况下，该方法的成功率是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 示例问题：在进行手术前一天注射放射性示踪剂的情况下，该方法的成功率是多少？\n\n<reference text>: 2)</td><td>81.7% (95% CI = 74.6-87.5)</td></tr><tr><td>Timing of radiotracer injection</td><td></td><td></td></tr><tr><td>The day before the surgery</td><td>90% (95% CI = 87.6-91.8)</td><td>90.2% (95% CI = 85.\n\n<reply>: ",
+  "response": "放射性示踪剂在手术前一天注射的成功率为81.7%，置信区间为74.6-87.5。这意味着在这种情况下，该方法成功的可能性相当高，但仍存在一定的变异性。因此，在注射放射性示踪剂时需要注意确保操作的准确性和有效性，以提高成功率。"
+}

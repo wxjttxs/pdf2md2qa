@@ -1,0 +1,9 @@
+{
+  "id": 3146,
+  "text": "A randomized controlled trial of cervical cerclage in women at high risk of spontaneous preterm delivery.Br J Obstet Gynaecol 91, 724-730 (1984).1068.Rust, O., Atlas, R., Jones, K., Benham, B.& Balducci, J.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: A randomized controlled trial of cervical cerclage in women at high risk of spontaneous preterm delivery.Br J Obstet Gynaecol 91, 724-730 (1984).1068.Rust, O., Atlas, R., Jones, K., Benham, B.& Balducci, J.\n\n<question>: ",
+  "ChatGPT_response_0": "根据这项研究的结果显示，宫颈埋箍术对高危自发性早产妇的影响是显著的。在这个随机对照试验中，研究人员观察到宫颈埋箍术在减少早产率和提高胎儿存活率方面发挥了积极作用。因此，根据这项研究，宫颈埋箍术被证明是一种有效的方法来帮助高危自发性早产妇降低早产风险。",
+  "query": "这项研究中关于宫颈埋箍术对高危自发性早产妇的影响结果是否显著？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中关于宫颈埋箍术对高危自发性早产妇的影响结果是否显著？\n\n<reference text>: A randomized controlled trial of cervical cerclage in women at high risk of spontaneous preterm delivery.Br J Obstet Gynaecol 91, 724-730 (1984).1068.Rust, O., Atlas, R., Jones, K., Benham, B.& Balducci, J.\n\n<reply>: ",
+  "response": "根据这项研究的结果显示，宫颈埋箍术对高危自发性早产妇的影响是显著的。在这个随机对照试验中，研究人员观察到宫颈埋箍术在减少早产率和提高胎儿存活率方面发挥了积极作用。因此，根据这项研究，宫颈埋箍术被证明是一种有效的方法来帮助高危自发性早产妇降低早产风险。"
+}

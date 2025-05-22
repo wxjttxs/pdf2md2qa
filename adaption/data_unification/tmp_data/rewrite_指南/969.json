@@ -1,0 +1,9 @@
+{
+  "id": 969,
+  "text": "As part of another systematic review, Pareja et al.912 identified 14 reports548-560,913 adressing the use of NACT in patients with early-stage (FIGO stages IB1-IIA) cervical cancer interested in future fertility.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: As part of another systematic review, Pareja et al.912 identified 14 reports548-560,913 adressing the use of NACT in patients with early-stage (FIGO stages IB1-IIA) cervical cancer interested in future fertility.\n\n<question>: ",
+  "ChatGPT_response_0": "在最近的系统审查中，Pareja等人发现了14份关于新辅助化疗在早期子宫颈癌患者（FIGO分期IB1-IIA）对未来生育有兴趣的研究报告。",
+  "query": "对于早期子宫颈癌患者（FIGO分期IB1-IIA）对未来生育感兴趣，在近期的系统审查中，Pareja等人找到了多少个关于新辅助化疗的研究报告？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于早期子宫颈癌患者（FIGO分期IB1-IIA）对未来生育感兴趣，在近期的系统审查中，Pareja等人找到了多少个关于新辅助化疗的研究报告？\n\n<reference text>: As part of another systematic review, Pareja et al.912 identified 14 reports548-560,913 adressing the use of NACT in patients with early-stage (FIGO stages IB1-IIA) cervical cancer interested in future fertility.\n\n<reply>: ",
+  "response": "在最近的系统审查中，Pareja等人发现了14份关于新辅助化疗在早期子宫颈癌患者（FIGO分期IB1-IIA）对未来生育有兴趣的研究报告。"
+}

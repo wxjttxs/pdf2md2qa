@@ -1,0 +1,9 @@
+{
+  "id": 1195,
+  "text": "因宫颈癌以鳞状细胞癌最为常见，所以鳞癌相关抗原是子宫颈癌诊治过程中最常被检测的血清学肿瘤标志物。宫颈腺癌可以有癌胚抗原、糖类抗原（carbohydrate antigen，CA）125 或 CA19-9 的升高。# 五、子宫颈癌的分类和分期 # （一）子宫颈癌的组织学分类。子宫颈癌主要包括宫颈鳞状细胞癌、腺癌、腺鳞癌及其他少见类型。其中鳞状细胞癌最常见，约占 $80 \\%$ ，腺癌占 $1 5 \\% \\sim 2 0 \\%$ 。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 因宫颈癌以鳞状细胞癌最为常见，所以鳞癌相关抗原是子宫颈癌诊治过程中最常被检测的血清学肿瘤标志物。宫颈腺癌可以有癌胚抗原、糖类抗原（carbohydrate antigen，CA）125 或 CA19-9 的升高。# 五、子宫颈癌的分类和分期 # （一）子宫颈癌的组织学分类。子宫颈癌主要包括宫颈鳞状细胞癌、腺癌、腺鳞癌及其他少见类型。其中鳞状细胞癌最常见，约占 $80 \\%$ ，腺癌占 $1 5 \\% \\sim 2 0 \\%$ 。\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "子宫颈癌的组织学分类中，最常见的类型是宫颈鳞状细胞癌，约占80%。这种类型在宫颈癌患者中最为普遍。",
+  "query": "子宫颈癌的组织学分类中，最常见的类型是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 子宫颈癌的组织学分类中，最常见的类型是什么？\n\n<reference text>: 因宫颈癌以鳞状细胞癌最为常见，所以鳞癌相关抗原是子宫颈癌诊治过程中最常被检测的血清学肿瘤标志物。宫颈腺癌可以有癌胚抗原、糖类抗原（carbohydrate antigen，CA）125 或 CA19-9 的升高。# 五、子宫颈癌的分类和分期 # （一）子宫颈癌的组织学分类。子宫颈癌主要包括宫颈鳞状细胞癌、腺癌、腺鳞癌及其他少见类型。其中鳞状细胞癌最常见，约占 $80 \\%$ ，腺癌占 $1 5 \\% \\sim 2 0 \\%$ 。\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "子宫颈癌的组织学分类中，最常见的类型是宫颈鳞状细胞癌，约占80%。这种类型在宫颈癌患者中最为普遍。"
+}

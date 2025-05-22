@@ -1,0 +1,9 @@
+{
+  "id": 3089,
+  "text": "Am J Obstet Gynecol 203, 248 e241-249 (2010).1004.Combs, C.A., Garite, T.& Porto, M.17- hydroxyprogesterone for triplet pregnancy does not reduce prematurity or neonatal morbidity, may increase midtrimester loss.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Am J Obstet Gynecol 203, 248 e241-249 (2010).1004.Combs, C.A., Garite, T.& Porto, M.17- hydroxyprogesterone for triplet pregnancy does not reduce prematurity or neonatal morbidity, may increase midtrimester loss.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究表明，在多胞胎妊娠中使用17-羟孕酮并不会降低早产率或新生儿并发症，反而可能会增加中期流产的风险。因此，在考虑使用17-羟孕酮时，建议仔细权衡利弊并咨询专业医生的意见，以作出适当的决定。",
+  "query": "在多胞胎妊娠中是否使用17-羟孕酮有什么影响？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在多胞胎妊娠中是否使用17-羟孕酮有什么影响？\n\n<reference text>: Am J Obstet Gynecol 203, 248 e241-249 (2010).1004.Combs, C.A., Garite, T.& Porto, M.17- hydroxyprogesterone for triplet pregnancy does not reduce prematurity or neonatal morbidity, may increase midtrimester loss.\n\n<reply>: ",
+  "response": "根据研究表明，在多胞胎妊娠中使用17-羟孕酮并不会降低早产率或新生儿并发症，反而可能会增加中期流产的风险。因此，在考虑使用17-羟孕酮时，建议仔细权衡利弊并咨询专业医生的意见，以作出适当的决定。"
+}

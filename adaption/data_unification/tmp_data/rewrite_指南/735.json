@@ -1,0 +1,9 @@
+{
+  "id": 735,
+  "text": "4 7$ $9 5 \\% \\mathrm { C I } = 0 .3 0 – 0 .7 4$ )).The combined therapy was associated with more severe side effects (grade 4) than radiotherapy alone (pooled $\\mathrm { R R } = 6 .2 6$ $9 5 \\%$ CI = 2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 4 7$ $9 5 \\% \\mathrm { C I } = 0 .3 0 – 0 .7 4$ )).The combined therapy was associated with more severe side effects (grade 4) than radiotherapy alone (pooled $\\mathrm { R R } = 6 .2 6$ $9 5 \\%$ CI = 2.\n\n<question>: ",
+  "ChatGPT_response_0": "综合疗法往往会比单独放疗更容易引起更严重的副作用。研究显示，综合疗法导致的副作用严重程度（4级）较放疗单独更高。在进行治疗决策时，需权衡综合疗法和单一放疗的利弊，并根据患者的具体情况和疾病特点来选择最合适的治疗方案。",
+  "query": "这种综合疗法是否比单独放疗更容易引起更严重的副作用？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这种综合疗法是否比单独放疗更容易引起更严重的副作用？\n\n<reference text>: 4 7$ $9 5 \\% \\mathrm { C I } = 0 .3 0 – 0 .7 4$ )).The combined therapy was associated with more severe side effects (grade 4) than radiotherapy alone (pooled $\\mathrm { R R } = 6 .2 6$ $9 5 \\%$ CI = 2.\n\n<reply>: ",
+  "response": "综合疗法往往会比单独放疗更容易引起更严重的副作用。研究显示，综合疗法导致的副作用严重程度（4级）较放疗单独更高。在进行治疗决策时，需权衡综合疗法和单一放疗的利弊，并根据患者的具体情况和疾病特点来选择最合适的治疗方案。"
+}

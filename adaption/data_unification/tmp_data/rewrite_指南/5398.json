@@ -1,0 +1,9 @@
+{
+  "id": 5398,
+  "text": "Gynecol Oncol 2006;101:261-268.Available at: http://www.ncbi.nlm.nih.gov/pubmed/16426668.217.Morley GW, Hopkins MP, Lindenauer SM, Roberts JA.Pelvic exenteration, University of Michigan: 100 patients at 5 years.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Gynecol Oncol 2006;101:261-268.Available at: http://www.ncbi.nlm.nih.gov/pubmed/16426668.217.Morley GW, Hopkins MP, Lindenauer SM, Roberts JA.Pelvic exenteration, University of Michigan: 100 patients at 5 years.\n\n<question>: ",
+  "ChatGPT_response_0": "这项研究中提到了手术后患者的生存率情况。根据研究结果显示，在密歇根大学进行的盆腔整复手术中，有100位患者在5年后的生存情况进行了观察和分析。您可以通过查阅该研究获取更详细的信息。",
+  "query": "这个研究中有没有提到手术后患者的生存率情况？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这个研究中有没有提到手术后患者的生存率情况？\n\n<reference text>: Gynecol Oncol 2006;101:261-268.Available at: http://www.ncbi.nlm.nih.gov/pubmed/16426668.217.Morley GW, Hopkins MP, Lindenauer SM, Roberts JA.Pelvic exenteration, University of Michigan: 100 patients at 5 years.\n\n<reply>: ",
+  "response": "这项研究中提到了手术后患者的生存率情况。根据研究结果显示，在密歇根大学进行的盆腔整复手术中，有100位患者在5年后的生存情况进行了观察和分析。您可以通过查阅该研究获取更详细的信息。"
+}

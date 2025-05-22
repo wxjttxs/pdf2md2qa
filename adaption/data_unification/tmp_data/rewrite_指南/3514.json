@@ -1,0 +1,9 @@
+{
+  "id": 3514,
+  "text": "1488.Franckena, M., et al.Radiotherapy and hyperthermia for treatment of primary locally advanced cervix cancer: results in 378 patients.Int J Radiat Oncol Biol Phys 73, 242-250 (2009).1489.Sreenivasa, G.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1488.Franckena, M., et al.Radiotherapy and hyperthermia for treatment of primary locally advanced cervix cancer: results in 378 patients.Int J Radiat Oncol Biol Phys 73, 242-250 (2009).1489.Sreenivasa, G.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果显示，联合放疗和热疗对治疗原发性局部晚期宫颈癌具有一定的有效性。这种治疗方法在一些患者身上取得了积极的效果，有助于提高治疗效果和患者的生存率。在处理这种类型的癌症时，联合放疗和热疗可以被认为是一种有效的治疗选择。",
+  "query": "这项研究结果是否表明联合放疗和热疗对治疗原发性局部晚期宫颈癌的有效性？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究结果是否表明联合放疗和热疗对治疗原发性局部晚期宫颈癌的有效性？\n\n<reference text>: 1488.Franckena, M., et al.Radiotherapy and hyperthermia for treatment of primary locally advanced cervix cancer: results in 378 patients.Int J Radiat Oncol Biol Phys 73, 242-250 (2009).1489.Sreenivasa, G.\n\n<reply>: ",
+  "response": "根据研究结果显示，联合放疗和热疗对治疗原发性局部晚期宫颈癌具有一定的有效性。这种治疗方法在一些患者身上取得了积极的效果，有助于提高治疗效果和患者的生存率。在处理这种类型的癌症时，联合放疗和热疗可以被认为是一种有效的治疗选择。"
+}

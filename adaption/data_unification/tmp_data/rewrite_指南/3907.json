@@ -1,0 +1,9 @@
+{
+  "id": 3907,
+  "text": "qc.ca/</td></tr><tr><td>INCa</td><td>http://www.e-cancer.fr/</td></tr><tr><td>KCE</td><td>https://kce.fgov.be /fr</td></tr><tr><td>MSAC</td><td>http://www.msac.gov.au/</td></tr><tr><td>NCCN</td><td>http://www.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: qc.ca/</td></tr><tr><td>INCa</td><td>http://www.e-cancer.fr/</td></tr><tr><td>KCE</td><td>https://kce.fgov.be /fr</td></tr><tr><td>MSAC</td><td>http://www.msac.gov.au/</td></tr><tr><td>NCCN</td><td>http://www.\n\n<question>: ",
+  "ChatGPT_response_0": "这些网站提供了广泛的医疗服务和信息，其中包括癌症治疗指南、医学研究成果、医疗政策建议等内容。您可以在这些网站上找到关于癌症治疗、医疗技术评估、临床实践指南等方面的信息。此外，它们还提供了最新的医疗新闻、研究报道和专家意见，有助于人们获取最新的医疗信息和服务。",
+  "query": "这些网站都提供了哪些医疗服务和信息？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些网站都提供了哪些医疗服务和信息？\n\n<reference text>: qc.ca/</td></tr><tr><td>INCa</td><td>http://www.e-cancer.fr/</td></tr><tr><td>KCE</td><td>https://kce.fgov.be /fr</td></tr><tr><td>MSAC</td><td>http://www.msac.gov.au/</td></tr><tr><td>NCCN</td><td>http://www.\n\n<reply>: ",
+  "response": "这些网站提供了广泛的医疗服务和信息，其中包括癌症治疗指南、医学研究成果、医疗政策建议等内容。您可以在这些网站上找到关于癌症治疗、医疗技术评估、临床实践指南等方面的信息。此外，它们还提供了最新的医疗新闻、研究报道和专家意见，有助于人们获取最新的医疗信息和服务。"
+}

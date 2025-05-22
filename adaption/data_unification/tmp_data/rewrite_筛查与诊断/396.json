@@ -1,0 +1,9 @@
+{
+  "id": 396,
+  "text": "2015;51(13):1732-41.10.1016/j.ejca.2015.06.001.3.Arbyn M, Xu L, Simoens C, Martin-Hirsch PP.Prophylactic vaccination against human papillomaviruses to prevent cervical cancer Rev.2018;5(5):CD009069.10.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2015;51(13):1732-41.10.1016/j.ejca.2015.06.001.3.Arbyn M, Xu L, Simoens C, Martin-Hirsch PP.Prophylactic vaccination against human papillomaviruses to prevent cervical cancer Rev.2018;5(5):CD009069.10.\n\n<question>: ",
+  "ChatGPT_response_0": "人类乳头瘤病毒预防接种被认为是预防宫颈癌有效的方法之一。研究表明，接种人类乳头瘤病毒疫苗可以降低感染特定致癌病毒的风险，从而减少患宫颈癌的可能性。虽然接种疫苗并非百分百能够完全预防宫颈癌，但它被广泛认为是一种有效的预防措施。因此，定期接种人类乳头瘤病毒疫苗对于预防宫颈癌至关重要。",
+  "query": " 请问人类乳头瘤病毒预防接种是否对预防宫颈癌有效？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>:  请问人类乳头瘤病毒预防接种是否对预防宫颈癌有效？\n\n<reference text>: 2015;51(13):1732-41.10.1016/j.ejca.2015.06.001.3.Arbyn M, Xu L, Simoens C, Martin-Hirsch PP.Prophylactic vaccination against human papillomaviruses to prevent cervical cancer Rev.2018;5(5):CD009069.10.\n\n<reply>: ",
+  "response": "人类乳头瘤病毒预防接种被认为是预防宫颈癌有效的方法之一。研究表明，接种人类乳头瘤病毒疫苗可以降低感染特定致癌病毒的风险，从而减少患宫颈癌的可能性。虽然接种疫苗并非百分百能够完全预防宫颈癌，但它被广泛认为是一种有效的预防措施。因此，定期接种人类乳头瘤病毒疫苗对于预防宫颈癌至关重要。"
+}

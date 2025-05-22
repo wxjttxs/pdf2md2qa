@@ -1,0 +1,9 @@
+{
+  "id": 634,
+  "text": "中国老年学杂志,2012,32(10):2169-2170.[ 7 ] P a r k J M , C h a r n s a n g a v eC,Yoshimitsu K,et al.Pathwayo f n o d a l m e t a s t a s i sf r o m p e l v i c t u m o r s : C Td e m o n s t r a t i o n [ J ] .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 中国老年学杂志,2012,32(10):2169-2170.[ 7 ] P a r k J M , C h a r n s a n g a v eC,Yoshimitsu K,et al.Pathwayo f n o d a l m e t a s t a s i sf r o m p e l v i c t u m o r s : C Td e m o n s t r a t i o n [ J ] .\n\n<question>: ",
+  "ChatGPT_response_0": "这篇文章涉及了关于盆腔肿瘤的淋巴结转移途径的内容。",
+  "query": "这篇文章涉及了哪些内容？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这篇文章涉及了哪些内容？\n\n<reference text>: 中国老年学杂志,2012,32(10):2169-2170.[ 7 ] P a r k J M , C h a r n s a n g a v eC,Yoshimitsu K,et al.Pathwayo f n o d a l m e t a s t a s i sf r o m p e l v i c t u m o r s : C Td e m o n s t r a t i o n [ J ] .\n\n<reply>: ",
+  "response": "这篇文章涉及了关于盆腔肿瘤的淋巴结转移途径的内容。"
+}

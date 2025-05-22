@@ -1,0 +1,9 @@
+{
+  "id": 87,
+  "text": "8</td><td>2.6</td><td>47.6</td><td>62.4</td></tr><tr><td>HPV18</td><td>α-7</td><td>Group 1</td><td>14.3</td><td>1</td><td>15.7</td><td>15.3</td></tr><tr><td>HPV45</td><td>α-7</td><td>Group 1</td><td>4.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 8</td><td>2.6</td><td>47.6</td><td>62.4</td></tr><tr><td>HPV18</td><td>α-7</td><td>Group 1</td><td>14.3</td><td>1</td><td>15.7</td><td>15.3</td></tr><tr><td>HPV45</td><td>α-7</td><td>Group 1</td><td>4.\n\n<question>: ",
+  "ChatGPT_response_0": "在这个数据中，HPV18在α-7基因组中所占比例较高，为14.3%。相比之下，其他类型的HPV在该基因组中所占比例较低。因此，可以说HPV18在α-7基因组中的比例较高。",
+  "query": "这个数据中有没有显示一种特定类型的HPV在α-7基因组中所占比例较高？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这个数据中有没有显示一种特定类型的HPV在α-7基因组中所占比例较高？\n\n<reference text>: 8</td><td>2.6</td><td>47.6</td><td>62.4</td></tr><tr><td>HPV18</td><td>α-7</td><td>Group 1</td><td>14.3</td><td>1</td><td>15.7</td><td>15.3</td></tr><tr><td>HPV45</td><td>α-7</td><td>Group 1</td><td>4.\n\n<reply>: ",
+  "response": "在这个数据中，HPV18在α-7基因组中所占比例较高，为14.3%。相比之下，其他类型的HPV在该基因组中所占比例较低。因此，可以说HPV18在α-7基因组中的比例较高。"
+}

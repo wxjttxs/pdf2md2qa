@@ -1,0 +1,9 @@
+{
+  "id": 71,
+  "text": ", 2009).In addi­ tion, HPV68 in alpha-7 is classified as probably carcinogenic to humans (Group 2A).The IARC classification refers to the carcinogenic poten­ tial based on prevalence in cervical cancers, not potency.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: , 2009).In addi­ tion, HPV68 in alpha-7 is classified as probably carcinogenic to humans (Group 2A).The IARC classification refers to the carcinogenic poten­ tial based on prevalence in cervical cancers, not potency.\n\n<question>: ",
+  "ChatGPT_response_0": "国际癌症研究机构将HPV68分类为第七类别α中，被归类为“对人类可能具有致癌作用”（2A类）。这一分类是基于HPV68在宫颈癌中的流行程度而确定的，而非致癌潜能。",
+  "query": "什么是国际癌症研究机构对HPV68的分类？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是国际癌症研究机构对HPV68的分类？\n\n<reference text>: , 2009).In addi­ tion, HPV68 in alpha-7 is classified as probably carcinogenic to humans (Group 2A).The IARC classification refers to the carcinogenic poten­ tial based on prevalence in cervical cancers, not potency.\n\n<reply>: ",
+  "response": "国际癌症研究机构将HPV68分类为第七类别α中，被归类为“对人类可能具有致癌作用”（2A类）。这一分类是基于HPV68在宫颈癌中的流行程度而确定的，而非致癌潜能。"
+}

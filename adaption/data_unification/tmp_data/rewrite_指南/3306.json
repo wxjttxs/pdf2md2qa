@@ -1,0 +1,9 @@
+{
+  "id": 3306,
+  "text": "Int $J$ Radiat Oncol Biol Phys 16, 335-338 (1989).1251.Vahrson, H.& Romer, G.5-year results with HDR afterloading in cervix cancer: dependence on fractionation and dose.Sonderb Strahlenther Onkol 82, 139-146 (1988).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Int $J$ Radiat Oncol Biol Phys 16, 335-338 (1989).1251.Vahrson, H.& Romer, G.5-year results with HDR afterloading in cervix cancer: dependence on fractionation and dose.Sonderb Strahlenther Onkol 82, 139-146 (1988).\n\n<question>: ",
+  "ChatGPT_response_0": "使用高剂量率（HDR）后装置5年后在子宫颈癌的治疗结果受到分次和剂量的影响。根据文献，治疗结果可能有所不同，因此建议在咨询医疗专业人士之前，了解更多关于分次和剂量对治疗结果的影响。希望对您有所帮助。",
+  "query": "在子宫颈癌中使用高剂量率（HDR）后装置5年的结果如何？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在子宫颈癌中使用高剂量率（HDR）后装置5年的结果如何？\n\n<reference text>: Int $J$ Radiat Oncol Biol Phys 16, 335-338 (1989).1251.Vahrson, H.& Romer, G.5-year results with HDR afterloading in cervix cancer: dependence on fractionation and dose.Sonderb Strahlenther Onkol 82, 139-146 (1988).\n\n<reply>: ",
+  "response": "使用高剂量率（HDR）后装置5年后在子宫颈癌的治疗结果受到分次和剂量的影响。根据文献，治疗结果可能有所不同，因此建议在咨询医疗专业人士之前，了解更多关于分次和剂量对治疗结果的影响。希望对您有所帮助。"
+}

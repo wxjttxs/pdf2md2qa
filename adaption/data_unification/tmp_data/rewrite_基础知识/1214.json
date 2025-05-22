@@ -1,0 +1,9 @@
+{
+  "id": 1214,
+  "text": "![](images/df1c623906523444bd8c55cc25270a1bf66090e773eca397f93ee1ac7c77e0fa.jpg) # 子宫癌基础知识 » 子宫癌的两种主要类型 # 子宫肉瘤 子宫肉瘤原发于子宫的结缔组织细胞。它通常形成于子宫的肌肉层（子宫肌层）或子宫内膜的结缔组织细胞中。子宫肉瘤很罕见，可能比子宫内膜癌更难治疗。它们也被称为恶性间叶瘤。与子宫内膜癌一样，子宫肉瘤也有不同类型。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ![](images/df1c623906523444bd8c55cc25270a1bf66090e773eca397f93ee1ac7c77e0fa.jpg) # 子宫癌基础知识 » 子宫癌的两种主要类型 # 子宫肉瘤 子宫肉瘤原发于子宫的结缔组织细胞。它通常形成于子宫的肌肉层（子宫肌层）或子宫内膜的结缔组织细胞中。子宫肉瘤很罕见，可能比子宫内膜癌更难治疗。它们也被称为恶性间叶瘤。与子宫内膜癌一样，子宫肉瘤也有不同类型。\n\n<question>: ",
+  "ChatGPT_response_0": "子宫肉瘤通常形成于子宫的肌肉层（子宫肌层）或子宫内膜的结缔组织细胞中。这种肿瘤原发于子宫的结缔组织细胞，是一种罕见的恶性瘤，也被称为恶性间叶瘤。与其他类型的子宫癌相比，子宫肉瘤更为罕见且治疗更为困难。",
+  "query": "子宫肉瘤形成于子宫的哪些部位？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 子宫肉瘤形成于子宫的哪些部位？\n\n<reference text>: ![](images/df1c623906523444bd8c55cc25270a1bf66090e773eca397f93ee1ac7c77e0fa.jpg) # 子宫癌基础知识 » 子宫癌的两种主要类型 # 子宫肉瘤 子宫肉瘤原发于子宫的结缔组织细胞。它通常形成于子宫的肌肉层（子宫肌层）或子宫内膜的结缔组织细胞中。子宫肉瘤很罕见，可能比子宫内膜癌更难治疗。它们也被称为恶性间叶瘤。与子宫内膜癌一样，子宫肉瘤也有不同类型。\n\n<reply>: ",
+  "response": "子宫肉瘤通常形成于子宫的肌肉层（子宫肌层）或子宫内膜的结缔组织细胞中。这种肿瘤原发于子宫的结缔组织细胞，是一种罕见的恶性瘤，也被称为恶性间叶瘤。与其他类型的子宫癌相比，子宫肉瘤更为罕见且治疗更为困难。"
+}

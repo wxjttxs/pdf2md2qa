@@ -239,3 +239,4 @@ We are from the School of Data Science, the Chinese University of Hong Kong, She
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/HuatuoGPT-II&type=Date" />
   </picture>
 </a>
+# pdf2md2qa

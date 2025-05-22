@@ -1,0 +1,9 @@
+{
+  "id": 545,
+  "text": "调查对象年龄为 18～79 岁，平均年龄为 $( 3 5 .9 \\pm 9 .5 ) \\$ 岁。以女性为主，大部分长期居住于城市。参与调查的医务人员和政府及机构管理者家庭年总收入整体较一般人群和宫颈癌患者高。一般人群、宫颈癌患者、医务人员、政府及机构管理者中拥有本科及以上学历人数分别为：1 539 人 $( 8 9 .4 \\%$ ）、199 人 $( 5 3 .8 \\% )$ 、1 046 人 $9 8 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 调查对象年龄为 18～79 岁，平均年龄为 $( 3 5 .9 \\pm 9 .5 ) \\$ 岁。以女性为主，大部分长期居住于城市。参与调查的医务人员和政府及机构管理者家庭年总收入整体较一般人群和宫颈癌患者高。一般人群、宫颈癌患者、医务人员、政府及机构管理者中拥有本科及以上学历人数分别为：1 539 人 $( 8 9 .4 \\%$ ）、199 人 $( 5 3 .8 \\% )$ 、1 046 人 $9 8 .\n\n<question>: ",
+  "ChatGPT_response_0": "调查对象的年龄范围为18岁至79岁，其中平均年龄为35.9岁。在参与调查的四个群体中，拥有最高比例的本科及以上学历人数的群体是医务人员，有着89.4%的人拥有本科及以上学历。",
+  "query": "调查对象的年龄范围为多少岁？在参与调查的四个群体中，哪个群体拥有最高比例的本科及以上学历人数？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 调查对象的年龄范围为多少岁？在参与调查的四个群体中，哪个群体拥有最高比例的本科及以上学历人数？\n\n<reference text>: 调查对象年龄为 18～79 岁，平均年龄为 $( 3 5 .9 \\pm 9 .5 ) \\$ 岁。以女性为主，大部分长期居住于城市。参与调查的医务人员和政府及机构管理者家庭年总收入整体较一般人群和宫颈癌患者高。一般人群、宫颈癌患者、医务人员、政府及机构管理者中拥有本科及以上学历人数分别为：1 539 人 $( 8 9 .4 \\%$ ）、199 人 $( 5 3 .8 \\% )$ 、1 046 人 $9 8 .\n\n<reply>: ",
+  "response": "调查对象的年龄范围为18岁至79岁，其中平均年龄为35.9岁。在参与调查的四个群体中，拥有最高比例的本科及以上学历人数的群体是医务人员，有着89.4%的人拥有本科及以上学历。"
+}

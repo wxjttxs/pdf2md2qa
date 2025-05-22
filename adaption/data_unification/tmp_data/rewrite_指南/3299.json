@@ -1,0 +1,9 @@
+{
+  "id": 3299,
+  "text": "Shrivastava, S., et al.Comparing lowdose-rate and high-dose-rate intracavitary brachytherapy in carcinoma cervix: Results from a randomized controlled study.Int $J$ Radiat Biol Phys 66, S42 (2006).1244.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Shrivastava, S., et al.Comparing lowdose-rate and high-dose-rate intracavitary brachytherapy in carcinoma cervix: Results from a randomized controlled study.Int $J$ Radiat Biol Phys 66, S42 (2006).1244.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果显示，低剂量率和高剂量率子宫颈癌腔内治疗在疗效上存在一定差异。在实际应用中，两种治疗方式都有其优势和局限性，具体选用哪种治疗方法需结合患者病情和临床情况进行综合评估。在选择治疗方式时，建议患者务必在专业医生的指导下进行决策，以获得最佳治疗效果。",
+  "query": "低剂量率和高剂量率子宫颈癌腔内治疗的疗效是否有明显差异呢？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 低剂量率和高剂量率子宫颈癌腔内治疗的疗效是否有明显差异呢？\n\n<reference text>: Shrivastava, S., et al.Comparing lowdose-rate and high-dose-rate intracavitary brachytherapy in carcinoma cervix: Results from a randomized controlled study.Int $J$ Radiat Biol Phys 66, S42 (2006).1244.\n\n<reply>: ",
+  "response": "根据研究结果显示，低剂量率和高剂量率子宫颈癌腔内治疗在疗效上存在一定差异。在实际应用中，两种治疗方式都有其优势和局限性，具体选用哪种治疗方法需结合患者病情和临床情况进行综合评估。在选择治疗方式时，建议患者务必在专业医生的指导下进行决策，以获得最佳治疗效果。"
+}

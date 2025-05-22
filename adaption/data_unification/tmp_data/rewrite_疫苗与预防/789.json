@@ -1,0 +1,9 @@
+{
+  "id": 789,
+  "text": "# ISSN:0737-3732 Outlook 是由 PATH 出版。PATH 以通过促进技术、强化系统和鼓励健康行为来改善世界各地人民的健康为己任。本刊精选一些期号出版中文、法文、印地文、葡萄牙文、俄文和西班牙文版本。Outlook 重视发展中国家读者所感兴趣的生殖健康问题的信息。本期由PATH宫颈癌项目赞助出版。其中所表示的意见不一定反映捐资者、Outlook 顾问委员会个体成员或PATH 的观点。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # ISSN:0737-3732 Outlook 是由 PATH 出版。PATH 以通过促进技术、强化系统和鼓励健康行为来改善世界各地人民的健康为己任。本刊精选一些期号出版中文、法文、印地文、葡萄牙文、俄文和西班牙文版本。Outlook 重视发展中国家读者所感兴趣的生殖健康问题的信息。本期由PATH宫颈癌项目赞助出版。其中所表示的意见不一定反映捐资者、Outlook 顾问委员会个体成员或PATH 的观点。\n\n<question>: ",
+  "ChatGPT_response_0": "PATH以通过促进技术、强化系统和鼓励健康行为来改善世界各地人民的健康为己任。具体来说，它致力于提升技术水平，建立健康系统，并鼓励健康行为，以促进全球范围内的健康发展。通过不断努力和实践，PATH致力于解决各种健康问题，特别关注发展中国家的生殖健康议题，并期望为改善人民的生活质量作出积极的贡献。",
+  "query": "PATH以什么为己任？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: PATH以什么为己任？\n\n<reference text>: # ISSN:0737-3732 Outlook 是由 PATH 出版。PATH 以通过促进技术、强化系统和鼓励健康行为来改善世界各地人民的健康为己任。本刊精选一些期号出版中文、法文、印地文、葡萄牙文、俄文和西班牙文版本。Outlook 重视发展中国家读者所感兴趣的生殖健康问题的信息。本期由PATH宫颈癌项目赞助出版。其中所表示的意见不一定反映捐资者、Outlook 顾问委员会个体成员或PATH 的观点。\n\n<reply>: ",
+  "response": "PATH以通过促进技术、强化系统和鼓励健康行为来改善世界各地人民的健康为己任。具体来说，它致力于提升技术水平，建立健康系统，并鼓励健康行为，以促进全球范围内的健康发展。通过不断努力和实践，PATH致力于解决各种健康问题，特别关注发展中国家的生殖健康议题，并期望为改善人民的生活质量作出积极的贡献。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 769,
+  "text": "Age to initiate or stop screening (Recommendations 5, 6 and 7): Evidence to determine the ages at which to start and stop screening was reviewed from both the published literature and from mathematical modelling.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Age to initiate or stop screening (Recommendations 5, 6 and 7): Evidence to determine the ages at which to start and stop screening was reviewed from both the published literature and from mathematical modelling.\n\n<question>: ",
+  "ChatGPT_response_0": "审查以确定开始和停止筛查的年龄时，主要依据来自已发表的文献和数学建模。这些证据包括，但不限于，特定年龄群体的疾病发病率、筛查方法的准确性和影响、以及对筛查效益和风险的评估。最终的建议将基于这些证据来决定适合开始和停止筛查的年龄范围。",
+  "query": "什么证据被审查以确定开始和停止筛查的年龄？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么证据被审查以确定开始和停止筛查的年龄？\n\n<reference text>: Age to initiate or stop screening (Recommendations 5, 6 and 7): Evidence to determine the ages at which to start and stop screening was reviewed from both the published literature and from mathematical modelling.\n\n<reply>: ",
+  "response": "审查以确定开始和停止筛查的年龄时，主要依据来自已发表的文献和数学建模。这些证据包括，但不限于，特定年龄群体的疾病发病率、筛查方法的准确性和影响、以及对筛查效益和风险的评估。最终的建议将基于这些证据来决定适合开始和停止筛查的年龄范围。"
+}

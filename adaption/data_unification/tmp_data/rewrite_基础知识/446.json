@@ -1,0 +1,9 @@
+{
+  "id": 446,
+  "text": "CA Cancer J Clin.71(3):209–49.doi:10.3322/caac.21660 PMID:33538338 Tabbara S, Saleh AD, Andersen WA, Barber SR, Taylor PT, Crum CP (1992).The Bethesda classification for squamous intraepithelial lesions: histologic, cytologic, and viral correlates.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: CA Cancer J Clin.71(3):209–49.doi:10.3322/caac.21660 PMID:33538338 Tabbara S, Saleh AD, Andersen WA, Barber SR, Taylor PT, Crum CP (1992).The Bethesda classification for squamous intraepithelial lesions: histologic, cytologic, and viral correlates.\n\n<question>: ",
+  "ChatGPT_response_0": "这篇文章讨论的内容包括巴塞尔分类对于鳞状上皮病变的组织学、细胞学和病毒相关性等方面。",
+  "query": "这篇文章讨论的内容包括哪些方面？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这篇文章讨论的内容包括哪些方面？\n\n<reference text>: CA Cancer J Clin.71(3):209–49.doi:10.3322/caac.21660 PMID:33538338 Tabbara S, Saleh AD, Andersen WA, Barber SR, Taylor PT, Crum CP (1992).The Bethesda classification for squamous intraepithelial lesions: histologic, cytologic, and viral correlates.\n\n<reply>: ",
+  "response": "这篇文章讨论的内容包括巴塞尔分类对于鳞状上皮病变的组织学、细胞学和病毒相关性等方面。"
+}

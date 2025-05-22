@@ -1,0 +1,9 @@
+{
+  "id": 808,
+  "text": "\\* [Conditional recommendation, very low-certainty evidence] Remarks: Neither VIA nor ablative treatment are suitable for screening or treatment of women in whom the transformation zone is not visible.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: \\* [Conditional recommendation, very low-certainty evidence] Remarks: Neither VIA nor ablative treatment are suitable for screening or treatment of women in whom the transformation zone is not visible.\n\n<question>: ",
+  "ChatGPT_response_0": "当妇女的转变区不可见时，不适合对其进行宫颈疾病筛查或治疗。在这种情况下，可见化宫颈病变检查（VIA）和消融治疗均不适用。因此，对于这些不可见转变区的妇女，需要寻求其他筛查和治疗方法。如果转变区不清晰，可能会影响准确性和安全性，因此需避免进行宫颈疾病筛查或治疗。",
+  "query": "什么情况下不适合对妇女进行宫颈疾病筛查或治疗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么情况下不适合对妇女进行宫颈疾病筛查或治疗？\n\n<reference text>: \\* [Conditional recommendation, very low-certainty evidence] Remarks: Neither VIA nor ablative treatment are suitable for screening or treatment of women in whom the transformation zone is not visible.\n\n<reply>: ",
+  "response": "当妇女的转变区不可见时，不适合对其进行宫颈疾病筛查或治疗。在这种情况下，可见化宫颈病变检查（VIA）和消融治疗均不适用。因此，对于这些不可见转变区的妇女，需要寻求其他筛查和治疗方法。如果转变区不清晰，可能会影响准确性和安全性，因此需避免进行宫颈疾病筛查或治疗。"
+}

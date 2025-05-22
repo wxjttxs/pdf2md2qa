@@ -1,0 +1,9 @@
+{
+  "id": 956,
+  "text": "1 \\% \\sim 1 .0 \\%$ ，含 $0 .1 \\%$ ）、罕见（ $( 0 .0 1 \\% \\sim 0 .1 0 \\%$ ，含 $0 .0 1 \\%$ ）和十分罕见（＜ 0.01%）[83]。5.1 临床试验中的AR和AE 与其他疫苗一样， HPV疫苗在临床试验中出现的AR包括接种部位AR和全身AR，接种部位AR更为常见。十分常见的接种部位AR依次为局部疼痛、肿胀和红斑；常见的接种部位AR有瘙痒和硬结。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1 \\% \\sim 1 .0 \\%$ ，含 $0 .1 \\%$ ）、罕见（ $( 0 .0 1 \\% \\sim 0 .1 0 \\%$ ，含 $0 .0 1 \\%$ ）和十分罕见（＜ 0.01%）[83]。5.1 临床试验中的AR和AE 与其他疫苗一样， HPV疫苗在临床试验中出现的AR包括接种部位AR和全身AR，接种部位AR更为常见。十分常见的接种部位AR依次为局部疼痛、肿胀和红斑；常见的接种部位AR有瘙痒和硬结。\n\n<question>: ",
+  "ChatGPT_response_0": "HPV疫苗在临床试验中常见的接种部位不良反应包括局部疼痛、肿胀、红斑、瘙痒和硬结。这些反应在接种部位更为常见，而全身不良反应相对较少。在罕见和十分罕见的不良反应中，接种部位AR在临床试验中的发生率较低，具体情况还需进一步了解。",
+  "query": "HPV疫苗在临床试验中出现的常见接种部位AR是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: HPV疫苗在临床试验中出现的常见接种部位AR是什么？\n\n<reference text>: 1 \\% \\sim 1 .0 \\%$ ，含 $0 .1 \\%$ ）、罕见（ $( 0 .0 1 \\% \\sim 0 .1 0 \\%$ ，含 $0 .0 1 \\%$ ）和十分罕见（＜ 0.01%）[83]。5.1 临床试验中的AR和AE 与其他疫苗一样， HPV疫苗在临床试验中出现的AR包括接种部位AR和全身AR，接种部位AR更为常见。十分常见的接种部位AR依次为局部疼痛、肿胀和红斑；常见的接种部位AR有瘙痒和硬结。\n\n<reply>: ",
+  "response": "HPV疫苗在临床试验中常见的接种部位不良反应包括局部疼痛、肿胀、红斑、瘙痒和硬结。这些反应在接种部位更为常见，而全身不良反应相对较少。在罕见和十分罕见的不良反应中，接种部位AR在临床试验中的发生率较低，具体情况还需进一步了解。"
+}

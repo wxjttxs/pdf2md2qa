@@ -1,0 +1,9 @@
+{
+  "id": 3244,
+  "text": "1183.Li, Y., Wang, X., Li, J.& Ding, W.Combination therapy of liposomal paclitaxel and cisplatin as neoadjuvant chemotherapy in locally advanced cervical cancer.Eur J Gynaecol Oncol 36, 54-58 (2015).1184.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1183.Li, Y., Wang, X., Li, J.& Ding, W.Combination therapy of liposomal paclitaxel and cisplatin as neoadjuvant chemotherapy in locally advanced cervical cancer.Eur J Gynaecol Oncol 36, 54-58 (2015).1184.\n\n<question>: ",
+  "ChatGPT_response_0": "这项研究指出了脂质体紫杉醇和顺铂的组合疗法作为局部晚期宫颈癌的新辅助化疗疗法。这种组合疗法在提高患者病理完全缓解率和减少不良反应方面显示出潜力。通过使用这种药物组合，患者可能会获得更好的治疗效果，但具体治疗方案应由专业医护人员根据患者具体情况进行制定和管理。",
+  "query": "这项研究中指出了哪种药物组合作为局部晚期宫颈癌的新辅助化疗疗法？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中指出了哪种药物组合作为局部晚期宫颈癌的新辅助化疗疗法？\n\n<reference text>: 1183.Li, Y., Wang, X., Li, J.& Ding, W.Combination therapy of liposomal paclitaxel and cisplatin as neoadjuvant chemotherapy in locally advanced cervical cancer.Eur J Gynaecol Oncol 36, 54-58 (2015).1184.\n\n<reply>: ",
+  "response": "这项研究指出了脂质体紫杉醇和顺铂的组合疗法作为局部晚期宫颈癌的新辅助化疗疗法。这种组合疗法在提高患者病理完全缓解率和减少不良反应方面显示出潜力。通过使用这种药物组合，患者可能会获得更好的治疗效果，但具体治疗方案应由专业医护人员根据患者具体情况进行制定和管理。"
+}

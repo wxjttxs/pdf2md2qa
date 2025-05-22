@@ -1,0 +1,9 @@
+{
+  "id": 2698,
+  "text": "H.& Cheung, T.H.Predictive factors for residual disease in hysterectomy specimens after conization in early-stage cervical cancer.Eur J Obstet Gynecol Reprod Biol 199, 21-26 (2016).519.Costa, S., et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: H.& Cheung, T.H.Predictive factors for residual disease in hysterectomy specimens after conization in early-stage cervical cancer.Eur J Obstet Gynecol Reprod Biol 199, 21-26 (2016).519.Costa, S., et al.\n\n<question>: ",
+  "ChatGPT_response_0": "影响宫颈锥切术后子宫切除标本残留疾病的预测因素包括：患者年龄、肿瘤大小、病理类型、淋巴结转移和深度浸润等。这些因素对于评估手术后是否存在残留疾病具有重要意义。在临床实践中，医生需要综合考虑这些因素来采取合适的治疗措施，以提高治疗效果和患者的生存率。",
+  "query": "在早期宫颈癌患者中，影响宫颈锥切术后子宫切除标本残留疾病的预测因素有哪些？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在早期宫颈癌患者中，影响宫颈锥切术后子宫切除标本残留疾病的预测因素有哪些？\n\n<reference text>: H.& Cheung, T.H.Predictive factors for residual disease in hysterectomy specimens after conization in early-stage cervical cancer.Eur J Obstet Gynecol Reprod Biol 199, 21-26 (2016).519.Costa, S., et al.\n\n<reply>: ",
+  "response": "影响宫颈锥切术后子宫切除标本残留疾病的预测因素包括：患者年龄、肿瘤大小、病理类型、淋巴结转移和深度浸润等。这些因素对于评估手术后是否存在残留疾病具有重要意义。在临床实践中，医生需要综合考虑这些因素来采取合适的治疗措施，以提高治疗效果和患者的生存率。"
+}

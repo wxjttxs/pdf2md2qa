@@ -1,0 +1,9 @@
+{
+  "id": 367,
+  "text": "Comparison of the overall recurrence rates between patients in whom FIGO and cTNM had matched with those in whom FIGO and cTNM did not match was statistically insignificant ${ \\mathrm { ( p > } }$ 0.05).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Comparison of the overall recurrence rates between patients in whom FIGO and cTNM had matched with those in whom FIGO and cTNM did not match was statistically insignificant ${ \\mathrm { ( p > } }$ 0.05).\n\n<question>: ",
+  "ChatGPT_response_0": "在对于符合 FIGO 和 cTNM 标准的患者以及不符合标准的患者之间，整体复发率的比较在统计上是不显著的，这意味着两组患者之间的整体复发率没有明显的差异。",
+  "query": "在对于符合 FIGO 和 cTNM 标准的患者以及不符合标准的患者之间，整体复发率的比较是否具有统计学意义？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在对于符合 FIGO 和 cTNM 标准的患者以及不符合标准的患者之间，整体复发率的比较是否具有统计学意义？\n\n<reference text>: Comparison of the overall recurrence rates between patients in whom FIGO and cTNM had matched with those in whom FIGO and cTNM did not match was statistically insignificant ${ \\mathrm { ( p > } }$ 0.05).\n\n<reply>: ",
+  "response": "在对于符合 FIGO 和 cTNM 标准的患者以及不符合标准的患者之间，整体复发率的比较在统计上是不显著的，这意味着两组患者之间的整体复发率没有明显的差异。"
+}

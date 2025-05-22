@@ -1,0 +1,9 @@
+{
+  "id": 4062,
+  "text": "In addition, a repository with samples from around the world can be found online14 and specific examples of HBRs, including ones for HPV, are available on the TechNet-21 website (https://www.technet-21.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: In addition, a repository with samples from around the world can be found online14 and specific examples of HBRs, including ones for HPV, are available on the TechNet-21 website (https://www.technet-21.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "有关 HPV 的具体 HBR 示例可以在 TechNet-21 网站上查阅。",
+  "query": "世界各地的样本库可以在线找到，那么有关HPV的具体HBR示例可以在哪里查阅？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 世界各地的样本库可以在线找到，那么有关HPV的具体HBR示例可以在哪里查阅？\n\n<reference text>: In addition, a repository with samples from around the world can be found online14 and specific examples of HBRs, including ones for HPV, are available on the TechNet-21 website (https://www.technet-21.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "有关 HPV 的具体 HBR 示例可以在 TechNet-21 网站上查阅。"
+}

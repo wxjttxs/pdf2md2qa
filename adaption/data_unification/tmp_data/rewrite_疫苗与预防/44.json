@@ -1,0 +1,9 @@
+{
+  "id": 44,
+  "text": "每 3 年做 1 次 Pap 或 2.每 5 年做 1 次 Pap 和 1 次 HPV 检测 # Most women don't need a Pap test every year!Haveyour lst Pap test when you're 21 If your test results are normal, you can wait 3 years for your next Pap test.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 每 3 年做 1 次 Pap 或 2.每 5 年做 1 次 Pap 和 1 次 HPV 检测 # Most women don't need a Pap test every year!Haveyour lst Pap test when you're 21 If your test results are normal, you can wait 3 years for your next Pap test.\n\n<question>: ",
+  "ChatGPT_response_0": "通常建议女性应该在21岁时进行第一次宫颈抹片检测。如果检测结果正常，接下来的检测可以等到3年之后再进行一次。如果同时进行宫颈抹片检测和HPV检测，则建议每5年进行一次。重要的是要遵循医疗专家的建议，以确保及时检测发现任何问题。如果您有任何疑问或担忧，一定要寻求医生的意见。",
+  "query": "多久应该进行一次宫颈抹片检测？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 多久应该进行一次宫颈抹片检测？\n\n<reference text>: 每 3 年做 1 次 Pap 或 2.每 5 年做 1 次 Pap 和 1 次 HPV 检测 # Most women don't need a Pap test every year!Haveyour lst Pap test when you're 21 If your test results are normal, you can wait 3 years for your next Pap test.\n\n<reply>: ",
+  "response": "通常建议女性应该在21岁时进行第一次宫颈抹片检测。如果检测结果正常，接下来的检测可以等到3年之后再进行一次。如果同时进行宫颈抹片检测和HPV检测，则建议每5年进行一次。重要的是要遵循医疗专家的建议，以确保及时检测发现任何问题。如果您有任何疑问或担忧，一定要寻求医生的意见。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 991,
+  "text": "[28] OLSSON S E, KJAER S K, SIGURDSSON K, et al.Evaluation of quadrivalent HPV 6/11/16/18 vaccine efficacy against cervical and anogenital disease in subjects with serological evidence of prior vaccine type HPV infection[J].",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: [28] OLSSON S E, KJAER S K, SIGURDSSON K, et al.Evaluation of quadrivalent HPV 6/11/16/18 vaccine efficacy against cervical and anogenital disease in subjects with serological evidence of prior vaccine type HPV infection[J].\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "是的，该研究涉及对宫颈疾病的保护效力。",
+  "query": "题为“某四价HPV疫苗针对已有疫苗型HPV感染者的效果评估”的研究是否涉及对宫颈疾病的保护效力？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 题为“某四价HPV疫苗针对已有疫苗型HPV感染者的效果评估”的研究是否涉及对宫颈疾病的保护效力？\n\n<reference text>: [28] OLSSON S E, KJAER S K, SIGURDSSON K, et al.Evaluation of quadrivalent HPV 6/11/16/18 vaccine efficacy against cervical and anogenital disease in subjects with serological evidence of prior vaccine type HPV infection[J].\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "是的，该研究涉及对宫颈疾病的保护效力。"
+}

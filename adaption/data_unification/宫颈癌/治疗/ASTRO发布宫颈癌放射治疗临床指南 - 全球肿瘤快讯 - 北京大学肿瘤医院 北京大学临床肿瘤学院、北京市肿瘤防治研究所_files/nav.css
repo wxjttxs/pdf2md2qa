@@ -1,0 +1,79 @@
+﻿.nav_content{ width:960px; overflow:hidden;height:37px; margin:10px auto;}
+.nav_content a{ color:#333}
+.nav_content a:hover{ color:#fc6500}
+.home_sty{ margin:2px 0 0 0px;}
+.nav_content .lv1_ul li{ float:left;}
+.nav_content .lv1_li{ float:left;display:inline; line-height:14px;}
+.nav_content .mune0{ width:290px; border-right:solid 1px #d9d9d9; float:left; background:url(../images/newico1.gif) no-repeat 10px 2px;  border-left:solid 1px #d9d9d9; margin:0 0 0 15px; height:36px; padding:0 0 0 15px;}
+.nav_content .mune0 ul{ float:left;  width:260px;  overflow:hidden;}
+.nav_content .mune0 .lv1_tit{ float:left; width:22px; height:34px; display:block; margin:0px; display:block; text-indent:-9999px;}
+.nav_content .mune0 ul li{float:left; line-height:20px; margin:0 15px 0 0px; white-space:nowrap}
+
+.nav_content .mune1{ width:180px;  margin:0 0px 0 13px; border-right:solid 1px #d9d9d9;background:url(../images/newico2.gif) no-repeat 0px 2px; overflow:hidden; height:37px;}
+.nav_content .mune1 ul{ float:left; overflow:hidden; width:150px;}
+.nav_content .mune1 .lv1_tit{ float:left; width:22px; height:37px; display:block; margin:0px; display:block; text-indent:-9999px;}
+.nav_content .mune1 ul li{ line-height:20px; float:left;  margin:0 15px 0px 0px; white-space:nowrap}
+
+.nav_content .mune2{ width:175px; margin:0 0px 0 13px; border-right:solid 1px #d9d9d9;background:url(../images/newico3.gif) no-repeat 0px 2px; }
+.nav_content .mune2 ul{ float:left; overflow:hidden; width:150px;height:37px;}
+.nav_content .mune2 .lv1_tit{ float:left; width:22px; height:37px; display:block; margin:0px; display:block; text-indent:-9999px;}
+.nav_content .mune2 ul li{line-height:20px; float:left;  margin:0 15px 0px 0px; white-space:nowrap}
+.nav_content .mune2 .lv3_ul{ display:none}
+
+.nav_content .mune3{width:215px; margin:0 0px 0 13px;background:url(../images/newico4.gif) no-repeat 10px 2px;}
+.nav_content .mune3 ul{ float:left; overflow:hidden; width:180px;height:37px; padding:0 0 0 10px;}
+.nav_content .mune3 .lv1_tit{ float:left; width:22px; height:37px; display:block; margin:0px; display:block; text-indent:-9999px;}
+.nav_content .mune3 ul li{line-height:20px; float:left;  margin:0 15px 0px 0px; white-space:nowrap}
+.nav_content .mune3 .lv3_ul{ display:none}
+
+
+/*20130423头部修改*/
+
+.topLink{ height:31px; line-height:31px; color:#CCCCCC}
+.topLink a{ margin:0 10px; display:inline; color:#666666;}
+.topLink a:hover{ color:#1d509f; text-decoration:underline}
+.topLink .login_btn{ background:url(../images/loginbtn.gif) no-repeat 0 0px; width:43px; text-align:center; display:block; float:left; color:#FFFFFF; margin:5px 0 0 0px; padding:0px 0 0 0px; height:18px; text-indent:-9999px;}
+.logo_div{ margin:10px auto; width:960px; height:60px; overflow:hidden;}
+.logo_div span{ width:455px;}
+.topLink .login_btn:hover{ color:#FFFFFF}
+.welcome{ height:31px; line-height:31px; color:#cccccc;}
+.welcome a{color:#666666; width:100px; text-align:center; display:block; float:left; font-size:14px; font-weight:bold;}
+.welcome a:hover, .welcome a.hover{ color:#a40000;text-decoration:none; background:#FFFFFF; border-left:solid 1px #d7d7d7; border-right:solid 1px #d7d7d7; width:98px;}
+.header_nav_contnet{ width:960px; overflow:hidden;height:37px; margin:0 auto 10px auto;}
+.header_nav_contnet h1{ float:left; width:200px; height:67px;}
+.header_nav_contnet .headerNav{margin:0px 0 0 0px; overflow:hidden; height:50px; border:none; padding:0}
+.header_nav_contnet .headerNavCol{ float:left; background:url(../images/ico1.jpg) no-repeat right center;display:inline; line-height:14px;}
+.header_nav_contnet .headerNavCol .nowrap{ margin:0 0px 0 13px;}
+.header_nav_contnet .headerNavCol img{ float:left; width:16px; height:34px; display:block; margin:0px;}
+.header_nav_contnet .headerNavCol span{ float:left;}
+.header_nav_contnet .headerNavCol span a{ margin:0px 13px 10px 0px; color:#333333; display:inline;float:left;}
+.header_nav_contnet .headerNavCol span a:hover{ color:#1d509f;text-decoration:underline}
+.header_nav_contnet .headerNavCo10{ float:left; display:inline;margin:0 10px 0 0px; border-right:solid 1px #d9d9d9; width:27px!important;}
+
+.header_nav_contnet .headerNavCol1{ width:385px;  border-right:solid 1px #d9d9d9; float:left}
+.header_nav_contnet .headerNavCol1 .nowrap{ width:355px; height:18px; overflow:hidden;}
+
+
+.header_nav_contnet .headerNavCol2{ width:155px;  margin:0 0px 0 13px; border-right:solid 1px #d9d9d9;}
+.headerNavCol2 .nowrap{ width:125px; overflow:hidde; height:18px;}
+
+.header_nav_contnet .headerNavCol3{ width:105px; margin:0 0px 0 13px; border-right:solid 1px #d9d9d9;}
+.header_nav_contnet .headerNavCol3 .nowrap{ width:75px;height:18px; overflow:hidden}
+
+.header_nav_contnet .headerNavCol4{ width:230px; margin:0 0px 0 13px;}
+.header_nav_contnet .headerNavCol4 .nowrap{ width:200px;height:18px; overflow:hidden}
+
+.newico0{ display:block; float:left; width:17px; height:36px; background:url(../images/newico0.gif)}
+.newico0:hover{ background:url(../images/newico0_h.gif)}
+
+.newico1{ display:block; float:left; width:17px; height:36px; background:url(../images/newico1.gif)}
+.newico1:hover{ background:url(../images/newico1_h.gif)}
+
+.newico2{ display:block; float:left; width:17px; height:36px; background:url(../images/newico2.gif)}
+.newico2:hover{ background:url(../images/newico2_h.gif)}
+
+.newico3{ display:block; float:left; width:17px; height:36px; background:url(../images/newico3.gif)}
+.newico3:hover{ background:url(../images/newico3_h.gif)}
+
+.newico4{ display:block; float:left; width:17px; height:36px; background:url(../images/newico4.gif)}
+.newico4:hover{ background:url(../images/newico4_h.gif)}

@@ -1,0 +1,9 @@
+{
+  "id": 3531,
+  "text": "1506.Viswanathan, A.N., et al.American Brachytherapy Society consensus guidelines for locally advanced carcinoma of the cervix.Part II: highdose-rate brachytherapy.Brachytherapy 11, 47-52 (2012).1507.Lee, L.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1506.Viswanathan, A.N., et al.American Brachytherapy Society consensus guidelines for locally advanced carcinoma of the cervix.Part II: highdose-rate brachytherapy.Brachytherapy 11, 47-52 (2012).1507.Lee, L.\n\n<question>: ",
+  "ChatGPT_response_0": "针对宫颈癌局部晚期的治疗，根据研究，建议可以考虑高剂量率近距放射治疗。在治疗过程中，需要根据患者的具体情况制定个性化的治疗方案，结合放疗、化疗等综合治疗手段。另外，定期的随访和评估也是非常重要的，以监测疗效并及时调整治疗方案。",
+  "query": "这项研究对宫颈癌局部晚期的治疗提出了什么建议？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究对宫颈癌局部晚期的治疗提出了什么建议？\n\n<reference text>: 1506.Viswanathan, A.N., et al.American Brachytherapy Society consensus guidelines for locally advanced carcinoma of the cervix.Part II: highdose-rate brachytherapy.Brachytherapy 11, 47-52 (2012).1507.Lee, L.\n\n<reply>: ",
+  "response": "针对宫颈癌局部晚期的治疗，根据研究，建议可以考虑高剂量率近距放射治疗。在治疗过程中，需要根据患者的具体情况制定个性化的治疗方案，结合放疗、化疗等综合治疗手段。另外，定期的随访和评估也是非常重要的，以监测疗效并及时调整治疗方案。"
+}

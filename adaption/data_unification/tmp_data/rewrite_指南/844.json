@@ -1,0 +1,9 @@
+{
+  "id": 844,
+  "text": "65 (95% CI = 0.36-7.61)</td><td>RR = 1.18 (95% CI = 0.48-2.89)</td></tr><tr><td>Post-operative major complications</td><td></td><td></td></tr><tr><td>Vaginal complications</td><td>RR = 3.16 (95% CI = 1.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 65 (95% CI = 0.36-7.61)</td><td>RR = 1.18 (95% CI = 0.48-2.89)</td></tr><tr><td>Post-operative major complications</td><td></td><td></td></tr><tr><td>Vaginal complications</td><td>RR = 3.16 (95% CI = 1.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究数据显示，手术后出现严重并发症的可能性并未得到明显增加。值得注意的是，有时可能会出现某些特定并发症，如阴道并发症的风险可能会增加。在术后阶段，及时关注身体状况和遵循医生建议对于减少并发症的发生至关重要。如果在手术后有任何异常症状，请及时就医以获得专业的治疗和建议。",
+  "query": "手术后出现严重并发症的可能性是否有所增加？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 手术后出现严重并发症的可能性是否有所增加？\n\n<reference text>: 65 (95% CI = 0.36-7.61)</td><td>RR = 1.18 (95% CI = 0.48-2.89)</td></tr><tr><td>Post-operative major complications</td><td></td><td></td></tr><tr><td>Vaginal complications</td><td>RR = 3.16 (95% CI = 1.\n\n<reply>: ",
+  "response": "根据研究数据显示，手术后出现严重并发症的可能性并未得到明显增加。值得注意的是，有时可能会出现某些特定并发症，如阴道并发症的风险可能会增加。在术后阶段，及时关注身体状况和遵循医生建议对于减少并发症的发生至关重要。如果在手术后有任何异常症状，请及时就医以获得专业的治疗和建议。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1631,
+  "text": "29 (95% CI= 1.08-1.53)</td></tr><tr><td>Grade 3-4</td><td>OR = 2.20 (95% CI = 1.72-2.80)</td></tr><tr><td>Acute platelet toxicity</td><td></td></tr><tr><td>Grade 1-2</td><td>OR = 2.30 (95% CI = 1.81-2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 29 (95% CI= 1.08-1.53)</td></tr><tr><td>Grade 3-4</td><td>OR = 2.20 (95% CI = 1.72-2.80)</td></tr><tr><td>Acute platelet toxicity</td><td></td></tr><tr><td>Grade 1-2</td><td>OR = 2.30 (95% CI = 1.81-2.\n\n<question>: ",
+  "ChatGPT_response_0": "在研究中，变量的95%置信区间范围是1.08-1.53。",
+  "query": "在研究中，哪个变量的95%置信区间范围是1.08-1.53？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在研究中，哪个变量的95%置信区间范围是1.08-1.53？\n\n<reference text>: 29 (95% CI= 1.08-1.53)</td></tr><tr><td>Grade 3-4</td><td>OR = 2.20 (95% CI = 1.72-2.80)</td></tr><tr><td>Acute platelet toxicity</td><td></td></tr><tr><td>Grade 1-2</td><td>OR = 2.30 (95% CI = 1.81-2.\n\n<reply>: ",
+  "response": "在研究中，变量的95%置信区间范围是1.08-1.53。"
+}

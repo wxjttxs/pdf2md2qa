@@ -1,0 +1,9 @@
+{
+  "id": 2286,
+  "text": "858</td><td>2010 1</td><td>25</td><td></td><td></td><td></td><td>none</td><td>SCC, stage IB2</td><td>5 x5 cm</td><td>nr</td><td>nr</td><td>yes</td><td>22</td><td>22</td><td>NA</td></tr><tr><td>Abu-Rustum et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 858</td><td>2010 1</td><td>25</td><td></td><td></td><td></td><td>none</td><td>SCC, stage IB2</td><td>5 x5 cm</td><td>nr</td><td>nr</td><td>yes</td><td>22</td><td>22</td><td>NA</td></tr><tr><td>Abu-Rustum et al.\n\n<question>: ",
+  "ChatGPT_response_0": "858是一个数字，在医学上可能没有特定意义。该数字可能在某个文档或研究中被用作标识或编码，但需要更多上下文来解释其含义。您可以进一步提供该数字出现的背景或上下文，以便更准确地解释其含义。",
+  "query": "数字858是什么意思？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 数字858是什么意思？\n\n<reference text>: 858</td><td>2010 1</td><td>25</td><td></td><td></td><td></td><td>none</td><td>SCC, stage IB2</td><td>5 x5 cm</td><td>nr</td><td>nr</td><td>yes</td><td>22</td><td>22</td><td>NA</td></tr><tr><td>Abu-Rustum et al.\n\n<reply>: ",
+  "response": "858是一个数字，在医学上可能没有特定意义。该数字可能在某个文档或研究中被用作标识或编码，但需要更多上下文来解释其含义。您可以进一步提供该数字出现的背景或上下文，以便更准确地解释其含义。"
+}

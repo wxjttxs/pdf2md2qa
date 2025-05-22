@@ -1,0 +1,9 @@
+{
+  "id": 2261,
+  "text": "1896</td><td>2009</td><td>1</td><td>ACC</td><td>25</td><td>3</td><td>10</td><td>no</td><td>NED</td></tr><tr><td> FIGO stage IIIB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lee et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1896</td><td>2009</td><td>1</td><td>ACC</td><td>25</td><td>3</td><td>10</td><td>no</td><td>NED</td></tr><tr><td> FIGO stage IIIB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lee et al.\n\n<question>: ",
+  "ChatGPT_response_0": "年份是1896年。",
+  "query": "年份是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 年份是多少？\n\n<reference text>: 1896</td><td>2009</td><td>1</td><td>ACC</td><td>25</td><td>3</td><td>10</td><td>no</td><td>NED</td></tr><tr><td> FIGO stage IIIB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Lee et al.\n\n<reply>: ",
+  "response": "年份是1896年。"
+}

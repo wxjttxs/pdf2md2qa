@@ -1,0 +1,9 @@
+{
+  "id": 669,
+  "text": "一些研究结果表明 CK5/6 在鳞状细胞癌的诊断中具有很高的敏感性和特异性[36] [37]。Ma 等人研究发现在76 名肺鳞状细胞癌中，CK5/6 的敏感性和特异性分别为 $7 8 .9 \\%$ 和 $9 7 .7 \\%$ 。CK7 是鳞柱交界细胞标记物，主要分布于宫颈癌好发区域，即鳞柱交界处的基底与基底上层储备细胞胞浆内，在癌前病变及宫颈癌中均呈阳性表达。有学者指出，CK7 的表达与 HPV 感染有关[38]。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 一些研究结果表明 CK5/6 在鳞状细胞癌的诊断中具有很高的敏感性和特异性[36] [37]。Ma 等人研究发现在76 名肺鳞状细胞癌中，CK5/6 的敏感性和特异性分别为 $7 8 .9 \\%$ 和 $9 7 .7 \\%$ 。CK7 是鳞柱交界细胞标记物，主要分布于宫颈癌好发区域，即鳞柱交界处的基底与基底上层储备细胞胞浆内，在癌前病变及宫颈癌中均呈阳性表达。有学者指出，CK7 的表达与 HPV 感染有关[38]。\n\n<question>: ",
+  "ChatGPT_response_0": "CK5/6 在鳞状细胞癌中的表达具有很高的敏感性和特异性，而CK7则主要分布于鳞柱交界细胞，并在宫颈癌好发区域中呈阳性表达，与HPV感染有关。CK5/6和CK7的不同表达特点反映了它们在癌症诊断和病理学中的重要作用。",
+  "query": "CK5/6 和 CK7 在癌症中的表达具有哪些不同的特点？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: CK5/6 和 CK7 在癌症中的表达具有哪些不同的特点？\n\n<reference text>: 一些研究结果表明 CK5/6 在鳞状细胞癌的诊断中具有很高的敏感性和特异性[36] [37]。Ma 等人研究发现在76 名肺鳞状细胞癌中，CK5/6 的敏感性和特异性分别为 $7 8 .9 \\%$ 和 $9 7 .7 \\%$ 。CK7 是鳞柱交界细胞标记物，主要分布于宫颈癌好发区域，即鳞柱交界处的基底与基底上层储备细胞胞浆内，在癌前病变及宫颈癌中均呈阳性表达。有学者指出，CK7 的表达与 HPV 感染有关[38]。\n\n<reply>: ",
+  "response": "CK5/6 在鳞状细胞癌中的表达具有很高的敏感性和特异性，而CK7则主要分布于鳞柱交界细胞，并在宫颈癌好发区域中呈阳性表达，与HPV感染有关。CK5/6和CK7的不同表达特点反映了它们在癌症诊断和病理学中的重要作用。"
+}

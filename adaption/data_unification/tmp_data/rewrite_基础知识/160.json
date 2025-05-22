@@ -1,0 +1,9 @@
+{
+  "id": 160,
+  "text": "At the molecular level, viral gene expression changes from a productive infection character­ ized by expression of the E4, L2, and L1 viral genes to a strongly increased expression of the viral oncogenes E6 and E7 (Doorbar et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: At the molecular level, viral gene expression changes from a productive infection character­ ized by expression of the E4, L2, and L1 viral genes to a strongly increased expression of the viral oncogenes E6 and E7 (Doorbar et al.\n\n<question>: ",
+  "ChatGPT_response_0": "病毒基因的表达在分子水平上发生改变的过程涉及从病毒感染开始，表现出E4，L2和L1病毒基因表达的盛行阶段到病毒致癌基因E6和E7表达显著增加的阶段。这种基因表达变化会影响病毒在宿主细胞中的复制和传播。",
+  "query": "病毒基因表达如何在分子水平上发生改变？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 病毒基因表达如何在分子水平上发生改变？\n\n<reference text>: At the molecular level, viral gene expression changes from a productive infection character­ ized by expression of the E4, L2, and L1 viral genes to a strongly increased expression of the viral oncogenes E6 and E7 (Doorbar et al.\n\n<reply>: ",
+  "response": "病毒基因的表达在分子水平上发生改变的过程涉及从病毒感染开始，表现出E4，L2和L1病毒基因表达的盛行阶段到病毒致癌基因E6和E7表达显著增加的阶段。这种基因表达变化会影响病毒在宿主细胞中的复制和传播。"
+}

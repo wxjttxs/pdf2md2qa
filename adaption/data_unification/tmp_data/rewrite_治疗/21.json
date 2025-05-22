@@ -1,0 +1,9 @@
+{
+  "id": 21,
+  "text": "HPV coverage monitoring by survey is discussed briefly as more details are covered in another WHO manual1.Similarly, further guidance on HPV vaccination impact monitoring is available in a separate WHO document2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: HPV coverage monitoring by survey is discussed briefly as more details are covered in another WHO manual1.Similarly, further guidance on HPV vaccination impact monitoring is available in a separate WHO document2.\n\n<question>: ",
+  "ChatGPT_response_0": "世界卫生组织提供了额外关于HPV疫苗接种影响监测的指导文件，通常在涉及更多细节的另一份WHO手册中进行讨论。同样，关于HPV疫苗接种影响监测的进一步指导可在另一份独立的世界卫生组织文件中找到。",
+  "query": "在什么情况下，世界卫生组织提供了额外关于HPV疫苗接种影响监测的指导文件？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在什么情况下，世界卫生组织提供了额外关于HPV疫苗接种影响监测的指导文件？\n\n<reference text>: HPV coverage monitoring by survey is discussed briefly as more details are covered in another WHO manual1.Similarly, further guidance on HPV vaccination impact monitoring is available in a separate WHO document2.\n\n<reply>: ",
+  "response": "世界卫生组织提供了额外关于HPV疫苗接种影响监测的指导文件，通常在涉及更多细节的另一份WHO手册中进行讨论。同样，关于HPV疫苗接种影响监测的进一步指导可在另一份独立的世界卫生组织文件中找到。"
+}

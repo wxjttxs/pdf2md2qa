@@ -1,0 +1,9 @@
+{
+  "id": 454,
+  "text": "Of these, parametrial invasion has been specifically identified in only one $( 0 .2 7 \\% )$ , a patient with FIGO stage IB1 adenocarcinoma diagnosed at one year after conisation for adenocarcinoma in situ.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Of these, parametrial invasion has been specifically identified in only one $( 0 .2 7 \\% )$ , a patient with FIGO stage IB1 adenocarcinoma diagnosed at one year after conisation for adenocarcinoma in situ.\n\n<question>: ",
+  "ChatGPT_response_0": "在这种情况下，参数癌浸润仅在一个特定案例中被确定发现，该患者被诊断为FIGO阶段IB1的腺癌，这发生在切除腺癌原位病变后一年。",
+  "query": "在这些情况下，参数癌侵袭只有一个特定的案例被确定发现，该患者是哪种阶段的腺癌？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在这些情况下，参数癌侵袭只有一个特定的案例被确定发现，该患者是哪种阶段的腺癌？\n\n<reference text>: Of these, parametrial invasion has been specifically identified in only one $( 0 .2 7 \\% )$ , a patient with FIGO stage IB1 adenocarcinoma diagnosed at one year after conisation for adenocarcinoma in situ.\n\n<reply>: ",
+  "response": "在这种情况下，参数癌浸润仅在一个特定案例中被确定发现，该患者被诊断为FIGO阶段IB1的腺癌，这发生在切除腺癌原位病变后一年。"
+}

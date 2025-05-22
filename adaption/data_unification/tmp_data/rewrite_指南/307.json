@@ -1,0 +1,9 @@
+{
+  "id": 307,
+  "text": "Yang et al.174 and Signorelli et $a l .^ { 2 1 4 }$ reported consistent data with the meta-analysis180 mentioned above concerning the high diagnostic performance of PET-CT in terms of specificity ( $9 5 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Yang et al.174 and Signorelli et $a l .^ { 2 1 4 }$ reported consistent data with the meta-analysis180 mentioned above concerning the high diagnostic performance of PET-CT in terms of specificity ( $9 5 .\n\n<question>: ",
+  "ChatGPT_response_0": "PET-CT在特异性方面的诊断性能非常高，根据相关研究和元分析的数据，其特异性可达95%以上。这意味着PET-CT在区分疾病时能够准确地识别患者不具备该疾病的情况，具有较高的诊断准确性和可靠性。因此，在临床实践中，医生可以倚赖PET-CT的高特异性来帮助做出准确的诊断和治疗决策。",
+  "query": "PET-CT在特异性方面的诊断性能有多高？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: PET-CT在特异性方面的诊断性能有多高？\n\n<reference text>: Yang et al.174 and Signorelli et $a l .^ { 2 1 4 }$ reported consistent data with the meta-analysis180 mentioned above concerning the high diagnostic performance of PET-CT in terms of specificity ( $9 5 .\n\n<reply>: ",
+  "response": "PET-CT在特异性方面的诊断性能非常高，根据相关研究和元分析的数据，其特异性可达95%以上。这意味着PET-CT在区分疾病时能够准确地识别患者不具备该疾病的情况，具有较高的诊断准确性和可靠性。因此，在临床实践中，医生可以倚赖PET-CT的高特异性来帮助做出准确的诊断和治疗决策。"
+}

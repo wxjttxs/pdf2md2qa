@@ -1,0 +1,40 @@
+﻿/*---------------------提示信息--------------------*/
+.presentation{
+	margin:0 auto;
+	margin-top:50px;
+	text-align:center;
+}
+.presentation a_btn{
+	width:69px;
+	height:17px;
+	line-height:17px;
+	text-align:center;
+	display:block;
+	float:left;
+	margin-left:10px;
+	background:url(../images/error_btnbg.jpg) no-repeat center center;
+}
+.presentation_p{
+	color:#000;
+	text-align:center;
+	line-height:40px;
+}
+/*lsn--2012-3-1--信息提示*/
+.presentation_p a{ color:#FA5200}
+.presentation_btn{
+	height:20px;
+	width:100px;
+	margin:0 auto;
+	padding:30px 0;
+	color:#1D923A;
+}
+.presentation_btn a{
+	color:#1D923A;
+}
+.presentation_btns{
+	height:20px;
+	width:180px;
+	margin:0 auto;
+	padding:30px 0;
+}
+/*------------------------------------------------*/

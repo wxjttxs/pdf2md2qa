@@ -1,0 +1,9 @@
+{
+  "id": 3562,
+  "text": "Am $J$ Obstet Gynecol 172, 1881-1886; discussion 1886-1888 (1995).1546.Gerard, J.P., et al.[Role of peroperative radiotherapy in the treatment of uterine cancers.Preliminary experience in Lyon].Bull Cancer Radiother 81, 186- 195 (1994).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Am $J$ Obstet Gynecol 172, 1881-1886; discussion 1886-1888 (1995).1546.Gerard, J.P., et al.[Role of peroperative radiotherapy in the treatment of uterine cancers.Preliminary experience in Lyon].Bull Cancer Radiother 81, 186- 195 (1994).\n\n<question>: ",
+  "ChatGPT_response_0": "我计划在海边度假，享受清凉的海风和沙滩上的阳光。在孟夏时分，海边度假能让身心放松，同时还能享受大自然的美景，有助于缓解压力，提升健康。希望你也能找到一个舒适的地方，放松心情，尽情享受假期。",
+  "query": " 孟夏时，你计划在哪个地方度假？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>:  孟夏时，你计划在哪个地方度假？\n\n<reference text>: Am $J$ Obstet Gynecol 172, 1881-1886; discussion 1886-1888 (1995).1546.Gerard, J.P., et al.[Role of peroperative radiotherapy in the treatment of uterine cancers.Preliminary experience in Lyon].Bull Cancer Radiother 81, 186- 195 (1994).\n\n<reply>: ",
+  "response": "我计划在海边度假，享受清凉的海风和沙滩上的阳光。在孟夏时分，海边度假能让身心放松，同时还能享受大自然的美景，有助于缓解压力，提升健康。希望你也能找到一个舒适的地方，放松心情，尽情享受假期。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1555,
+  "text": "# 开车 对许多人来说，开车是成人生活中几乎不可缺少的一部分。如果您正在服用会导致嗜睡的药物，如麻醉性止痛药和一些恶心药物，请勿开车。大多数患者可以在手术后几周内恢复开车，且通常患者在化疗和放疗期间大部分时间都是可以开车的。一定要向您的医疗保健团队询问有关开车的问题。![](images/2d276530c82c151be5e14136a83e5da39b89f6e73b59a95348694e9ef8639e20.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # 开车 对许多人来说，开车是成人生活中几乎不可缺少的一部分。如果您正在服用会导致嗜睡的药物，如麻醉性止痛药和一些恶心药物，请勿开车。大多数患者可以在手术后几周内恢复开车，且通常患者在化疗和放疗期间大部分时间都是可以开车的。一定要向您的医疗保健团队询问有关开车的问题。![](images/2d276530c82c151be5e14136a83e5da39b89f6e73b59a95348694e9ef8639e20.\n\n<question>: ",
+  "ChatGPT_response_0": "根据一般情况，大多数患者可以在手术后几周内恢复开车，且通常在化疗和放疗期间也可以开车。但需要注意，如果正在服用会导致嗜睡的药物，如麻醉性止疼药或某些恶心药物，则不应该驾驶车辆。建议您咨询医疗保健团队针对您特定情况下开车的适宜时间和注意事项。",
+  "query": "您是否了解何时可以恢复开车？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 您是否了解何时可以恢复开车？\n\n<reference text>: # 开车 对许多人来说，开车是成人生活中几乎不可缺少的一部分。如果您正在服用会导致嗜睡的药物，如麻醉性止痛药和一些恶心药物，请勿开车。大多数患者可以在手术后几周内恢复开车，且通常患者在化疗和放疗期间大部分时间都是可以开车的。一定要向您的医疗保健团队询问有关开车的问题。![](images/2d276530c82c151be5e14136a83e5da39b89f6e73b59a95348694e9ef8639e20.\n\n<reply>: ",
+  "response": "根据一般情况，大多数患者可以在手术后几周内恢复开车，且通常在化疗和放疗期间也可以开车。但需要注意，如果正在服用会导致嗜睡的药物，如麻醉性止疼药或某些恶心药物，则不应该驾驶车辆。建议您咨询医疗保健团队针对您特定情况下开车的适宜时间和注意事项。"
+}

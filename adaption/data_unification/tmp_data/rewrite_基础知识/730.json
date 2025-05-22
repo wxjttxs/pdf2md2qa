@@ -1,0 +1,9 @@
+{
+  "id": 730,
+  "text": "![](images/73be254ab95bc7a3276df415f6ff283397cb69340b678665975874885472953c.jpg) Among the 23 recommendations, 6 are identical for both the general population of women and for women living with HIV, and 12 are different and specific for each population.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ![](images/73be254ab95bc7a3276df415f6ff283397cb69340b678665975874885472953c.jpg) Among the 23 recommendations, 6 are identical for both the general population of women and for women living with HIV, and 12 are different and specific for each population.\n\n<question>: ",
+  "ChatGPT_response_0": "在这23项建议中，有6项适用于所有妇女，而有12项是特定针对HIV感染妇女的。",
+  "query": "在这些23项建议中，有多少项是对所有妇女都适用的，而有多少项是特定针对HIV感染妇女的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在这些23项建议中，有多少项是对所有妇女都适用的，而有多少项是特定针对HIV感染妇女的？\n\n<reference text>: ![](images/73be254ab95bc7a3276df415f6ff283397cb69340b678665975874885472953c.jpg) Among the 23 recommendations, 6 are identical for both the general population of women and for women living with HIV, and 12 are different and specific for each population.\n\n<reply>: ",
+  "response": "在这23项建议中，有6项适用于所有妇女，而有12项是特定针对HIV感染妇女的。"
+}

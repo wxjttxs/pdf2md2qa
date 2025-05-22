@@ -1,0 +1,9 @@
+{
+  "id": 1338,
+  "text": "另一些副作用可能要等到治疗结束后很长时间才会出现。许多子宫癌幸存者会经历肠道、泌尿系统和性功能的变化。# 过早绝经 如果还没有进入更年期，切除双侧卵巢的手术（或全骨盆放疗）会导致过早绝经。这称为手术绝经。这是由于体内雌激素突然下降引起的。这种下降可能会导致更年期症状，包括： 潮热 睡眠问题 盗汗 体重增加 情绪变化 阴道内膜变薄、干燥和刺激（阴道萎缩） 当由手术引起时，更年期症状可能是突然的，且更严重。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 另一些副作用可能要等到治疗结束后很长时间才会出现。许多子宫癌幸存者会经历肠道、泌尿系统和性功能的变化。# 过早绝经 如果还没有进入更年期，切除双侧卵巢的手术（或全骨盆放疗）会导致过早绝经。这称为手术绝经。这是由于体内雌激素突然下降引起的。这种下降可能会导致更年期症状，包括： 潮热 睡眠问题 盗汗 体重增加 情绪变化 阴道内膜变薄、干燥和刺激（阴道萎缩） 当由手术引起时，更年期症状可能是突然的，且更严重。\n\n<question>: ",
+  "ChatGPT_response_0": "手术绝经可能会导致过早更年期症状，如潮热、睡眠问题、盗汗、体重增加、情绪变化等。此外，手术绝经还可能引起阴道内膜变薄、干燥和刺激（阴道萎缩）等不适症状。这些症状可能会突然出现且更为严重。若您有相关症状出现，建议及时咨询医生进行评估和治疗。",
+  "query": "手术绝经可能会导致哪些更年期症状？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 手术绝经可能会导致哪些更年期症状？\n\n<reference text>: 另一些副作用可能要等到治疗结束后很长时间才会出现。许多子宫癌幸存者会经历肠道、泌尿系统和性功能的变化。# 过早绝经 如果还没有进入更年期，切除双侧卵巢的手术（或全骨盆放疗）会导致过早绝经。这称为手术绝经。这是由于体内雌激素突然下降引起的。这种下降可能会导致更年期症状，包括： 潮热 睡眠问题 盗汗 体重增加 情绪变化 阴道内膜变薄、干燥和刺激（阴道萎缩） 当由手术引起时，更年期症状可能是突然的，且更严重。\n\n<reply>: ",
+  "response": "手术绝经可能会导致过早更年期症状，如潮热、睡眠问题、盗汗、体重增加、情绪变化等。此外，手术绝经还可能引起阴道内膜变薄、干燥和刺激（阴道萎缩）等不适症状。这些症状可能会突然出现且更为严重。若您有相关症状出现，建议及时咨询医生进行评估和治疗。"
+}

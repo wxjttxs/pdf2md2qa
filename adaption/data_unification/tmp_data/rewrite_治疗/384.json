@@ -1,0 +1,9 @@
+{
+  "id": 384,
+  "text": "Members of the Secretariat who were not part of the Steering Group were kept informed of the guideline development process and participated in the discussions, in particular during meetings of the various teams.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Members of the Secretariat who were not part of the Steering Group were kept informed of the guideline development process and participated in the discussions, in particular during meetings of the various teams.\n\n<question>: ",
+  "ChatGPT_response_0": "秘书处的成员并不都参与了指南制定流程的讨论，但那些不是指导组成员的成员是被保持着消息的，并在特别是在各小组会议期间参与了讨论。这确保了广泛的参与和多元的意见可以在制定指南的过程中得到考虑。",
+  "query": "秘书处的成员是否都被保持着指南制定流程的消息，而且特别是在各小组会议期间参与了讨论？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 秘书处的成员是否都被保持着指南制定流程的消息，而且特别是在各小组会议期间参与了讨论？\n\n<reference text>: Members of the Secretariat who were not part of the Steering Group were kept informed of the guideline development process and participated in the discussions, in particular during meetings of the various teams.\n\n<reply>: ",
+  "response": "秘书处的成员并不都参与了指南制定流程的讨论，但那些不是指导组成员的成员是被保持着消息的，并在特别是在各小组会议期间参与了讨论。这确保了广泛的参与和多元的意见可以在制定指南的过程中得到考虑。"
+}

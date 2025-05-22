@@ -1,0 +1,9 @@
+{
+  "id": 268,
+  "text": "jpg) 图5.2019年按世界银行收入类别分列的公共部门普遍提供癌症诊断和治疗服务的国家百分比 资料来源：世卫组织2019年国家能力调查(18)。2030年若能实现90–70–90目标，预期到2120年可避免6200万宫颈癌死亡病例。![](images/7b0f9b9469e74d3ea0368d644b3cbbf852988680f7e1ca579618dc7e5b434f2c.jpg) # 5.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: jpg) 图5.2019年按世界银行收入类别分列的公共部门普遍提供癌症诊断和治疗服务的国家百分比 资料来源：世卫组织2019年国家能力调查(18)。2030年若能实现90–70–90目标，预期到2120年可避免6200万宫颈癌死亡病例。![](images/7b0f9b9469e74d3ea0368d644b3cbbf852988680f7e1ca579618dc7e5b434f2c.jpg) # 5.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "到2120年，如果实现90-70-90宫颈癌控制目标，预计可以避免6200万宫颈癌死亡病例。",
+  "query": "到2120年，如果实现90-70-90宫颈癌控制目标，预计可以避免多少宫颈癌死亡病例？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 到2120年，如果实现90-70-90宫颈癌控制目标，预计可以避免多少宫颈癌死亡病例？\n\n<reference text>: jpg) 图5.2019年按世界银行收入类别分列的公共部门普遍提供癌症诊断和治疗服务的国家百分比 资料来源：世卫组织2019年国家能力调查(18)。2030年若能实现90–70–90目标，预期到2120年可避免6200万宫颈癌死亡病例。![](images/7b0f9b9469e74d3ea0368d644b3cbbf852988680f7e1ca579618dc7e5b434f2c.jpg) # 5.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "到2120年，如果实现90-70-90宫颈癌控制目标，预计可以避免6200万宫颈癌死亡病例。"
+}

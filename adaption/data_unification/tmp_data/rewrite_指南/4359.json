@@ -1,0 +1,9 @@
+{
+  "id": 4359,
+  "text": "$ along with the forthcoming recommendations on the implementation of screening and treatment strategies (Phase 3), to develop a full consolidated “living guidelines” version of this guidance (Phase 4).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: $ along with the forthcoming recommendations on the implementation of screening and treatment strategies (Phase 3), to develop a full consolidated “living guidelines” version of this guidance (Phase 4).\n\n<question>: ",
+  "ChatGPT_response_0": "当制定完筛查和治疗策略的建议（第三阶段），就会开始制定这一指导意见的“动态指南”版本（第四阶段）。此阶段的目标是制定全面的“动态指南”版本，以包括所有相关信息并确保指导意见的持续更新和改进。",
+  "query": "在什么情况下会开始制定这份指导意见的“动态指南”版本（第四阶段）？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在什么情况下会开始制定这份指导意见的“动态指南”版本（第四阶段）？\n\n<reference text>: $ along with the forthcoming recommendations on the implementation of screening and treatment strategies (Phase 3), to develop a full consolidated “living guidelines” version of this guidance (Phase 4).\n\n<reply>: ",
+  "response": "当制定完筛查和治疗策略的建议（第三阶段），就会开始制定这一指导意见的“动态指南”版本（第四阶段）。此阶段的目标是制定全面的“动态指南”版本，以包括所有相关信息并确保指导意见的持续更新和改进。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 598,
+  "text": "5</td><td>0.8</td><td>0.1 ~ 4.8</td><td>11</td><td>84.6</td><td>0.3</td><td>0.0 ~ 6.1</td></tr><tr><td>常住地址</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农村</td><td>193</td><td>94.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 5</td><td>0.8</td><td>0.1 ~ 4.8</td><td>11</td><td>84.6</td><td>0.3</td><td>0.0 ~ 6.1</td></tr><tr><td>常住地址</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农村</td><td>193</td><td>94.\n\n<question>: ",
+  "ChatGPT_response_0": "我居住在城市。",
+  "query": "你的居住地址是在城市还是农村？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 你的居住地址是在城市还是农村？\n\n<reference text>: 5</td><td>0.8</td><td>0.1 ~ 4.8</td><td>11</td><td>84.6</td><td>0.3</td><td>0.0 ~ 6.1</td></tr><tr><td>常住地址</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>农村</td><td>193</td><td>94.\n\n<reply>: ",
+  "response": "我居住在城市。"
+}

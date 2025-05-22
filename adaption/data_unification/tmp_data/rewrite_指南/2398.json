@@ -1,0 +1,9 @@
+{
+  "id": 2398,
+  "text": "Br J Radiol 69, 610-616 (1996).124.Averette, H.E., Dudan, R.C.& Ford, J.H., Jr.Exploratory celiotomy for surgical staging of cervical cancer.Am J Obstet Gynecol 113, 1090-1096 (1972).125.Sudarsanam, A.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Br J Radiol 69, 610-616 (1996).124.Averette, H.E., Dudan, R.C.& Ford, J.H., Jr.Exploratory celiotomy for surgical staging of cervical cancer.Am J Obstet Gynecol 113, 1090-1096 (1972).125.Sudarsanam, A.\n\n<question>: ",
+  "ChatGPT_response_0": "子宫颈癌的外科分期手术方法主要包括淋巴结清扫术、子宫全摘术、宫颈锥切术等。这些手术方法可以帮助医生确定癌症的分期和扩散范围，从而制定更精准的治疗方案。在手术前，医生可能会进行淋巴结清扫术以确定是否有淋巴结受累。总的来说，手术方法的选择取决于患者的具体情况和病情严重程度。",
+  "query": "什么手术方法可用于子宫颈癌的外科分期？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么手术方法可用于子宫颈癌的外科分期？\n\n<reference text>: Br J Radiol 69, 610-616 (1996).124.Averette, H.E., Dudan, R.C.& Ford, J.H., Jr.Exploratory celiotomy for surgical staging of cervical cancer.Am J Obstet Gynecol 113, 1090-1096 (1972).125.Sudarsanam, A.\n\n<reply>: ",
+  "response": "子宫颈癌的外科分期手术方法主要包括淋巴结清扫术、子宫全摘术、宫颈锥切术等。这些手术方法可以帮助医生确定癌症的分期和扩散范围，从而制定更精准的治疗方案。在手术前，医生可能会进行淋巴结清扫术以确定是否有淋巴结受累。总的来说，手术方法的选择取决于患者的具体情况和病情严重程度。"
+}

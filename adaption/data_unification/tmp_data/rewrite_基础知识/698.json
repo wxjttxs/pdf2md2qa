@@ -1,0 +1,9 @@
+{
+  "id": 698,
+  "text": "Only screening tests approved by regulatory agencies (34) should be considered for introduction.To prevent and treat cervical cancer and reduce mortality, programmes are encouraged to implement population-based screening and treatment strategies.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Only screening tests approved by regulatory agencies (34) should be considered for introduction.To prevent and treat cervical cancer and reduce mortality, programmes are encouraged to implement population-based screening and treatment strategies.\n\n<question>: ",
+  "ChatGPT_response_0": "只有经监管机构批准的筛查测试才可以被考虑引入。为了预防和治疗宫颈癌，并降低死亡率，建议各个项目实施面向人群的筛查和治疗策略。",
+  "query": "哪些测试必须经过监管机构批准才能被考虑引入？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪些测试必须经过监管机构批准才能被考虑引入？\n\n<reference text>: Only screening tests approved by regulatory agencies (34) should be considered for introduction.To prevent and treat cervical cancer and reduce mortality, programmes are encouraged to implement population-based screening and treatment strategies.\n\n<reply>: ",
+  "response": "只有经监管机构批准的筛查测试才可以被考虑引入。为了预防和治疗宫颈癌，并降低死亡率，建议各个项目实施面向人群的筛查和治疗策略。"
+}

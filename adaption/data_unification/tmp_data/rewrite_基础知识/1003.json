@@ -1,0 +1,9 @@
+{
+  "id": 1003,
+  "text": "The studies should be analysed separately.Treatment: The treatment of high-grade lesions requires ablation or excision depending on eligibility.AIS/microinvasive cancer requires excision (CKC or LLETZ).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: The studies should be analysed separately.Treatment: The treatment of high-grade lesions requires ablation or excision depending on eligibility.AIS/microinvasive cancer requires excision (CKC or LLETZ).\n\n<question>: ",
+  "ChatGPT_response_0": "对于高级别病变，通常需要进行射频消融或切除治疗，具体的方法会根据个体情况而定。例如，对于AIS或微侵袭性癌症，一般需要进行切除手术，如锥切术或大环电烙刀术。因此，在选择治疗方法时，应该根据医生的建议和个体情况来决定最合适的治疗方案。",
+  "query": "对于高级别病变，需要进行哪种治疗？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于高级别病变，需要进行哪种治疗？\n\n<reference text>: The studies should be analysed separately.Treatment: The treatment of high-grade lesions requires ablation or excision depending on eligibility.AIS/microinvasive cancer requires excision (CKC or LLETZ).\n\n<reply>: ",
+  "response": "对于高级别病变，通常需要进行射频消融或切除治疗，具体的方法会根据个体情况而定。例如，对于AIS或微侵袭性癌症，一般需要进行切除手术，如锥切术或大环电烙刀术。因此，在选择治疗方法时，应该根据医生的建议和个体情况来决定最合适的治疗方案。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 763,
+  "text": "1 宫颈癌流病负担现状分析（表 1） WHO 非洲区域国家的宫颈癌标化发病率中位数水平最高（32.4/10 万），而东地中海区域国家水平最低（4.4/10 万）。WHO 六个区域中非洲区域国家标化死亡率中位数水平最高（21.9/10 万），东地中海区域最低（2.9/10 万）。DALYs 的中位数水平以美洲区域国家最高（458.2/10 万），其次是非洲区域（371.3/10 万），东地中海区域最低（69.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1 宫颈癌流病负担现状分析（表 1） WHO 非洲区域国家的宫颈癌标化发病率中位数水平最高（32.4/10 万），而东地中海区域国家水平最低（4.4/10 万）。WHO 六个区域中非洲区域国家标化死亡率中位数水平最高（21.9/10 万），东地中海区域最低（2.9/10 万）。DALYs 的中位数水平以美洲区域国家最高（458.2/10 万），其次是非洲区域（371.3/10 万），东地中海区域最低（69.\n\n<question>: ",
+  "ChatGPT_response_0": "根据数据显示，东地中海区域国家的宫颈癌标化发病率和死亡率水平最低。在该地区，宫颈癌的负担相对较低，这可能与该地区的预防和筛查项目以及医疗资源的分配有关。因此，东地中海区域国家可能在宫颈癌的预防和治疗方面取得了一定的成就。",
+  "query": "哪个地区的宫颈癌标化发病率和死亡率水平最低？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 哪个地区的宫颈癌标化发病率和死亡率水平最低？\n\n<reference text>: 1 宫颈癌流病负担现状分析（表 1） WHO 非洲区域国家的宫颈癌标化发病率中位数水平最高（32.4/10 万），而东地中海区域国家水平最低（4.4/10 万）。WHO 六个区域中非洲区域国家标化死亡率中位数水平最高（21.9/10 万），东地中海区域最低（2.9/10 万）。DALYs 的中位数水平以美洲区域国家最高（458.2/10 万），其次是非洲区域（371.3/10 万），东地中海区域最低（69.\n\n<reply>: ",
+  "response": "根据数据显示，东地中海区域国家的宫颈癌标化发病率和死亡率水平最低。在该地区，宫颈癌的负担相对较低，这可能与该地区的预防和筛查项目以及医疗资源的分配有关。因此，东地中海区域国家可能在宫颈癌的预防和治疗方面取得了一定的成就。"
+}

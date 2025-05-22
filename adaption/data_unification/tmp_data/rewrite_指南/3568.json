@@ -1,0 +1,9 @@
+{
+  "id": 3568,
+  "text": "1553.Hicks, M.L., et al.Intraoperative orthovoltage radiation therapy in the treatment of recurrent gynecologic malignancies.Am J Clin Oncol 16, 497- 500 (1993).1554.Konski, A., Neisler, J., Phibbs, G.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1553.Hicks, M.L., et al.Intraoperative orthovoltage radiation therapy in the treatment of recurrent gynecologic malignancies.Am J Clin Oncol 16, 497- 500 (1993).1554.Konski, A., Neisler, J., Phibbs, G.\n\n<question>: ",
+  "ChatGPT_response_0": "根据文献1553和1554中的研究，手术中正矫治放疗在治疗复发性妇科恶性肿瘤中显示出一定的效果。具体效果可能因个体情况而异，但该治疗方法在一些病例中显示出潜在的益处。然而，如何选择合适的治疗方案还需要综合考虑患者的具体情况和医生的建议。",
+  "query": "这项研究中的手术中正矫治放疗在治疗复发性妇科恶性肿瘤方面的效果如何？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中的手术中正矫治放疗在治疗复发性妇科恶性肿瘤方面的效果如何？\n\n<reference text>: 1553.Hicks, M.L., et al.Intraoperative orthovoltage radiation therapy in the treatment of recurrent gynecologic malignancies.Am J Clin Oncol 16, 497- 500 (1993).1554.Konski, A., Neisler, J., Phibbs, G.\n\n<reply>: ",
+  "response": "根据文献1553和1554中的研究，手术中正矫治放疗在治疗复发性妇科恶性肿瘤中显示出一定的效果。具体效果可能因个体情况而异，但该治疗方法在一些病例中显示出潜在的益处。然而，如何选择合适的治疗方案还需要综合考虑患者的具体情况和医生的建议。"
+}

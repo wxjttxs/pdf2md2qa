@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "text": "到2027年，全省癌症防治体系、防治网络进一步健全，危险因素综合防控、癌症筛查和早诊早治能力显著增强，诊疗水平稳步提升，癌症发病率、死亡率上升趋势得到遏制，总体癌症5年生存率提升到 $40 \\%$ 以上，适龄妇女宫颈癌筛查率超 $5 5 \\%$ ，群众对癌症防治核心知识知晓率达75%，重点癌种患者省外转诊率和费用负担指数稳步下降。# 二、任务措施 （一）加强科普宣教，增强全民防癌抗癌意识。大力普及癌症防治健康科普知识，重点加强农村地区居民癌症防治宣传教育。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 到2027年，全省癌症防治体系、防治网络进一步健全，危险因素综合防控、癌症筛查和早诊早治能力显著增强，诊疗水平稳步提升，癌症发病率、死亡率上升趋势得到遏制，总体癌症5年生存率提升到 $40 \\%$ 以上，适龄妇女宫颈癌筛查率超 $5 5 \\%$ ，群众对癌症防治核心知识知晓率达75%，重点癌种患者省外转诊率和费用负担指数稳步下降。# 二、任务措施 （一）加强科普宣教，增强全民防癌抗癌意识。大力普及癌症防治健康科普知识，重点加强农村地区居民癌症防治宣传教育。\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "到2027年，适龄妇女宫颈癌筛查率预计超过55%。",
+  "query": "<question>: 到2027年，适龄妇女宫颈癌筛查率预期达到多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: <question>: 到2027年，适龄妇女宫颈癌筛查率预期达到多少？\n\n<reference text>: 到2027年，全省癌症防治体系、防治网络进一步健全，危险因素综合防控、癌症筛查和早诊早治能力显著增强，诊疗水平稳步提升，癌症发病率、死亡率上升趋势得到遏制，总体癌症5年生存率提升到 $40 \\%$ 以上，适龄妇女宫颈癌筛查率超 $5 5 \\%$ ，群众对癌症防治核心知识知晓率达75%，重点癌种患者省外转诊率和费用负担指数稳步下降。# 二、任务措施 （一）加强科普宣教，增强全民防癌抗癌意识。大力普及癌症防治健康科普知识，重点加强农村地区居民癌症防治宣传教育。\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "到2027年，适龄妇女宫颈癌筛查率预计超过55%。"
+}

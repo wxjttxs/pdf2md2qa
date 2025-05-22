@@ -1,0 +1,9 @@
+{
+  "id": 1252,
+  "text": "In case of local residual macroscopic disease, concomitant chemoradiation were preferentially performed, if possible.Surgical reoperation effectively decreased the risk of local recurrence ( $0 \\%$ versus $3 7 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: In case of local residual macroscopic disease, concomitant chemoradiation were preferentially performed, if possible.Surgical reoperation effectively decreased the risk of local recurrence ( $0 \\%$ versus $3 7 .\n\n<question>: ",
+  "ChatGPT_response_0": "当局部残留的宏观病变出现时，我们会选择进行同时化疗和放疗的治疗方法，以期望取得更好的效果。若可能的话，外科手术再次切除也是一个有效的选择，能显著降低局部复发的风险。在治疗过程中，需要综合考虑患者的具体情况，以制定最合适的个性化治疗方案。",
+  "query": "当局部残留的宏观病变出现时，您会选择怎样的治疗方法？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 当局部残留的宏观病变出现时，您会选择怎样的治疗方法？\n\n<reference text>: In case of local residual macroscopic disease, concomitant chemoradiation were preferentially performed, if possible.Surgical reoperation effectively decreased the risk of local recurrence ( $0 \\%$ versus $3 7 .\n\n<reply>: ",
+  "response": "当局部残留的宏观病变出现时，我们会选择进行同时化疗和放疗的治疗方法，以期望取得更好的效果。若可能的话，外科手术再次切除也是一个有效的选择，能显著降低局部复发的风险。在治疗过程中，需要综合考虑患者的具体情况，以制定最合适的个性化治疗方案。"
+}

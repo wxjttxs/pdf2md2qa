@@ -1,0 +1,9 @@
+{
+  "id": 1237,
+  "text": "95 (95% CI = 0.51-1.78)</td><td>Twin only-indicated</td><td>not estimable</td></tr><tr><td>Twin and history-indicated</td><td>RR = 1.33 (95% CI = 0.71-2.51)</td><td>Twin and history-indicated </td><td>RR = 0.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 95 (95% CI = 0.51-1.78)</td><td>Twin only-indicated</td><td>not estimable</td></tr><tr><td>Twin and history-indicated</td><td>RR = 1.33 (95% CI = 0.71-2.51)</td><td>Twin and history-indicated </td><td>RR = 0.\n\n<question>: ",
+  "ChatGPT_response_0": "根据双胞胎的病例以及家族史指示，风险比值可以在不同情况下有所变化。对于只有双胞胎指示的情况下，风险比值无法估算。而对于双胞胎和家族史均指示的情况下，风险比值为1.33（95% CI = 0.71-2.51）。这些数据有助于评估患病风险，并指导医疗实践。",
+  "query": "在双胞胎病例以及家族史指示下，风险比值为多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在双胞胎病例以及家族史指示下，风险比值为多少？\n\n<reference text>: 95 (95% CI = 0.51-1.78)</td><td>Twin only-indicated</td><td>not estimable</td></tr><tr><td>Twin and history-indicated</td><td>RR = 1.33 (95% CI = 0.71-2.51)</td><td>Twin and history-indicated </td><td>RR = 0.\n\n<reply>: ",
+  "response": "根据双胞胎的病例以及家族史指示，风险比值可以在不同情况下有所变化。对于只有双胞胎指示的情况下，风险比值无法估算。而对于双胞胎和家族史均指示的情况下，风险比值为1.33（95% CI = 0.71-2.51）。这些数据有助于评估患病风险，并指导医疗实践。"
+}

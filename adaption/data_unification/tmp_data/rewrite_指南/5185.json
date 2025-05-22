@@ -1,0 +1,9 @@
+{
+  "id": 5185,
+  "text": "ncbi.nlm.nih.gov/pubmed/20029972.4.Howe HL, Wu X, Ries LAG, et al.Annual report to the nation on the status of cancer, 1975-2003, featuring cancer among U.S.Hispanic/Latino populations.Cancer 2006;107:1711-1742.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ncbi.nlm.nih.gov/pubmed/20029972.4.Howe HL, Wu X, Ries LAG, et al.Annual report to the nation on the status of cancer, 1975-2003, featuring cancer among U.S.Hispanic/Latino populations.Cancer 2006;107:1711-1742.\n\n<question>: ",
+  "ChatGPT_response_0": "根据相关的文献，可以找到针对美国西班牙裔/拉丁裔人口的癌症发病情况的资料。美国的《国家癌症报告》提供了关于2003年之前美国西班牙裔/拉丁裔人口的癌症情况的详细数据。你可以查阅这份报告以获取更多信息。",
+  "query": "针对美国西班牙裔/拉丁裔人口的癌症发病情况，是否可以找到相关的文献或信息？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 针对美国西班牙裔/拉丁裔人口的癌症发病情况，是否可以找到相关的文献或信息？\n\n<reference text>: ncbi.nlm.nih.gov/pubmed/20029972.4.Howe HL, Wu X, Ries LAG, et al.Annual report to the nation on the status of cancer, 1975-2003, featuring cancer among U.S.Hispanic/Latino populations.Cancer 2006;107:1711-1742.\n\n<reply>: ",
+  "response": "根据相关的文献，可以找到针对美国西班牙裔/拉丁裔人口的癌症发病情况的资料。美国的《国家癌症报告》提供了关于2003年之前美国西班牙裔/拉丁裔人口的癌症情况的详细数据。你可以查阅这份报告以获取更多信息。"
+}

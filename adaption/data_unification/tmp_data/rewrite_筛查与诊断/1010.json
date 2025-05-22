@@ -1,0 +1,9 @@
+{
+  "id": 1010,
+  "text": "Br J Cancer, 2011, 105(1):28-37.[49] GIULIANO A R, JOURA E A, GARLAND S M, et al.Ninevalent HPV vaccine efficacy against related diseases and definitive therapy: comparison with historic placebo population[J].",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Br J Cancer, 2011, 105(1):28-37.[49] GIULIANO A R, JOURA E A, GARLAND S M, et al.Ninevalent HPV vaccine efficacy against related diseases and definitive therapy: comparison with historic placebo population[J].\n\n<question>: ",
+  "ChatGPT_response_0": "九价人乳头瘤病毒疫苗已被证明在预防相关疾病方面具有显著的效果。研究表明，九价HPV疫苗在预防相关疾病和确定性治疗方面的功效较之前的安慰剂组有显著提高。这表明该疫苗可以有效预防与乳头瘤病毒相关的疾病，对公共卫生具有重要意义。",
+  "query": "你对九价人乳头瘤病毒疫苗在预防相关疾病和确定性治疗方面的效果有什么看法？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 你对九价人乳头瘤病毒疫苗在预防相关疾病和确定性治疗方面的效果有什么看法？\n\n<reference text>: Br J Cancer, 2011, 105(1):28-37.[49] GIULIANO A R, JOURA E A, GARLAND S M, et al.Ninevalent HPV vaccine efficacy against related diseases and definitive therapy: comparison with historic placebo population[J].\n\n<reply>: ",
+  "response": "九价人乳头瘤病毒疫苗已被证明在预防相关疾病方面具有显著的效果。研究表明，九价HPV疫苗在预防相关疾病和确定性治疗方面的功效较之前的安慰剂组有显著提高。这表明该疫苗可以有效预防与乳头瘤病毒相关的疾病，对公共卫生具有重要意义。"
+}

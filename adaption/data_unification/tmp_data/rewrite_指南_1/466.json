@@ -1,0 +1,9 @@
+{
+  "id": 466,
+  "text": "Recurrence was reported in 6 of the 383 patients $( 1 .6 \\% )$ with a known invasion depth $\\leq 3 ~ \\mathrm { m m } ,$ , and in 5 of the 336 patients $( 1 .5 \\% )$ with a known invasion depth between 3.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Recurrence was reported in 6 of the 383 patients $( 1 .6 \\% )$ with a known invasion depth $\\leq 3 ~ \\mathrm { m m } ,$ , and in 5 of the 336 patients $( 1 .5 \\% )$ with a known invasion depth between 3.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "根据已知数据，肿瘤侵袭深度小于或等于3毫米的患者，其复发概率约为1.6%。",
+  "query": "如果已知某患者的肿瘤侵袭深度小于或等于3毫米，那么该患者复发的概率是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 如果已知某患者的肿瘤侵袭深度小于或等于3毫米，那么该患者复发的概率是多少？\n\n<reference text>: Recurrence was reported in 6 of the 383 patients $( 1 .6 \\% )$ with a known invasion depth $\\leq 3 ~ \\mathrm { m m } ,$ , and in 5 of the 336 patients $( 1 .5 \\% )$ with a known invasion depth between 3.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "根据已知数据，肿瘤侵袭深度小于或等于3毫米的患者，其复发概率约为1.6%。"
+}

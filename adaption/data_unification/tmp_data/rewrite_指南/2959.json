@@ -1,0 +1,9 @@
+{
+  "id": 2959,
+  "text": "Smith, J.R., et al.Abdominal radical trachelectomy: a new surgical technique for the conservative management of cervical carcinoma.Br J Obstet Gynaecol 104, 1196-1200 (1997).840.Palfalvi, L., Ungar, L.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Smith, J.R., et al.Abdominal radical trachelectomy: a new surgical technique for the conservative management of cervical carcinoma.Br J Obstet Gynaecol 104, 1196-1200 (1997).840.Palfalvi, L., Ungar, L.\n\n<question>: ",
+  "ChatGPT_response_0": "近年来，医学界中一个著名的医学团队提出了一种新的手术技术来保守治疗宫颈癌，这个团队是由Smith等人组成的。他们开发了腹部根治性子宫颈切除术这一新的手术技术，用于守护性地治疗宫颈癌。这一创新的手术技术为那些希望保留子宫功能的宫颈癌患者提供了一种治疗选择。",
+  "query": "谁是医学界中著名的医学团队，他们最近提出了一种新的手术技术来保守治疗宫颈癌？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 谁是医学界中著名的医学团队，他们最近提出了一种新的手术技术来保守治疗宫颈癌？\n\n<reference text>: Smith, J.R., et al.Abdominal radical trachelectomy: a new surgical technique for the conservative management of cervical carcinoma.Br J Obstet Gynaecol 104, 1196-1200 (1997).840.Palfalvi, L., Ungar, L.\n\n<reply>: ",
+  "response": "近年来，医学界中一个著名的医学团队提出了一种新的手术技术来保守治疗宫颈癌，这个团队是由Smith等人组成的。他们开发了腹部根治性子宫颈切除术这一新的手术技术，用于守护性地治疗宫颈癌。这一创新的手术技术为那些希望保留子宫功能的宫颈癌患者提供了一种治疗选择。"
+}

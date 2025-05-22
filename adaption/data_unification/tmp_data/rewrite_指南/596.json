@@ -1,0 +1,9 @@
+{
+  "id": 596,
+  "text": "The incidence of late morbidity differed between the two groups, affecting $2 8 \\%$ of patients in the class II group compared with $3 8 \\%$ in the class III group.However, the difference did not reach statistical significance.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: The incidence of late morbidity differed between the two groups, affecting $2 8 \\%$ of patients in the class II group compared with $3 8 \\%$ in the class III group.However, the difference did not reach statistical significance.\n\n<question>: ",
+  "ChatGPT_response_0": "这种差异在两组患者中晚期并发症的发生率确实存在，Ⅱ类组为28％，Ⅲ类组为38％。然而，需要注意的是，这种差异并没有达到统计学意义上的显著性。",
+  "query": "两组患者晚期并发症的发生率有差异，分别影响了Ⅱ类组的28%和Ⅲ类组的38%患者。这种差异是否具有统计学意义？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 两组患者晚期并发症的发生率有差异，分别影响了Ⅱ类组的28%和Ⅲ类组的38%患者。这种差异是否具有统计学意义？\n\n<reference text>: The incidence of late morbidity differed between the two groups, affecting $2 8 \\%$ of patients in the class II group compared with $3 8 \\%$ in the class III group.However, the difference did not reach statistical significance.\n\n<reply>: ",
+  "response": "这种差异在两组患者中晚期并发症的发生率确实存在，Ⅱ类组为28％，Ⅲ类组为38％。然而，需要注意的是，这种差异并没有达到统计学意义上的显著性。"
+}

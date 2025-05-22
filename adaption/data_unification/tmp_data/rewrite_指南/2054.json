@@ -1,0 +1,9 @@
+{
+  "id": 2054,
+  "text": "For distant recurrence alone, the sensitivity of PET-CT was $8 6 \\%$ and the specificty was $1 0 0 \\%$ .The overall estimated of sensitivity was $9 4 .8 \\%$ $9 5 \\% \\mathrm { C I } = 9 1 .2 – 9 6 .9$ ), and the specificity, $8 6 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: For distant recurrence alone, the sensitivity of PET-CT was $8 6 \\%$ and the specificty was $1 0 0 \\%$ .The overall estimated of sensitivity was $9 4 .8 \\%$ $9 5 \\% \\mathrm { C I } = 9 1 .2 – 9 6 .9$ ), and the specificity, $8 6 .\n\n<question>: ",
+  "ChatGPT_response_0": "PET-CT的敏感性为94.8％（95％CI为91.2-96.9），特异性为86％。",
+  "query": "PET-CT的敏感性和特异性分别是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: PET-CT的敏感性和特异性分别是多少？\n\n<reference text>: For distant recurrence alone, the sensitivity of PET-CT was $8 6 \\%$ and the specificty was $1 0 0 \\%$ .The overall estimated of sensitivity was $9 4 .8 \\%$ $9 5 \\% \\mathrm { C I } = 9 1 .2 – 9 6 .9$ ), and the specificity, $8 6 .\n\n<reply>: ",
+  "response": "PET-CT的敏感性为94.8％（95％CI为91.2-96.9），特异性为86％。"
+}

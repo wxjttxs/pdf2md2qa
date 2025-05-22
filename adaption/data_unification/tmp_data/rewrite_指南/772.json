@@ -1,0 +1,9 @@
+{
+  "id": 772,
+  "text": "Several series find that less radical, nerve sparing, hysterectomy seem not to compromise oncological outcomes while associated with less post-surgical morbidity.This concept is currently a subject of research.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Several series find that less radical, nerve sparing, hysterectomy seem not to compromise oncological outcomes while associated with less post-surgical morbidity.This concept is currently a subject of research.\n\n<question>: ",
+  "ChatGPT_response_0": "一些研究表明，较为保守的、神经节省的子宫切除术似乎不会影响癌症治疗效果，同时也与术后并发症更少相关。目前这一理念正是研究的主题之一。",
+  "query": "什么手术方法可能在减少术后并发症的同时不影响癌症治疗效果？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么手术方法可能在减少术后并发症的同时不影响癌症治疗效果？\n\n<reference text>: Several series find that less radical, nerve sparing, hysterectomy seem not to compromise oncological outcomes while associated with less post-surgical morbidity.This concept is currently a subject of research.\n\n<reply>: ",
+  "response": "一些研究表明，较为保守的、神经节省的子宫切除术似乎不会影响癌症治疗效果，同时也与术后并发症更少相关。目前这一理念正是研究的主题之一。"
+}

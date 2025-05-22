@@ -1,0 +1,9 @@
+{
+  "id": 396,
+  "text": "onlinelibrary.wiley.com/doi/10.3322/caac.21834 (https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21834)） 人群宫颈癌发病率也随着国家人类发展指数（Human Development Index, HDI）的降低而升高。在极高HDI（不低于0.8）的国家，平均每10万女性中每年有9.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: onlinelibrary.wiley.com/doi/10.3322/caac.21834 (https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21834)） 人群宫颈癌发病率也随着国家人类发展指数（Human Development Index, HDI）的降低而升高。在极高HDI（不低于0.8）的国家，平均每10万女性中每年有9.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究，人类发展指数（HDI）对宫颈癌发病率有着明显的影响。研究发现，随着国家人类发展指数的降低，宫颈癌的发病率也呈上升趋势。在人类发展指数极高的国家（不低于0.8）中，每年平均每10万女性中有9.",
+  "query": "人类发展指数对于宫颈癌发病率的影响是如何的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 人类发展指数对于宫颈癌发病率的影响是如何的？\n\n<reference text>: onlinelibrary.wiley.com/doi/10.3322/caac.21834 (https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21834)） 人群宫颈癌发病率也随着国家人类发展指数（Human Development Index, HDI）的降低而升高。在极高HDI（不低于0.8）的国家，平均每10万女性中每年有9.\n\n<reply>: ",
+  "response": "根据研究，人类发展指数（HDI）对宫颈癌发病率有着明显的影响。研究发现，随着国家人类发展指数的降低，宫颈癌的发病率也呈上升趋势。在人类发展指数极高的国家（不低于0.8）中，每年平均每10万女性中有9."
+}

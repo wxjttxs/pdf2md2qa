@@ -1,0 +1,9 @@
+{
+  "id": 2245,
+  "text": "1880</td><td>2013</td><td>1</td><td>SCC</td><td>10</td><td>nr</td><td>7</td><td>nr</td><td>NED</td></tr><tr><td> FIGO stage IA2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sood etal.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1880</td><td>2013</td><td>1</td><td>SCC</td><td>10</td><td>nr</td><td>7</td><td>nr</td><td>NED</td></tr><tr><td> FIGO stage IA2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sood etal.\n\n<question>: ",
+  "ChatGPT_response_0": "FIGO分期为IA2的国家和时期是在2013年。",
+  "query": "在什么时候，哪个国家的FIGO分期为IA2？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在什么时候，哪个国家的FIGO分期为IA2？\n\n<reference text>: 1880</td><td>2013</td><td>1</td><td>SCC</td><td>10</td><td>nr</td><td>7</td><td>nr</td><td>NED</td></tr><tr><td> FIGO stage IA2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sood etal.\n\n<reply>: ",
+  "response": "FIGO分期为IA2的国家和时期是在2013年。"
+}

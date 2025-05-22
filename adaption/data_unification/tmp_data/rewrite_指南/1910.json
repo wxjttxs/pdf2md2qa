@@ -1,0 +1,9 @@
+{
+  "id": 1910,
+  "text": "1577</td><td>1985</td><td>20</td><td>Vinblastine</td><td>10</td><td>nr</td></tr><tr><td>Rhomberg et al.1575</td><td>1986</td><td>20</td><td>Vindesine</td><td>30</td><td>7</td></tr><tr><td>Antimetabolites Lorusso et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1577</td><td>1985</td><td>20</td><td>Vinblastine</td><td>10</td><td>nr</td></tr><tr><td>Rhomberg et al.1575</td><td>1986</td><td>20</td><td>Vindesine</td><td>30</td><td>7</td></tr><tr><td>Antimetabolites Lorusso et al.\n\n<question>: ",
+  "ChatGPT_response_0": "这些研究中的药物结果呈现出不同的效果。例如，文白霉素和长春新碱在某些研究中表现出较高的治疗效果，而其他药物如扫荡霉素在不同研究中显示出不同的疗效。需要根据具体药物的特点和患者的情况来确定使用哪种药物，以获得最佳的治疗效果。",
+  "query": "这些研究中的各种药物结果是如何呈现的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些研究中的各种药物结果是如何呈现的？\n\n<reference text>: 1577</td><td>1985</td><td>20</td><td>Vinblastine</td><td>10</td><td>nr</td></tr><tr><td>Rhomberg et al.1575</td><td>1986</td><td>20</td><td>Vindesine</td><td>30</td><td>7</td></tr><tr><td>Antimetabolites Lorusso et al.\n\n<reply>: ",
+  "response": "这些研究中的药物结果呈现出不同的效果。例如，文白霉素和长春新碱在某些研究中表现出较高的治疗效果，而其他药物如扫荡霉素在不同研究中显示出不同的疗效。需要根据具体药物的特点和患者的情况来确定使用哪种药物，以获得最佳的治疗效果。"
+}

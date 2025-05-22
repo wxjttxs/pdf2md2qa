@@ -1,0 +1,9 @@
+{
+  "id": 337,
+  "text": "Thus, data on the efficacy of ICG in cervical sentinel LN detection specifically cannot be drawn from these studies364,365.Data in terms of sensitivity and specificity were available in three studies308,325,326.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Thus, data on the efficacy of ICG in cervical sentinel LN detection specifically cannot be drawn from these studies364,365.Data in terms of sensitivity and specificity were available in three studies308,325,326.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究，目前尚无显示液体细胞学在宫颈前哨淋巴结检测中的效果。对于特定的宫颈前哨淋巴结检测，需要更多相关研究数据来评估其敏感性和特异性。希望未来的研究能够为这一领域提供更多的见解和证据。",
+  "query": "这些研究是否有显示液体细胞学在宫颈前哨淋巴结检测中的效果？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些研究是否有显示液体细胞学在宫颈前哨淋巴结检测中的效果？\n\n<reference text>: Thus, data on the efficacy of ICG in cervical sentinel LN detection specifically cannot be drawn from these studies364,365.Data in terms of sensitivity and specificity were available in three studies308,325,326.\n\n<reply>: ",
+  "response": "根据研究，目前尚无显示液体细胞学在宫颈前哨淋巴结检测中的效果。对于特定的宫颈前哨淋巴结检测，需要更多相关研究数据来评估其敏感性和特异性。希望未来的研究能够为这一领域提供更多的见解和证据。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 359,
+  "text": "Lyon, France: International Agency for Research on Cancer.Available from: https://gco.iarc.fr/today.Fox H, Buckley H, Al-Nafussi A, et al.(1999).Histopathology reporting in cervical screening.1st ed.efold Gage JC, Schiffman M, Katki HA, Castle PE, Fetterman B, Wentzensen N, et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Lyon, France: International Agency for Research on Cancer.Available from: https://gco.iarc.fr/today.Fox H, Buckley H, Al-Nafussi A, et al.(1999).Histopathology reporting in cervical screening.1st ed.efold Gage JC, Schiffman M, Katki HA, Castle PE, Fetterman B, Wentzensen N, et al.\n\n<question>: ",
+  "ChatGPT_response_0": "国际癌症研究机构在法国里昂成立了癌症研究机构。",
+  "query": "什么机构在法国里昂成立了癌症研究机构？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么机构在法国里昂成立了癌症研究机构？\n\n<reference text>: Lyon, France: International Agency for Research on Cancer.Available from: https://gco.iarc.fr/today.Fox H, Buckley H, Al-Nafussi A, et al.(1999).Histopathology reporting in cervical screening.1st ed.efold Gage JC, Schiffman M, Katki HA, Castle PE, Fetterman B, Wentzensen N, et al.\n\n<reply>: ",
+  "response": "国际癌症研究机构在法国里昂成立了癌症研究机构。"
+}

@@ -1,0 +1,12 @@
+﻿$(function(){
+	$(".mt_center1 li").each(function(index){
+		$(this).click(function(){
+			$(".list0").hide();
+			$(".list0:eq("+index+")").show();
+			$(".m_re").hide();
+			$(".m_re:eq("+index+")").show();
+			$(".mt_center1 li").removeClass('hover')
+			$(this).addClass('hover')
+		})
+	});
+})

@@ -1,0 +1,9 @@
+{
+  "id": 746,
+  "text": "Vaccine.2006;24(Suppl3):63-70.41.Centers forDiseaseControl andPrevention (CDC).TheNational Breast and Cervical Cancer Early Detection Program-reducing mortality through screening.Availableat: www.cdc.gov/cancer/nbccedp.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Vaccine.2006;24(Suppl3):63-70.41.Centers forDiseaseControl andPrevention (CDC).TheNational Breast and Cervical Cancer Early Detection Program-reducing mortality through screening.Availableat: www.cdc.gov/cancer/nbccedp.\n\n<question>: ",
+  "ChatGPT_response_0": "疫苗对于预防多种重要疾病非常重要，其中包括但不限于流感、肺炎、麻疹、百日咳、麻风病等。接种疫苗可以有效地帮助人体建立免疫保护，预防疾病的发生和传播，保障个人和社会的健康。因此，接种疫苗是一项重要的公共卫生措施，也是预防疾病的关键措施之一。",
+  "query": "疫苗对于预防什么疾病非常重要？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 疫苗对于预防什么疾病非常重要？\n\n<reference text>: Vaccine.2006;24(Suppl3):63-70.41.Centers forDiseaseControl andPrevention (CDC).TheNational Breast and Cervical Cancer Early Detection Program-reducing mortality through screening.Availableat: www.cdc.gov/cancer/nbccedp.\n\n<reply>: ",
+  "response": "疫苗对于预防多种重要疾病非常重要，其中包括但不限于流感、肺炎、麻疹、百日咳、麻风病等。接种疫苗可以有效地帮助人体建立免疫保护，预防疾病的发生和传播，保障个人和社会的健康。因此，接种疫苗是一项重要的公共卫生措施，也是预防疾病的关键措施之一。"
+}

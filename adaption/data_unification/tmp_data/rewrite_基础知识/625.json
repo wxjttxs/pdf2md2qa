@@ -1,0 +1,9 @@
+{
+  "id": 625,
+  "text": "An External Review Group (ERG) was also established.Its 18 members, none of whom was also a member of the GDG, had expertise in research, policy development, programme implementation and clinical care.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: An External Review Group (ERG) was also established.Its 18 members, none of whom was also a member of the GDG, had expertise in research, policy development, programme implementation and clinical care.\n\n<question>: ",
+  "ChatGPT_response_0": "外部审查组（ERG）由18名成员组成，他们没有任何一位是GDG成员。这些成员在研究、政策制定、项目实施和临床护理方面都具有专业知识。因此，ERG并非由GDG成员组成。",
+  "query": "外部审查组 (ERG) 是否由GDG成员组成？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 外部审查组 (ERG) 是否由GDG成员组成？\n\n<reference text>: An External Review Group (ERG) was also established.Its 18 members, none of whom was also a member of the GDG, had expertise in research, policy development, programme implementation and clinical care.\n\n<reply>: ",
+  "response": "外部审查组（ERG）由18名成员组成，他们没有任何一位是GDG成员。这些成员在研究、政策制定、项目实施和临床护理方面都具有专业知识。因此，ERG并非由GDG成员组成。"
+}

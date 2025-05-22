@@ -1,0 +1,9 @@
+{
+  "id": 1348,
+  "text": "·HPV检测不需要宫颈采样。</td><td>·在抹片检查中，医护人员会从您的宫颈采集细胞。·检查其中是否有任何细胞改变和/或HPV。要检测的项目取决 于您的年龄和健康史。</td></tr></table></body></html> # 我应该接种HPV疫苗吗？一般来说，任何年满9岁的人都应该接种这种疫苗。这种疫苗可非常有效地预防导致大多数宫颈癌的HPV类型。要了解更多信息，请访问immunizebc.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ·HPV检测不需要宫颈采样。</td><td>·在抹片检查中，医护人员会从您的宫颈采集细胞。·检查其中是否有任何细胞改变和/或HPV。要检测的项目取决 于您的年龄和健康史。</td></tr></table></body></html> # 我应该接种HPV疫苗吗？一般来说，任何年满9岁的人都应该接种这种疫苗。这种疫苗可非常有效地预防导致大多数宫颈癌的HPV类型。要了解更多信息，请访问immunizebc.\n\n<question>: ",
+  "ChatGPT_response_0": "一般来说，任何年满9岁的人都应该接种HPV疫苗。这种疫苗可非常有效地预防导致大多数宫颈癌的HPV类型。接种HPV疫苗的年龄建议可以根据您的健康历史和医生的建议进行调整。如果您有更多疫苗接种方面的疑问，建议您咨询医生或者访问相关机构的官方网站以获取详细信息。",
+  "query": "我应该在哪个年龄接种HPV疫苗呢？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 我应该在哪个年龄接种HPV疫苗呢？\n\n<reference text>: ·HPV检测不需要宫颈采样。</td><td>·在抹片检查中，医护人员会从您的宫颈采集细胞。·检查其中是否有任何细胞改变和/或HPV。要检测的项目取决 于您的年龄和健康史。</td></tr></table></body></html> # 我应该接种HPV疫苗吗？一般来说，任何年满9岁的人都应该接种这种疫苗。这种疫苗可非常有效地预防导致大多数宫颈癌的HPV类型。要了解更多信息，请访问immunizebc.\n\n<reply>: ",
+  "response": "一般来说，任何年满9岁的人都应该接种HPV疫苗。这种疫苗可非常有效地预防导致大多数宫颈癌的HPV类型。接种HPV疫苗的年龄建议可以根据您的健康历史和医生的建议进行调整。如果您有更多疫苗接种方面的疑问，建议您咨询医生或者访问相关机构的官方网站以获取详细信息。"
+}

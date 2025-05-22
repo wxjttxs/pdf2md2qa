@@ -1,0 +1,9 @@
+{
+  "id": 5188,
+  "text": "Available at: http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx.Accessed January 26, 2015.7.Parkin DM, Bray F, Ferlay J, Pisani P.Global cancer statistics, 2002.CA Cancer J Clin 2005;55:74-7108.Available at: http://www.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Available at: http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx.Accessed January 26, 2015.7.Parkin DM, Bray F, Ferlay J, Pisani P.Global cancer statistics, 2002.CA Cancer J Clin 2005;55:74-7108.Available at: http://www.\n\n<question>: ",
+  "ChatGPT_response_0": "抱歉，我无法提供关于2002年全球癌症统计数据的信息，你可以访问http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx查阅相关内容。",
+  "query": "这个网站提供了什么关于2002年全球癌症统计数据的信息？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这个网站提供了什么关于2002年全球癌症统计数据的信息？\n\n<reference text>: Available at: http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx.Accessed January 26, 2015.7.Parkin DM, Bray F, Ferlay J, Pisani P.Global cancer statistics, 2002.CA Cancer J Clin 2005;55:74-7108.Available at: http://www.\n\n<reply>: ",
+  "response": "抱歉，我无法提供关于2002年全球癌症统计数据的信息，你可以访问http://globocan.iarc.fr/Pages/fact_sheets_cancer.aspx查阅相关内容。"
+}

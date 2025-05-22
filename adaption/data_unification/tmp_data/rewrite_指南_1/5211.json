@@ -1,0 +1,9 @@
+{
+  "id": 5211,
+  "text": "30.Pecorelli S, Zigliani L, Odicino F.Revised FIGO staging for carcinoma of the cervix.Int J Gynaecol Obstet 2009;105:107-108.Available at: http://www.ncbi.nlm.nih.gov/pubmed/19342051.31.Sedlis A, Bundy BN, Rotman MZ, et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 30.Pecorelli S, Zigliani L, Odicino F.Revised FIGO staging for carcinoma of the cervix.Int J Gynaecol Obstet 2009;105:107-108.Available at: http://www.ncbi.nlm.nih.gov/pubmed/19342051.31.Sedlis A, Bundy BN, Rotman MZ, et al.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "宫颈癌的FIGO分期在2009年确实经过了修订。",
+  "query": "宫颈癌的FIGO分期在2009年是否有过修订？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 宫颈癌的FIGO分期在2009年是否有过修订？\n\n<reference text>: 30.Pecorelli S, Zigliani L, Odicino F.Revised FIGO staging for carcinoma of the cervix.Int J Gynaecol Obstet 2009;105:107-108.Available at: http://www.ncbi.nlm.nih.gov/pubmed/19342051.31.Sedlis A, Bundy BN, Rotman MZ, et al.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "宫颈癌的FIGO分期在2009年确实经过了修订。"
+}

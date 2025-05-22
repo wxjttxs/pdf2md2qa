@@ -1,0 +1,9 @@
+{
+  "id": 1577,
+  "text": "1192</td><td>2011</td><td>46</td><td>Topotecan/cisplatin</td><td>89.5</td><td>2-year: 70</td><td>2-year: 81</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Huang et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1192</td><td>2011</td><td>46</td><td>Topotecan/cisplatin</td><td>89.5</td><td>2-year: 70</td><td>2-year: 81</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Huang et al.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "根据研究，托泊替康联合顺铂用于治疗宫颈癌时，两年的存活率为70%。",
+  "query": "在一项涉及化疗药物的研究中，托泊替康和顺铂相结合用于治疗后两年的存活率是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在一项涉及化疗药物的研究中，托泊替康和顺铂相结合用于治疗后两年的存活率是多少？\n\n<reference text>: 1192</td><td>2011</td><td>46</td><td>Topotecan/cisplatin</td><td>89.5</td><td>2-year: 70</td><td>2-year: 81</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Huang et al.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "根据研究，托泊替康联合顺铂用于治疗宫颈癌时，两年的存活率为70%。"
+}

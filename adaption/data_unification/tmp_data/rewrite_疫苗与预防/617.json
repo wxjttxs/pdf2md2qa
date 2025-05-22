@@ -1,0 +1,9 @@
+{
+  "id": 617,
+  "text": "4</td><td>11</td><td>7.7</td><td>8</td><td>5.2</td></tr><tr><td>30 % ~</td><td>109</td><td>36.9</td><td>55</td><td>38.7</td><td>54</td><td>35.3</td></tr><tr><td>50 % ~</td><td>128</td><td>43.4</td><td>60</td><td>42.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 4</td><td>11</td><td>7.7</td><td>8</td><td>5.2</td></tr><tr><td>30 % ~</td><td>109</td><td>36.9</td><td>55</td><td>38.7</td><td>54</td><td>35.3</td></tr><tr><td>50 % ~</td><td>128</td><td>43.4</td><td>60</td><td>42.\n\n<question>: ",
+  "ChatGPT_response_0": "这些数字代表不同的数值，其中有整数和小数。有些数字可能是代表百分比或其他具体数值。对于具体的数值，可能需要进一步的上下文信息来理解其意义。",
+  "query": "这些数字是什么意思？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些数字是什么意思？\n\n<reference text>: 4</td><td>11</td><td>7.7</td><td>8</td><td>5.2</td></tr><tr><td>30 % ~</td><td>109</td><td>36.9</td><td>55</td><td>38.7</td><td>54</td><td>35.3</td></tr><tr><td>50 % ~</td><td>128</td><td>43.4</td><td>60</td><td>42.\n\n<reply>: ",
+  "response": "这些数字代表不同的数值，其中有整数和小数。有些数字可能是代表百分比或其他具体数值。对于具体的数值，可能需要进一步的上下文信息来理解其意义。"
+}

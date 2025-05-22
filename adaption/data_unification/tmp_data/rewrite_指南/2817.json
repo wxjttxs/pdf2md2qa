@@ -1,0 +1,9 @@
+{
+  "id": 2817,
+  "text": "Int J Gynecol Cancer 24, 787-793 (2014).662.Querleu, D., et al.Modified radical vaginal hysterectomy with or without laparoscopic nerve-sparing dissection: a comparative study.Gynecol Oncol 85, 154-158 (2002).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Int J Gynecol Cancer 24, 787-793 (2014).662.Querleu, D., et al.Modified radical vaginal hysterectomy with or without laparoscopic nerve-sparing dissection: a comparative study.Gynecol Oncol 85, 154-158 (2002).\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究显示，如果要改善术后患者的神经功能保护，通过修改传统的阴道子宫切除术，结合腹腔镜神经保护切除可能会取得更好的效果。",
+  "query": "这项研究中，哪种手术方法在改善术后患者的神经功能保护方面效果更好？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中，哪种手术方法在改善术后患者的神经功能保护方面效果更好？\n\n<reference text>: Int J Gynecol Cancer 24, 787-793 (2014).662.Querleu, D., et al.Modified radical vaginal hysterectomy with or without laparoscopic nerve-sparing dissection: a comparative study.Gynecol Oncol 85, 154-158 (2002).\n\n<reply>: ",
+  "response": "根据研究显示，如果要改善术后患者的神经功能保护，通过修改传统的阴道子宫切除术，结合腹腔镜神经保护切除可能会取得更好的效果。"
+}

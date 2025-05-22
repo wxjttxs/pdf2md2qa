@@ -1,0 +1,9 @@
+{
+  "id": 582,
+  "text": "Patients with positive LNs had postoperative chemoradiation.On hysterectomy specimen $7 0 .1 \\%$ presented a complete histological response.After median follow-up of 3.9 years, only one local recurrence $( 1 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Patients with positive LNs had postoperative chemoradiation.On hysterectomy specimen $7 0 .1 \\%$ presented a complete histological response.After median follow-up of 3.9 years, only one local recurrence $( 1 .\n\n<question>: ",
+  "ChatGPT_response_0": "手术后进行放化疗的患者中，在子宫切除标本上呈现出完全的组织学反应的人数占百分之70.1。随访时间为中位数3.9年后，出现局部复发的患者数量为1个。",
+  "query": "手术后进行放化疗的患者中，多少百分比的人在子宫切除标本上呈现出完全的组织学反应？随访时间为中位数3.9年后，出现局部复发的患者数量是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 手术后进行放化疗的患者中，多少百分比的人在子宫切除标本上呈现出完全的组织学反应？随访时间为中位数3.9年后，出现局部复发的患者数量是多少？\n\n<reference text>: Patients with positive LNs had postoperative chemoradiation.On hysterectomy specimen $7 0 .1 \\%$ presented a complete histological response.After median follow-up of 3.9 years, only one local recurrence $( 1 .\n\n<reply>: ",
+  "response": "手术后进行放化疗的患者中，在子宫切除标本上呈现出完全的组织学反应的人数占百分之70.1。随访时间为中位数3.9年后，出现局部复发的患者数量为1个。"
+}

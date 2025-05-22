@@ -1,0 +1,9 @@
+{
+  "id": 194,
+  "text": ", 2019; Mikami, 2020), clear cell carcinoma, and mesonephric carcinoma.Gastric-type adenocarcinomas comprise $1 0 \\mathrm { - } 1 5 \\%$ of all cervical adenocarcinomas worldwide (Stolnicu et al., 2018; Hodgson et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: , 2019; Mikami, 2020), clear cell carcinoma, and mesonephric carcinoma.Gastric-type adenocarcinomas comprise $1 0 \\mathrm { - } 1 5 \\%$ of all cervical adenocarcinomas worldwide (Stolnicu et al., 2018; Hodgson et al.\n\n<question>: ",
+  "ChatGPT_response_0": "在全球范围内，胃型腺癌在子宫颈腺癌中占比最高，约占所有子宫颈腺癌的10％至15％。这种类型的子宫颈腺癌属于一种罕见的亚型，需要特别注意和识别。随着研究的不断深入，对于这种类型的癌症的诊断和治疗也逐渐有了更多的认识。",
+  "query": "什么类型的子宫颈腺癌在全球范围内占比最高？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么类型的子宫颈腺癌在全球范围内占比最高？\n\n<reference text>: , 2019; Mikami, 2020), clear cell carcinoma, and mesonephric carcinoma.Gastric-type adenocarcinomas comprise $1 0 \\mathrm { - } 1 5 \\%$ of all cervical adenocarcinomas worldwide (Stolnicu et al., 2018; Hodgson et al.\n\n<reply>: ",
+  "response": "在全球范围内，胃型腺癌在子宫颈腺癌中占比最高，约占所有子宫颈腺癌的10％至15％。这种类型的子宫颈腺癌属于一种罕见的亚型，需要特别注意和识别。随着研究的不断深入，对于这种类型的癌症的诊断和治疗也逐渐有了更多的认识。"
+}

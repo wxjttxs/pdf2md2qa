@@ -1,0 +1,9 @@
+{
+  "id": 1577,
+  "text": "[](images/d08deeabfe158f2c7cdba3ac489ec73eda677906482a4a23e22f4bcc5a1cf06f.jpg) 图3.6晚期浸润性宫颈癌，溃疡型 # 显微镜下病理学 在发展中国家大约 $9 0 \\% { \\sim } 9 5 \\%$ 的宫颈浸润癌为鳞癌(图3.7和图 3.8)； $2 \\% \\mathrm { \\sim } 8 \\%$ 是腺癌(图3.9)。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: [](images/d08deeabfe158f2c7cdba3ac489ec73eda677906482a4a23e22f4bcc5a1cf06f.jpg) 图3.6晚期浸润性宫颈癌，溃疡型 # 显微镜下病理学 在发展中国家大约 $9 0 \\% { \\sim } 9 5 \\%$ 的宫颈浸润癌为鳞癌(图3.7和图 3.8)； $2 \\% \\mathrm { \\sim } 8 \\%$ 是腺癌(图3.9)。\n\n<question>: ",
+  "ChatGPT_response_0": "宫颈浸润癌在发展中国家中主要分为鳞癌和腺癌两种类型。其中约90%到95%的病例为鳞癌，而2%到8%的病例为腺癌。鳞癌和腺癌是宫颈浸润癌中最常见的两种类型，其病理学特征和发展趋势可能有所不同，因此在诊断和治疗上需要进行针对性的考虑和处理。",
+  "query": "宫颈浸润癌在发展中国家中主要分为哪两种类型？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 宫颈浸润癌在发展中国家中主要分为哪两种类型？\n\n<reference text>: [](images/d08deeabfe158f2c7cdba3ac489ec73eda677906482a4a23e22f4bcc5a1cf06f.jpg) 图3.6晚期浸润性宫颈癌，溃疡型 # 显微镜下病理学 在发展中国家大约 $9 0 \\% { \\sim } 9 5 \\%$ 的宫颈浸润癌为鳞癌(图3.7和图 3.8)； $2 \\% \\mathrm { \\sim } 8 \\%$ 是腺癌(图3.9)。\n\n<reply>: ",
+  "response": "宫颈浸润癌在发展中国家中主要分为鳞癌和腺癌两种类型。其中约90%到95%的病例为鳞癌，而2%到8%的病例为腺癌。鳞癌和腺癌是宫颈浸润癌中最常见的两种类型，其病理学特征和发展趋势可能有所不同，因此在诊断和治疗上需要进行针对性的考虑和处理。"
+}

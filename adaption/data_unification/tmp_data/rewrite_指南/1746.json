@@ -1,0 +1,9 @@
+{
+  "id": 1746,
+  "text": "Objective response rates ranged from $3 3 \\%$ to $6 7 .9 \\%$ for carboplatin studies and from $2 9 .1 \\%$ to $67 \\%$ for cisplatin/paclitaxel studies, resulting in combined objective response rates of $4 8 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Objective response rates ranged from $3 3 \\%$ to $6 7 .9 \\%$ for carboplatin studies and from $2 9 .1 \\%$ to $67 \\%$ for cisplatin/paclitaxel studies, resulting in combined objective response rates of $4 8 .\n\n<question>: ",
+  "ChatGPT_response_0": "碳酸镓研究的客观反应率范围在33%到67.9%，而顶铂/紫杉醇研究的客观反应率在29.1%到67%之间。综合客观反应率为48%。",
+  "query": "碳酸镓研究的客观反应率和顶铂/紫杉醇研究的客观反应率各有多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 碳酸镓研究的客观反应率和顶铂/紫杉醇研究的客观反应率各有多少？\n\n<reference text>: Objective response rates ranged from $3 3 \\%$ to $6 7 .9 \\%$ for carboplatin studies and from $2 9 .1 \\%$ to $67 \\%$ for cisplatin/paclitaxel studies, resulting in combined objective response rates of $4 8 .\n\n<reply>: ",
+  "response": "碳酸镓研究的客观反应率范围在33%到67.9%，而顶铂/紫杉醇研究的客观反应率在29.1%到67%之间。综合客观反应率为48%。"
+}

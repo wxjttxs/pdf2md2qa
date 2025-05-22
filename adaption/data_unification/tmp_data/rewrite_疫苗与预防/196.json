@@ -1,0 +1,9 @@
+{
+  "id": 196,
+  "text": "偶见：蜂窝组织炎、原发性血小板减少性紫癜、急性播散性脑脊髓炎、头晕、格林巴利综合征、晕厥（有时伴有强直-阵挛性发作）；呕吐、皮疹、荨麻疹、消化不良、上腹痛、腹痛、口渴、流感样症状；上呼吸道感染、肢端疼痛、肌肉骨骼强直、肌无力、肌肉骨骼疼痛、肢体不适、关节痛、嗜睡、偏头痛、感觉减退、睡眠过度、子宫不规则出血、痛经、口咽疼痛、玫瑰糠疹、眼睑水肿、淋巴结病、眩晕、发热感、潮热、呼吸困难。# 【接种部位不良反应】 （接种后 1-5 天） 十分常见：疼痛、肿胀、红斑。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 偶见：蜂窝组织炎、原发性血小板减少性紫癜、急性播散性脑脊髓炎、头晕、格林巴利综合征、晕厥（有时伴有强直-阵挛性发作）；呕吐、皮疹、荨麻疹、消化不良、上腹痛、腹痛、口渴、流感样症状；上呼吸道感染、肢端疼痛、肌肉骨骼强直、肌无力、肌肉骨骼疼痛、肢体不适、关节痛、嗜睡、偏头痛、感觉减退、睡眠过度、子宫不规则出血、痛经、口咽疼痛、玫瑰糠疹、眼睑水肿、淋巴结病、眩晕、发热感、潮热、呼吸困难。# 【接种部位不良反应】 （接种后 1-5 天） 十分常见：疼痛、肿胀、红斑。\n\n<question>: ",
+  "ChatGPT_response_0": "最近出现的不适症状可以是多种情况，例如头晕、呕吐、皮疹、上腹痛、腹痛、口渴、流感样症状、上呼吸道感染、肢端疼痛等。如果您有任何身体不适的症状，建议及时就医以获取专业诊断和治疗。希望您早日康复，保持健康。",
+  "query": "你最近有没有出现什么身体不适的症状？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 你最近有没有出现什么身体不适的症状？\n\n<reference text>: 偶见：蜂窝组织炎、原发性血小板减少性紫癜、急性播散性脑脊髓炎、头晕、格林巴利综合征、晕厥（有时伴有强直-阵挛性发作）；呕吐、皮疹、荨麻疹、消化不良、上腹痛、腹痛、口渴、流感样症状；上呼吸道感染、肢端疼痛、肌肉骨骼强直、肌无力、肌肉骨骼疼痛、肢体不适、关节痛、嗜睡、偏头痛、感觉减退、睡眠过度、子宫不规则出血、痛经、口咽疼痛、玫瑰糠疹、眼睑水肿、淋巴结病、眩晕、发热感、潮热、呼吸困难。# 【接种部位不良反应】 （接种后 1-5 天） 十分常见：疼痛、肿胀、红斑。\n\n<reply>: ",
+  "response": "最近出现的不适症状可以是多种情况，例如头晕、呕吐、皮疹、上腹痛、腹痛、口渴、流感样症状、上呼吸道感染、肢端疼痛等。如果您有任何身体不适的症状，建议及时就医以获取专业诊断和治疗。希望您早日康复，保持健康。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1613,
+  "text": "1362</td><td>2016</td><td>154</td><td>PDR:100%</td><td>MRI: 100%</td><td>37</td><td>95.5</td><td>nr</td><td>11</td></tr><tr><td>Sturdza et al.1363</td><td>2016</td><td>731</td><td>HDR: 58.7% PDR: 40.4% LDR: 1%</td><td>MRI: 80.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1362</td><td>2016</td><td>154</td><td>PDR:100%</td><td>MRI: 100%</td><td>37</td><td>95.5</td><td>nr</td><td>11</td></tr><tr><td>Sturdza et al.1363</td><td>2016</td><td>731</td><td>HDR: 58.7% PDR: 40.4% LDR: 1%</td><td>MRI: 80.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "在2016年的研究中，有154名患者使用了PDR治疗。研究显示，PDR治疗的效果为100%。",
+  "query": "在研究中，2016年有多少患者使用了PDR治疗，PDR治疗的效果如何？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在研究中，2016年有多少患者使用了PDR治疗，PDR治疗的效果如何？\n\n<reference text>: 1362</td><td>2016</td><td>154</td><td>PDR:100%</td><td>MRI: 100%</td><td>37</td><td>95.5</td><td>nr</td><td>11</td></tr><tr><td>Sturdza et al.1363</td><td>2016</td><td>731</td><td>HDR: 58.7% PDR: 40.4% LDR: 1%</td><td>MRI: 80.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "在2016年的研究中，有154名患者使用了PDR治疗。研究显示，PDR治疗的效果为100%。"
+}

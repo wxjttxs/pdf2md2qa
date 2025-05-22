@@ -1,0 +1,9 @@
+{
+  "id": 1344,
+  "text": "0 3 } ^ { \\cdot }$ ).The advantage in terms of 5-year OS rates in favour of radical hysterectomy did not reach statistical significance ( $7 0 .7 \\%$ versus $3 8 .5 \\%$ , ${ \\mathrm { p } } = 0 .0 9$ ).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 3 } ^ { \\cdot }$ ).The advantage in terms of 5-year OS rates in favour of radical hysterectomy did not reach statistical significance ( $7 0 .7 \\%$ versus $3 8 .5 \\%$ , ${ \\mathrm { p } } = 0 .0 9$ ).\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "根治性子宫切除术在5年总体生存率方面显示了更高的优势（70.7%对比38.5%），但未达到统计学显著性差异（p=0.09）。",
+  "query": "在研究中，比较根治性子宫切除术与其他治疗方法的5年总体生存率时，哪个治疗方法显示了更高但无统计显著性差异的总体生存率？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在研究中，比较根治性子宫切除术与其他治疗方法的5年总体生存率时，哪个治疗方法显示了更高但无统计显著性差异的总体生存率？\n\n<reference text>: 0 3 } ^ { \\cdot }$ ).The advantage in terms of 5-year OS rates in favour of radical hysterectomy did not reach statistical significance ( $7 0 .7 \\%$ versus $3 8 .5 \\%$ , ${ \\mathrm { p } } = 0 .0 9$ ).\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "根治性子宫切除术在5年总体生存率方面显示了更高的优势（70.7%对比38.5%），但未达到统计学显著性差异（p=0.09）。"
+}

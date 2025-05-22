@@ -1,0 +1,9 @@
+{
+  "id": 5545,
+  "text": "# 2 宫颈癌的治疗 宫颈癌的治疗主要包括手术治疗和放疗，化疗可与手术、放疗配合或作为晚期及复发性宫颈癌的治疗方式。目前靶向治疗、免疫治疗等也用于复发或转移宫颈癌的治疗。中国抗癌协会妇科肿瘤专业委员会发布的《宫颈癌诊断与治疗指南（2021 年版）》［13］推荐手术治疗适合Ⅰ A 期、Ⅰ B1 期、Ⅰ B2 期、ⅡA1 期患者，对于ⅠB3 期及ⅡA2 期患者，首选同步放化疗，在放疗资源缺乏的地区可选择手术治疗。",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # 2 宫颈癌的治疗 宫颈癌的治疗主要包括手术治疗和放疗，化疗可与手术、放疗配合或作为晚期及复发性宫颈癌的治疗方式。目前靶向治疗、免疫治疗等也用于复发或转移宫颈癌的治疗。中国抗癌协会妇科肿瘤专业委员会发布的《宫颈癌诊断与治疗指南（2021 年版）》［13］推荐手术治疗适合Ⅰ A 期、Ⅰ B1 期、Ⅰ B2 期、ⅡA1 期患者，对于ⅠB3 期及ⅡA2 期患者，首选同步放化疗，在放疗资源缺乏的地区可选择手术治疗。\n\n<question>: ",
+  "ChatGPT_response_0": "宫颈癌治疗的方法主要包括手术治疗、放疗和化疗。对于早期患者，手术治疗通常是首选，而对于晚期或复发性宫颈癌，放疗和化疗的结合也是常用的治疗方式。近年来，靶向治疗和免疫治疗也被用于复发或转移性宫颈癌的治疗。总体而言，治疗方案需要根据患者的具体情况来决定，可以根据最新的指南进行选择合适的治疗方案。",
+  "query": "宫颈癌的治疗方法有哪些？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 宫颈癌的治疗方法有哪些？\n\n<reference text>: # 2 宫颈癌的治疗 宫颈癌的治疗主要包括手术治疗和放疗，化疗可与手术、放疗配合或作为晚期及复发性宫颈癌的治疗方式。目前靶向治疗、免疫治疗等也用于复发或转移宫颈癌的治疗。中国抗癌协会妇科肿瘤专业委员会发布的《宫颈癌诊断与治疗指南（2021 年版）》［13］推荐手术治疗适合Ⅰ A 期、Ⅰ B1 期、Ⅰ B2 期、ⅡA1 期患者，对于ⅠB3 期及ⅡA2 期患者，首选同步放化疗，在放疗资源缺乏的地区可选择手术治疗。\n\n<reply>: ",
+  "response": "宫颈癌治疗的方法主要包括手术治疗、放疗和化疗。对于早期患者，手术治疗通常是首选，而对于晚期或复发性宫颈癌，放疗和化疗的结合也是常用的治疗方式。近年来，靶向治疗和免疫治疗也被用于复发或转移性宫颈癌的治疗。总体而言，治疗方案需要根据患者的具体情况来决定，可以根据最新的指南进行选择合适的治疗方案。"
+}

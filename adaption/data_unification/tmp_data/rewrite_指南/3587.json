@@ -1,0 +1,9 @@
+{
+  "id": 3587,
+  "text": "A., Yordan, E.& Beecham, J.Phase II study of esorubicin (4'-deoxydoxorubicin) in advanced or metastatic squamous carcinoma of the uterine cervix: a Gynecologic Oncology Group Study.Invest New Drugs 7, 235-238 (1989).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: A., Yordan, E.& Beecham, J.Phase II study of esorubicin (4'-deoxydoxorubicin) in advanced or metastatic squamous carcinoma of the uterine cervix: a Gynecologic Oncology Group Study.Invest New Drugs 7, 235-238 (1989).\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究，使用esorubicin（4'-去氧阿霉素）对子宫颈鳞状癌有一定的影响。该药物在治疗晚期或转移性子宫颈鳞状癌的临床试验中展现出潜在的疗效。然而，具体的影响和效果还需要进一步的临床研究和数据支持，以确定其在这种癌症治疗中的确切作用。",
+  "query": "这项研究中使用的药物对子宫颈鳞状癌有什么影响？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中使用的药物对子宫颈鳞状癌有什么影响？\n\n<reference text>: A., Yordan, E.& Beecham, J.Phase II study of esorubicin (4'-deoxydoxorubicin) in advanced or metastatic squamous carcinoma of the uterine cervix: a Gynecologic Oncology Group Study.Invest New Drugs 7, 235-238 (1989).\n\n<reply>: ",
+  "response": "根据研究，使用esorubicin（4'-去氧阿霉素）对子宫颈鳞状癌有一定的影响。该药物在治疗晚期或转移性子宫颈鳞状癌的临床试验中展现出潜在的疗效。然而，具体的影响和效果还需要进一步的临床研究和数据支持，以确定其在这种癌症治疗中的确切作用。"
+}

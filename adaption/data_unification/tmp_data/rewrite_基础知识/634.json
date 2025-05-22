@@ -1,0 +1,9 @@
+{
+  "id": 634,
+  "text": "The scoping document was initially split between screening and treatment recommendations for women living with HIV (approved by the GRC in September 2019) and the general population of women (approved by the GRC in January 2020).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: The scoping document was initially split between screening and treatment recommendations for women living with HIV (approved by the GRC in September 2019) and the general population of women (approved by the GRC in January 2020).\n\n<question>: ",
+  "ChatGPT_response_0": "这个计划最初是分为针对HIV感染者的妇女的筛查和治疗建议（2019年9月GRC批准）以及普通妇女群体的建议（2020年1月GRC批准）两部分的。",
+  "query": "这项计划最初是如何分开的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项计划最初是如何分开的？\n\n<reference text>: The scoping document was initially split between screening and treatment recommendations for women living with HIV (approved by the GRC in September 2019) and the general population of women (approved by the GRC in January 2020).\n\n<reply>: ",
+  "response": "这个计划最初是分为针对HIV感染者的妇女的筛查和治疗建议（2019年9月GRC批准）以及普通妇女群体的建议（2020年1月GRC批准）两部分的。"
+}

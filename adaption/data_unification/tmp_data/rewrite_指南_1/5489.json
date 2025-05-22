@@ -1,0 +1,9 @@
+{
+  "id": 5489,
+  "text": "Available at: http://www.ncbi.nlm.nih.gov/pubmed/9629575.307.van de Nieuwenhof HP, van Ham MAPC, Lotgering FK, Massuger LFAG.First case of vaginal radical trachelectomy in a pregnant patient.Int J Gynecol Cancer 2008;18:1381-1385.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Available at: http://www.ncbi.nlm.nih.gov/pubmed/9629575.307.van de Nieuwenhof HP, van Ham MAPC, Lotgering FK, Massuger LFAG.First case of vaginal radical trachelectomy in a pregnant patient.Int J Gynecol Cancer 2008;18:1381-1385.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "是的，这篇文献提到了怀孕患者首次接受阴式根治性宫颈切除术的案例。",
+  "query": "这篇文献是否提到了怀孕患者首次接受阴式根治性宫颈切除术的案例？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这篇文献是否提到了怀孕患者首次接受阴式根治性宫颈切除术的案例？\n\n<reference text>: Available at: http://www.ncbi.nlm.nih.gov/pubmed/9629575.307.van de Nieuwenhof HP, van Ham MAPC, Lotgering FK, Massuger LFAG.First case of vaginal radical trachelectomy in a pregnant patient.Int J Gynecol Cancer 2008;18:1381-1385.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "是的，这篇文献提到了怀孕患者首次接受阴式根治性宫颈切除术的案例。"
+}

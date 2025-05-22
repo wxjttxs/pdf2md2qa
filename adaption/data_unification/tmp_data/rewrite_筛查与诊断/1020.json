@@ -1,0 +1,9 @@
+{
+  "id": 1020,
+  "text": "MMWR Recomm Rep, 2014, 63(RR-05):1-30.[59] MIN K J, KWON S H, KIM K, et al.Clinical guideline for 9-valent HPV vaccine: Korean Society of Gynecologic Oncology Guideline[J].J Gynecol Oncol, 2019, 30(2):456.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: MMWR Recomm Rep, 2014, 63(RR-05):1-30.[59] MIN K J, KWON S H, KIM K, et al.Clinical guideline for 9-valent HPV vaccine: Korean Society of Gynecologic Oncology Guideline[J].J Gynecol Oncol, 2019, 30(2):456.\n\n<question>: ",
+  "ChatGPT_response_0": "九价人乳头瘤病毒（HPV）疫苗的临床指南通常包括九价疫苗的适应症、接种时间、剂量、接种方案、接种间隔、预防接种方案、禁忌症和不良反应管理等方面的详细指导。值得注意的是，不同地区或组织可能会发布不同的指南，因此最好根据当地推荐的临床指南进行相应的接种决策。",
+  "query": "什么是针对九价人乳头瘤病毒（HPV）疫苗的临床指南？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是针对九价人乳头瘤病毒（HPV）疫苗的临床指南？\n\n<reference text>: MMWR Recomm Rep, 2014, 63(RR-05):1-30.[59] MIN K J, KWON S H, KIM K, et al.Clinical guideline for 9-valent HPV vaccine: Korean Society of Gynecologic Oncology Guideline[J].J Gynecol Oncol, 2019, 30(2):456.\n\n<reply>: ",
+  "response": "九价人乳头瘤病毒（HPV）疫苗的临床指南通常包括九价疫苗的适应症、接种时间、剂量、接种方案、接种间隔、预防接种方案、禁忌症和不良反应管理等方面的详细指导。值得注意的是，不同地区或组织可能会发布不同的指南，因此最好根据当地推荐的临床指南进行相应的接种决策。"
+}

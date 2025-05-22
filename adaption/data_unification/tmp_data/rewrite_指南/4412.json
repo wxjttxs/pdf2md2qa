@@ -1,0 +1,9 @@
+{
+  "id": 4412,
+  "text": "Adverse events were defined as outcomes that were a direct consequence of pre-cancer treatment and were grouped as one category, with the exception of preterm birth, which was considered a critical outcome.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Adverse events were defined as outcomes that were a direct consequence of pre-cancer treatment and were grouped as one category, with the exception of preterm birth, which was considered a critical outcome.\n\n<question>: ",
+  "ChatGPT_response_0": "术前治疗的直接不良事件包括一类直接与癌症治疗相关的结果，如出血、感染等。需要注意的是，早产被认为是一个关键的结果，不属于这一类别。",
+  "query": "对于术前治疗的直接后果，有哪些不良事件被定义为属于一个类别？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于术前治疗的直接后果，有哪些不良事件被定义为属于一个类别？\n\n<reference text>: Adverse events were defined as outcomes that were a direct consequence of pre-cancer treatment and were grouped as one category, with the exception of preterm birth, which was considered a critical outcome.\n\n<reply>: ",
+  "response": "术前治疗的直接不良事件包括一类直接与癌症治疗相关的结果，如出血、感染等。需要注意的是，早产被认为是一个关键的结果，不属于这一类别。"
+}

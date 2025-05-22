@@ -1,0 +1,9 @@
+{
+  "id": 766,
+  "text": "9~65.5</td><td>32.4</td><td>21.2</td><td>4.5~43.4 </td><td>21.9</td><td>17.0</td><td>54.5~633.5</td><td>371.3</td><td>117.6</td></tr><tr><td>东南亚</td><td>9.2~24.5</td><td>15.8 a</td><td>9.9</td><td>4.9~14.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 9~65.5</td><td>32.4</td><td>21.2</td><td>4.5~43.4 </td><td>21.9</td><td>17.0</td><td>54.5~633.5</td><td>371.3</td><td>117.6</td></tr><tr><td>东南亚</td><td>9.2~24.5</td><td>15.8 a</td><td>9.9</td><td>4.9~14.\n\n<question>: ",
+  "ChatGPT_response_0": "根据数据显示，区域\"东南亚\"的数值范围最为广泛，包括了9.2至24.5之间的数值范围。这种广泛范围可能反映了该地区的多样性和复杂性。在医学领域中，了解不同区域数据范围的变化有助于更好地理解健康状况和疾病分布情况。希望这个信息能够对您有所帮助。",
+  "query": "这些数据中哪一个区域的数值范围最为广泛？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些数据中哪一个区域的数值范围最为广泛？\n\n<reference text>: 9~65.5</td><td>32.4</td><td>21.2</td><td>4.5~43.4 </td><td>21.9</td><td>17.0</td><td>54.5~633.5</td><td>371.3</td><td>117.6</td></tr><tr><td>东南亚</td><td>9.2~24.5</td><td>15.8 a</td><td>9.9</td><td>4.9~14.\n\n<reply>: ",
+  "response": "根据数据显示，区域\"东南亚\"的数值范围最为广泛，包括了9.2至24.5之间的数值范围。这种广泛范围可能反映了该地区的多样性和复杂性。在医学领域中，了解不同区域数据范围的变化有助于更好地理解健康状况和疾病分布情况。希望这个信息能够对您有所帮助。"
+}

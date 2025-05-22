@@ -1,0 +1,9 @@
+{
+  "id": 566,
+  "text": "8</td><td>0.4</td><td>0.1 ~2.0</td><td>443</td><td>95.3</td><td>3.1 d</td><td>1.1 ~ 9.0</td></tr><tr><td>36~45</td><td>301</td><td>78.8</td><td>0.7</td><td>0.4 ~ 1.1</td><td>58</td><td>82.9</td><td>0.3</td><td>0.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 8</td><td>0.4</td><td>0.1 ~2.0</td><td>443</td><td>95.3</td><td>3.1 d</td><td>1.1 ~ 9.0</td></tr><tr><td>36~45</td><td>301</td><td>78.8</td><td>0.7</td><td>0.4 ~ 1.1</td><td>58</td><td>82.9</td><td>0.3</td><td>0.\n\n<question>: ",
+  "ChatGPT_response_0": "根据数据显示，年龄段为26~35岁的人口比例最高，为99.3%。",
+  "query": "这组数据中，哪个年龄段的人口比例最高？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这组数据中，哪个年龄段的人口比例最高？\n\n<reference text>: 8</td><td>0.4</td><td>0.1 ~2.0</td><td>443</td><td>95.3</td><td>3.1 d</td><td>1.1 ~ 9.0</td></tr><tr><td>36~45</td><td>301</td><td>78.8</td><td>0.7</td><td>0.4 ~ 1.1</td><td>58</td><td>82.9</td><td>0.3</td><td>0.\n\n<reply>: ",
+  "response": "根据数据显示，年龄段为26~35岁的人口比例最高，为99.3%。"
+}

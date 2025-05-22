@@ -1,0 +1,9 @@
+{
+  "id": 360,
+  "text": "6).If patient has ASCUS/LSIL on cervical cytology within 12 months, continue follow up with cervical cytology is acceptable.If the low-grade cytological abnormalities persist for more than one year, colposcopy should be repeated.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 6).If patient has ASCUS/LSIL on cervical cytology within 12 months, continue follow up with cervical cytology is acceptable.If the low-grade cytological abnormalities persist for more than one year, colposcopy should be repeated.\n\n<question>: ",
+  "ChatGPT_response_0": "如果患者的宫颈细胞学检查显示ASCUS/LSIL，医生在12个月内继续进行宫颈细胞学检查作为随访是可以接受的。如果低级别的细胞学异常持续超过一年，应该重新进行阴道镜检查。",
+  "query": "如果患者的宫颈细胞学检查显示ASCUS/LSIL，医生应该如何处理？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 如果患者的宫颈细胞学检查显示ASCUS/LSIL，医生应该如何处理？\n\n<reference text>: 6).If patient has ASCUS/LSIL on cervical cytology within 12 months, continue follow up with cervical cytology is acceptable.If the low-grade cytological abnormalities persist for more than one year, colposcopy should be repeated.\n\n<reply>: ",
+  "response": "如果患者的宫颈细胞学检查显示ASCUS/LSIL，医生在12个月内继续进行宫颈细胞学检查作为随访是可以接受的。如果低级别的细胞学异常持续超过一年，应该重新进行阴道镜检查。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 711,
+  "text": "https://doi.org/10.1007/s10735-021-09980-2 [41] Gerdes, J., Schwab, U., Lemke, H., et al.(1983) Production of a Mouse Monoclonal Antibody Reactive with a Human Nuclear Antigen Associated with Cell Proliferation.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: https://doi.org/10.1007/s10735-021-09980-2 [41] Gerdes, J., Schwab, U., Lemke, H., et al.(1983) Production of a Mouse Monoclonal Antibody Reactive with a Human Nuclear Antigen Associated with Cell Proliferation.\n\n<question>: ",
+  "ChatGPT_response_0": "这项研究探讨了与细胞增殖相关的人类核抗原，并通过生产与之相关的单克隆抗体进行研究。这些研究结果可能有助于我们更深入地了解细胞生长和增殖的机制。",
+  "query": "这项研究关于什么内容？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究关于什么内容？\n\n<reference text>: https://doi.org/10.1007/s10735-021-09980-2 [41] Gerdes, J., Schwab, U., Lemke, H., et al.(1983) Production of a Mouse Monoclonal Antibody Reactive with a Human Nuclear Antigen Associated with Cell Proliferation.\n\n<reply>: ",
+  "response": "这项研究探讨了与细胞增殖相关的人类核抗原，并通过生产与之相关的单克隆抗体进行研究。这些研究结果可能有助于我们更深入地了解细胞生长和增殖的机制。"
+}

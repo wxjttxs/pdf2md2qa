@@ -1,0 +1,9 @@
+{
+  "id": 789,
+  "text": "Bilateral salpingectomy should be considered.If LN involvement is detected intraoperatively including macrometastases or micrometastases, further PLN dissection and radical hysterectomy should be avoided.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Bilateral salpingectomy should be considered.If LN involvement is detected intraoperatively including macrometastases or micrometastases, further PLN dissection and radical hysterectomy should be avoided.\n\n<question>: ",
+  "ChatGPT_response_0": "在手术中检测到淋巴结受累，包括巨大转移或微小转移时，我们会考虑进行双侧输卵管切除。此外，如果发现淋巴结受累，应避免进行进一步的盆腔淋巴结清扫和根治性子宫切除手术。根据情况，可能需要进行其他治疗措施以便有效处理淋巴结受累情况。",
+  "query": "在手术中检测到淋巴结受累，包括巨大转移或微小转移时，您会考虑进行哪些进一步的手术措施？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在手术中检测到淋巴结受累，包括巨大转移或微小转移时，您会考虑进行哪些进一步的手术措施？\n\n<reference text>: Bilateral salpingectomy should be considered.If LN involvement is detected intraoperatively including macrometastases or micrometastases, further PLN dissection and radical hysterectomy should be avoided.\n\n<reply>: ",
+  "response": "在手术中检测到淋巴结受累，包括巨大转移或微小转移时，我们会考虑进行双侧输卵管切除。此外，如果发现淋巴结受累，应避免进行进一步的盆腔淋巴结清扫和根治性子宫切除手术。根据情况，可能需要进行其他治疗措施以便有效处理淋巴结受累情况。"
+}

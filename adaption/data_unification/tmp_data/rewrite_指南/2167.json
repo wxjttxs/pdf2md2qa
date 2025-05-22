@@ -1,0 +1,9 @@
+{
+  "id": 2167,
+  "text": "0 4 \\mathrm { m G y }$ ).All patients delivered healthy infants with no visible abnormalities al term.The second identified study1864 enrolled six pregnant patients including one patient with cervical cancer.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 4 \\mathrm { m G y }$ ).All patients delivered healthy infants with no visible abnormalities al term.The second identified study1864 enrolled six pregnant patients including one patient with cervical cancer.\n\n<question>: ",
+  "ChatGPT_response_0": "据研究显示，在第二项研究中，除一名患有宫颈癌的孕妇外，其他五名孕妇生产后都没有发现异常情况，且她们所生下的孩子都健康，没有可见的异常。因此，这些患者的孩子在检查中被确认为健康的。",
+  "query": "第二项研究中有6名孕妇参与，其中一名患有宫颈癌。其他五名孕妇生产后没有发现任何异常。请问这些患者的孩子是否都健康？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 第二项研究中有6名孕妇参与，其中一名患有宫颈癌。其他五名孕妇生产后没有发现任何异常。请问这些患者的孩子是否都健康？\n\n<reference text>: 0 4 \\mathrm { m G y }$ ).All patients delivered healthy infants with no visible abnormalities al term.The second identified study1864 enrolled six pregnant patients including one patient with cervical cancer.\n\n<reply>: ",
+  "response": "据研究显示，在第二项研究中，除一名患有宫颈癌的孕妇外，其他五名孕妇生产后都没有发现异常情况，且她们所生下的孩子都健康，没有可见的异常。因此，这些患者的孩子在检查中被确认为健康的。"
+}

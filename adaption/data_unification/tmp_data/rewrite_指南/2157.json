@@ -1,0 +1,9 @@
+{
+  "id": 2157,
+  "text": "In the first one1861, the six enrolled subjects underwent MRI at the time of first referral.Five patients underwent a second MRI examination before surgery.The final histopathological staging and the final MRI staging agreed in five cases.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: In the first one1861, the six enrolled subjects underwent MRI at the time of first referral.Five patients underwent a second MRI examination before surgery.The final histopathological staging and the final MRI staging agreed in five cases.\n\n<question>: ",
+  "ChatGPT_response_0": "在第一批病人中，共有五名病人在手术前进行了第二次MRI检查。",
+  "query": "第一批病人中有多少个病人在手术前进行了第二次MRI检查？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 第一批病人中有多少个病人在手术前进行了第二次MRI检查？\n\n<reference text>: In the first one1861, the six enrolled subjects underwent MRI at the time of first referral.Five patients underwent a second MRI examination before surgery.The final histopathological staging and the final MRI staging agreed in five cases.\n\n<reply>: ",
+  "response": "在第一批病人中，共有五名病人在手术前进行了第二次MRI检查。"
+}

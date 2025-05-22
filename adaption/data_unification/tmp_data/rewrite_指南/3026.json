@@ -1,0 +1,9 @@
+{
+  "id": 3026,
+  "text": "Int $J$ Gynecol Cancer 26, 1510-1514 (2016).924.Toki, N., et al.Microscopic ovarian metastasis of the uterine cervical cancer.Gynecol Oncol 41, 46-51 (1991).925.Natsume, N., et al.Ovarian metastasis in stage IB and II cervical adenocarcinoma.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Int $J$ Gynecol Cancer 26, 1510-1514 (2016).924.Toki, N., et al.Microscopic ovarian metastasis of the uterine cervical cancer.Gynecol Oncol 41, 46-51 (1991).925.Natsume, N., et al.Ovarian metastasis in stage IB and II cervical adenocarcinoma.\n\n<question>: ",
+  "ChatGPT_response_0": "东木，等人在1991年发表了关于子宫颈癌卵巢转移的研究。",
+  "query": "谁在上世纪九十年代发表了有关子宫颈癌卵巢转移的研究？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 谁在上世纪九十年代发表了有关子宫颈癌卵巢转移的研究？\n\n<reference text>: Int $J$ Gynecol Cancer 26, 1510-1514 (2016).924.Toki, N., et al.Microscopic ovarian metastasis of the uterine cervical cancer.Gynecol Oncol 41, 46-51 (1991).925.Natsume, N., et al.Ovarian metastasis in stage IB and II cervical adenocarcinoma.\n\n<reply>: ",
+  "response": "东木，等人在1991年发表了关于子宫颈癌卵巢转移的研究。"
+}

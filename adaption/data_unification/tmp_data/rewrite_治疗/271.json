@@ -1,0 +1,9 @@
+{
+  "id": 271,
+  "text": "5 Target audience 8 # 2.Methods for development of recommendations on HPV mRNA testing 9 2.1 Groups contributing to the guideline development process 9 2.2 Priority questions for review of evidence 10 2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 5 Target audience 8 # 2.Methods for development of recommendations on HPV mRNA testing 9 2.1 Groups contributing to the guideline development process 9 2.2 Priority questions for review of evidence 10 2.\n\n<question>: ",
+  "ChatGPT_response_0": "在制定HPV mRNA检测建议的过程中，参与指南制定的群体包括流行病学家、专科医生、实践医生、临床研究人员以及公共卫生专家等多个专业领域的专家。他们共同参与制定建议的过程，确保了建议的全面性和专业性，为最终建议的制定提供了多方面的专业见解和意见。",
+  "query": "在制定HPV mRNA检测建议的过程中，哪些群体参与了指南制定过程？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在制定HPV mRNA检测建议的过程中，哪些群体参与了指南制定过程？\n\n<reference text>: 5 Target audience 8 # 2.Methods for development of recommendations on HPV mRNA testing 9 2.1 Groups contributing to the guideline development process 9 2.2 Priority questions for review of evidence 10 2.\n\n<reply>: ",
+  "response": "在制定HPV mRNA检测建议的过程中，参与指南制定的群体包括流行病学家、专科医生、实践医生、临床研究人员以及公共卫生专家等多个专业领域的专家。他们共同参与制定建议的过程，确保了建议的全面性和专业性，为最终建议的制定提供了多方面的专业见解和意见。"
+}

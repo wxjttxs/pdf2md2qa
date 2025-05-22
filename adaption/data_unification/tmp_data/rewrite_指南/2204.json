@@ -1,0 +1,9 @@
+{
+  "id": 2204,
+  "text": "Patient had no surgery related complications.No relapse of cancer has been diagnosed during the following 16 months.The second case1941 was a patient treated by a simple trachelectomy and cercalge during 24th week of pregnancy.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Patient had no surgery related complications.No relapse of cancer has been diagnosed during the following 16 months.The second case1941 was a patient treated by a simple trachelectomy and cercalge during 24th week of pregnancy.\n\n<question>: ",
+  "ChatGPT_response_0": "根据记录，这位患者接受手术后没有出现任何并发症。在随后的16个月里，也没有被诊断出癌症复发。",
+  "query": "这位患者接受手术后是否出现任何并发症？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这位患者接受手术后是否出现任何并发症？\n\n<reference text>: Patient had no surgery related complications.No relapse of cancer has been diagnosed during the following 16 months.The second case1941 was a patient treated by a simple trachelectomy and cercalge during 24th week of pregnancy.\n\n<reply>: ",
+  "response": "根据记录，这位患者接受手术后没有出现任何并发症。在随后的16个月里，也没有被诊断出癌症复发。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 2065,
+  "text": "The pooled sensitivity and speciticity for local regional recurrence were $8 2 \\%$ ( $9 5 \\%$ $_ { 0 } ^ { \\prime } \\mathrm { C I } = 7 2 { \\cdot } 9 0 _ { \\cdot } \\$ ) and $9 8 \\%$ $9 5 \\% \\mathrm { C I } = 9 6 { - } 9 9 \\mathrm { ) }$ , respectively.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: The pooled sensitivity and speciticity for local regional recurrence were $8 2 \\%$ ( $9 5 \\%$ $_ { 0 } ^ { \\prime } \\mathrm { C I } = 7 2 { \\cdot } 9 0 _ { \\cdot } \\$ ) and $9 8 \\%$ $9 5 \\% \\mathrm { C I } = 9 6 { - } 9 9 \\mathrm { ) }$ , respectively.\n\n<question>: ",
+  "ChatGPT_response_0": "对于局部区域复发，汇总的敏感度为82％，特异性为98％。",
+  "query": "对于局部区域复发，汇总敏感度和特异性分别是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于局部区域复发，汇总敏感度和特异性分别是多少？\n\n<reference text>: The pooled sensitivity and speciticity for local regional recurrence were $8 2 \\%$ ( $9 5 \\%$ $_ { 0 } ^ { \\prime } \\mathrm { C I } = 7 2 { \\cdot } 9 0 _ { \\cdot } \\$ ) and $9 8 \\%$ $9 5 \\% \\mathrm { C I } = 9 6 { - } 9 9 \\mathrm { ) }$ , respectively.\n\n<reply>: ",
+  "response": "对于局部区域复发，汇总的敏感度为82％，特异性为98％。"
+}

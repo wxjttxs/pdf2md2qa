@@ -1,0 +1,9 @@
+{
+  "id": 663,
+  "text": "0 0 4 \\$ ).There were no significant differences between robotic-assisted laparoscopic hysterectomy and conventional laparoscopic hysterectomy in the overall (three studies594,599,602, $\\mathrm { R R } = 0 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 0 4 \\$ ).There were no significant differences between robotic-assisted laparoscopic hysterectomy and conventional laparoscopic hysterectomy in the overall (three studies594,599,602, $\\mathrm { R R } = 0 .\n\n<question>: ",
+  "ChatGPT_response_0": "在术中并发症方面，机器人辅助腹腔镜子宫切除术和传统腹腔镜子宫切除术之间没有显著差异。这意味着在手术过程中，两种方式的风险水平相似，对患者来说选择哪种方式可能不会对术中并发症产生明显影响。",
+  "query": "这两种手术方式在术中并发症方面有什么不同？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这两种手术方式在术中并发症方面有什么不同？\n\n<reference text>: 0 0 4 \\$ ).There were no significant differences between robotic-assisted laparoscopic hysterectomy and conventional laparoscopic hysterectomy in the overall (three studies594,599,602, $\\mathrm { R R } = 0 .\n\n<reply>: ",
+  "response": "在术中并发症方面，机器人辅助腹腔镜子宫切除术和传统腹腔镜子宫切除术之间没有显著差异。这意味着在手术过程中，两种方式的风险水平相似，对患者来说选择哪种方式可能不会对术中并发症产生明显影响。"
+}

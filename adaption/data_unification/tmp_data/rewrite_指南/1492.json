@@ -1,0 +1,9 @@
+{
+  "id": 1492,
+  "text": "0 3 ]$ .In this trial, despite the survival difference, the recurrence rate and PFS were almost identical in both arms.Grade 3-4 neutropenia was more frequent in the weekly arm than in the triweekly arm ( $3 9 .",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 0 3 ]$ .In this trial, despite the survival difference, the recurrence rate and PFS were almost identical in both arms.Grade 3-4 neutropenia was more frequent in the weekly arm than in the triweekly arm ( $3 9 .\n\n<question>: ",
+  "ChatGPT_response_0": "在这项试验中，每周一次治疗的组比每三周一次治疗的组更频繁出现三四级粒细胞减少症。Grade 3-4 neutropenia 在每周治疗组中更为常见。",
+  "query": "在这项试验中，尽管存活差异，但复发率和无进展生存期在两组中几乎是相同的。哪个组的三四级粒细胞减少症更频繁，分别是每周一次治疗的组和每三周一次治疗的组？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在这项试验中，尽管存活差异，但复发率和无进展生存期在两组中几乎是相同的。哪个组的三四级粒细胞减少症更频繁，分别是每周一次治疗的组和每三周一次治疗的组？\n\n<reference text>: 0 3 ]$ .In this trial, despite the survival difference, the recurrence rate and PFS were almost identical in both arms.Grade 3-4 neutropenia was more frequent in the weekly arm than in the triweekly arm ( $3 9 .\n\n<reply>: ",
+  "response": "在这项试验中，每周一次治疗的组比每三周一次治疗的组更频繁出现三四级粒细胞减少症。Grade 3-4 neutropenia 在每周治疗组中更为常见。"
+}

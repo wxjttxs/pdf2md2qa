@@ -1,0 +1,9 @@
+{
+  "id": 92,
+  "text": "2</td></tr><tr><td>HPV51</td><td>αx-5</td><td>Group 1</td><td>1</td><td>0.9</td><td>1.2</td><td>0.2</td></tr><tr><td>HPV56</td><td>α-6</td><td>Group 1</td><td>0.8</td><td>0.6 0.3</td><td>1.3 1.8</td><td>0.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2</td></tr><tr><td>HPV51</td><td>αx-5</td><td>Group 1</td><td>1</td><td>0.9</td><td>1.2</td><td>0.2</td></tr><tr><td>HPV56</td><td>α-6</td><td>Group 1</td><td>0.8</td><td>0.6 0.3</td><td>1.3 1.8</td><td>0.\n\n<question>: ",
+  "ChatGPT_response_0": "HPV51和HPV56分别属于第一组。HPV51属于αx-5亚型，而HPV56属于α-6亚型。感染HPV病毒可能会导致不同类型的疾病，因此了解它们所属的组别能够帮助我们更好地了解相关疾病的发展和预防措施的制定。希望这能回答您的问题。",
+  "query": "这组数据中的HPV51和HPV56在哪个组中？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这组数据中的HPV51和HPV56在哪个组中？\n\n<reference text>: 2</td></tr><tr><td>HPV51</td><td>αx-5</td><td>Group 1</td><td>1</td><td>0.9</td><td>1.2</td><td>0.2</td></tr><tr><td>HPV56</td><td>α-6</td><td>Group 1</td><td>0.8</td><td>0.6 0.3</td><td>1.3 1.8</td><td>0.\n\n<reply>: ",
+  "response": "HPV51和HPV56分别属于第一组。HPV51属于αx-5亚型，而HPV56属于α-6亚型。感染HPV病毒可能会导致不同类型的疾病，因此了解它们所属的组别能够帮助我们更好地了解相关疾病的发展和预防措施的制定。希望这能回答您的问题。"
+}

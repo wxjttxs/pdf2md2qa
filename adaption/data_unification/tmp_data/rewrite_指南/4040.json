@@ -1,0 +1,9 @@
+{
+  "id": 4040,
+  "text": "of HPV1 doses given</td><td colspan=\"2\">No.of HPV2 doses given</td><td>Optional Check Column (sum up rows)</td></tr><tr><td>2009</td><td>00000 00000 00 00000 00000</td><td>9yrHPV1= 8</td><td>00000 00000 00 0.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: of HPV1 doses given</td><td colspan=\"2\">No.of HPV2 doses given</td><td>Optional Check Column (sum up rows)</td></tr><tr><td>2009</td><td>00000 00000 00 00000 00000</td><td>9yrHPV1= 8</td><td>00000 00000 00 0.\n\n<question>: ",
+  "ChatGPT_response_0": "在2009年，共有8人接种了HPV1剂量和HPV2剂量。",
+  "query": "在2009年，有多少人接种了HPV1剂量和HPV2剂量？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在2009年，有多少人接种了HPV1剂量和HPV2剂量？\n\n<reference text>: of HPV1 doses given</td><td colspan=\"2\">No.of HPV2 doses given</td><td>Optional Check Column (sum up rows)</td></tr><tr><td>2009</td><td>00000 00000 00 00000 00000</td><td>9yrHPV1= 8</td><td>00000 00000 00 0.\n\n<reply>: ",
+  "response": "在2009年，共有8人接种了HPV1剂量和HPV2剂量。"
+}

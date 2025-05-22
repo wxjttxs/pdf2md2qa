@@ -1,0 +1,9 @@
+{
+  "id": 2540,
+  "text": "Int J Clin Oncol 15, 52-58 (2010).308.Furukawa, N., et al.The usefulness of photodynamic eye for sentinel lymph node identification in patients with cervical cancer.Tumori 96, 936-940 (2010).309.Kato, H.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Int J Clin Oncol 15, 52-58 (2010).308.Furukawa, N., et al.The usefulness of photodynamic eye for sentinel lymph node identification in patients with cervical cancer.Tumori 96, 936-940 (2010).309.Kato, H.\n\n<question>: ",
+  "ChatGPT_response_0": "光动力眼镜在治疗宫颈癌患者时可以帮助查找和区分哪些淋巴结是哪里的信息。通过这种方法，医生可以更准确地定位和识别患者体内的哨兵淋巴结，从而更有效地进行治疗和监测。这项技术对于提高手术的精准性和保护患者组织的完整性具有重要意义。",
+  "query": "在治疗宫颈癌患者中，光动力眼镜对查找并区分哪些淋巴结是哪里的哪些信息？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在治疗宫颈癌患者中，光动力眼镜对查找并区分哪些淋巴结是哪里的哪些信息？\n\n<reference text>: Int J Clin Oncol 15, 52-58 (2010).308.Furukawa, N., et al.The usefulness of photodynamic eye for sentinel lymph node identification in patients with cervical cancer.Tumori 96, 936-940 (2010).309.Kato, H.\n\n<reply>: ",
+  "response": "光动力眼镜在治疗宫颈癌患者时可以帮助查找和区分哪些淋巴结是哪里的信息。通过这种方法，医生可以更准确地定位和识别患者体内的哨兵淋巴结，从而更有效地进行治疗和监测。这项技术对于提高手术的精准性和保护患者组织的完整性具有重要意义。"
+}

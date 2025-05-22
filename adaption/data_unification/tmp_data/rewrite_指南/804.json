@@ -1,0 +1,9 @@
+{
+  "id": 804,
+  "text": "</td></tr><tr><td>Class V</td><td>It is more radical than the previous class with the addition of excision of a portion of the ureter or bladder which is invaded and then the reimplantation of the ureter into the bladder.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: </td></tr><tr><td>Class V</td><td>It is more radical than the previous class with the addition of excision of a portion of the ureter or bladder which is invaded and then the reimplantation of the ureter into the bladder.\n\n<question>: ",
+  "ChatGPT_response_0": "V级别类是在治疗过程中更加激进的一种方式，通常涉及切除受侵犯的尿管或膀胱部分，然后再将尿管重新移植到膀胱中。这种方法在处理一些严重病例时可能会被采用。",
+  "query": "什么是V级别类？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是V级别类？\n\n<reference text>: </td></tr><tr><td>Class V</td><td>It is more radical than the previous class with the addition of excision of a portion of the ureter or bladder which is invaded and then the reimplantation of the ureter into the bladder.\n\n<reply>: ",
+  "response": "V级别类是在治疗过程中更加激进的一种方式，通常涉及切除受侵犯的尿管或膀胱部分，然后再将尿管重新移植到膀胱中。这种方法在处理一些严重病例时可能会被采用。"
+}

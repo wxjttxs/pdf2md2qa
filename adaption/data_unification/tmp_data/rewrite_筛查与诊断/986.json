@@ -1,0 +1,9 @@
+{
+  "id": 986,
+  "text": "Vaccine, 2012, 30(28):4284-4291.[23] HU Y M, GUO M, LI C G, et al.Immunogenicity noninferiority study of 2 doses and 3 doses of an Escherichia coli-produced HPV bivalent vaccine in girls vs.3 doses in young women[J].",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Vaccine, 2012, 30(28):4284-4291.[23] HU Y M, GUO M, LI C G, et al.Immunogenicity noninferiority study of 2 doses and 3 doses of an Escherichia coli-produced HPV bivalent vaccine in girls vs.3 doses in young women[J].\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究，这项疫苗研究的主要结论是在女孩和年轻女性中，接种2剂或3剂大肠杆菌制备的HPV二价疫苗与接种3剂相比，免疫原性方面并不逊色。这意味着在接种时可以考虑减少剂量，同时保持疫苗的有效性。该研究结果为HPV疫苗的使用提供了更多选择和方便性。",
+  "query": "这项疫苗研究的主要结论是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项疫苗研究的主要结论是什么？\n\n<reference text>: Vaccine, 2012, 30(28):4284-4291.[23] HU Y M, GUO M, LI C G, et al.Immunogenicity noninferiority study of 2 doses and 3 doses of an Escherichia coli-produced HPV bivalent vaccine in girls vs.3 doses in young women[J].\n\n<reply>: ",
+  "response": "根据研究，这项疫苗研究的主要结论是在女孩和年轻女性中，接种2剂或3剂大肠杆菌制备的HPV二价疫苗与接种3剂相比，免疫原性方面并不逊色。这意味着在接种时可以考虑减少剂量，同时保持疫苗的有效性。该研究结果为HPV疫苗的使用提供了更多选择和方便性。"
+}

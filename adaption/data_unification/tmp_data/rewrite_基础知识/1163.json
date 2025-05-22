@@ -1,0 +1,9 @@
+{
+  "id": 1163,
+  "text": "# 人乳头状瘤病毒 (HPV) 是否可以治 目前尚无 HPV 感染的治疗方法。仅有 HPV 引起的健康问题的治疗方法，如生殖器疣、子宫颈的变化和宫颈癌等问题。在一些情况下，身体会自然而然地与病毒斗争。如果身体无法自然对抗病毒，则很可能引发严重并发症，如癌症。大多数 HPV可自行消退，但不是在所有病例中，针对这个问题目前仍缺乏解释。究竟哪些人会进展为癌症或其他疾病也无法预测。# 什么是 HPV 疫苗？",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: # 人乳头状瘤病毒 (HPV) 是否可以治 目前尚无 HPV 感染的治疗方法。仅有 HPV 引起的健康问题的治疗方法，如生殖器疣、子宫颈的变化和宫颈癌等问题。在一些情况下，身体会自然而然地与病毒斗争。如果身体无法自然对抗病毒，则很可能引发严重并发症，如癌症。大多数 HPV可自行消退，但不是在所有病例中，针对这个问题目前仍缺乏解释。究竟哪些人会进展为癌症或其他疾病也无法预测。# 什么是 HPV 疫苗？\n\n<question>: ",
+  "ChatGPT_response_0": "HPV疫苗是一种用于预防人乳头状瘤病毒（HPV）感染的疫苗。HPV是一种常见的病毒，会导致各种健康问题，包括生殖器疣、子宫颈的变化和宫颈癌等。HPV疫苗的接种可以帮助预防HPV感染及由此引发的相关健康问题，提供保护免疫力，降低罹患相关疾病的风险。值得一提的是，HPV疫苗最好在性活跃之前接种，以获得最佳保护效果。",
+  "query": "HPV疫苗是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: HPV疫苗是什么？\n\n<reference text>: # 人乳头状瘤病毒 (HPV) 是否可以治 目前尚无 HPV 感染的治疗方法。仅有 HPV 引起的健康问题的治疗方法，如生殖器疣、子宫颈的变化和宫颈癌等问题。在一些情况下，身体会自然而然地与病毒斗争。如果身体无法自然对抗病毒，则很可能引发严重并发症，如癌症。大多数 HPV可自行消退，但不是在所有病例中，针对这个问题目前仍缺乏解释。究竟哪些人会进展为癌症或其他疾病也无法预测。# 什么是 HPV 疫苗？\n\n<reply>: ",
+  "response": "HPV疫苗是一种用于预防人乳头状瘤病毒（HPV）感染的疫苗。HPV是一种常见的病毒，会导致各种健康问题，包括生殖器疣、子宫颈的变化和宫颈癌等。HPV疫苗的接种可以帮助预防HPV感染及由此引发的相关健康问题，提供保护免疫力，降低罹患相关疾病的风险。值得一提的是，HPV疫苗最好在性活跃之前接种，以获得最佳保护效果。"
+}

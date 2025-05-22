@@ -1,0 +1,9 @@
+{
+  "id": 1866,
+  "text": "1522*</td><td>2012</td><td>Cervix: N = 73 Other: N = 34 </td><td>nr</td><td>100</td><td>0</td><td>Median: 18.8</td><td></td><td>Total: 52.3 Anterior: 29.3 Posterior: 9.3</td><td>7.9</td><td>53.3</td><td>44.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1522*</td><td>2012</td><td>Cervix: N = 73 Other: N = 34 </td><td>nr</td><td>100</td><td>0</td><td>Median: 18.8</td><td></td><td>Total: 52.3 Anterior: 29.3 Posterior: 9.3</td><td>7.9</td><td>53.3</td><td>44.\n\n<question>: ",
+  "ChatGPT_response_0": "2012年对宫颈疾病进行了研究。",
+  "query": "什么年份对宫颈疾病进行了研究？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么年份对宫颈疾病进行了研究？\n\n<reference text>: 1522*</td><td>2012</td><td>Cervix: N = 73 Other: N = 34 </td><td>nr</td><td>100</td><td>0</td><td>Median: 18.8</td><td></td><td>Total: 52.3 Anterior: 29.3 Posterior: 9.3</td><td>7.9</td><td>53.3</td><td>44.\n\n<reply>: ",
+  "response": "2012年对宫颈疾病进行了研究。"
+}

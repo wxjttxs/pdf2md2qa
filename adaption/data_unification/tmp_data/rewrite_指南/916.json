@@ -1,0 +1,9 @@
+{
+  "id": 916,
+  "text": "1 0 { - } 1 .2 7 ) ]$ ).Intraoperative complications included vascular injury resulting from LN dissection and injury to the bladder or ureter resulting from surgical manipulation of the vagina or abdominal cavity.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1 0 { - } 1 .2 7 ) ]$ ).Intraoperative complications included vascular injury resulting from LN dissection and injury to the bladder or ureter resulting from surgical manipulation of the vagina or abdominal cavity.\n\n<question>: ",
+  "ChatGPT_response_0": "手术中常见的并发症包括：淋巴结切除引起的血管损伤，以及由于手术过程中对阴道或腹腔的操作而导致的膀胱或输尿管损伤。在手术过程中，这些并发症可能会发生，因此在手术前后需要密切注意和谨慎处理，以避免相关风险。",
+  "query": "手术中常见的并发症有哪些？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 手术中常见的并发症有哪些？\n\n<reference text>: 1 0 { - } 1 .2 7 ) ]$ ).Intraoperative complications included vascular injury resulting from LN dissection and injury to the bladder or ureter resulting from surgical manipulation of the vagina or abdominal cavity.\n\n<reply>: ",
+  "response": "手术中常见的并发症包括：淋巴结切除引起的血管损伤，以及由于手术过程中对阴道或腹腔的操作而导致的膀胱或输尿管损伤。在手术过程中，这些并发症可能会发生，因此在手术前后需要密切注意和谨慎处理，以避免相关风险。"
+}

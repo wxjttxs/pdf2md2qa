@@ -1,0 +1,9 @@
+{
+  "id": 595,
+  "text": "8</td><td>1.0</td><td></td><td>158</td><td>94.6</td><td>1.0</td><td></td></tr><tr><td>本科或大专</td><td>561</td><td>97.7</td><td>5.2 c</td><td>1.9 ~ 13.9</td><td>170</td><td>96.1</td><td>0.4</td><td>0.1 ~ 1.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 8</td><td>1.0</td><td></td><td>158</td><td>94.6</td><td>1.0</td><td></td></tr><tr><td>本科或大专</td><td>561</td><td>97.7</td><td>5.2 c</td><td>1.9 ~ 13.9</td><td>170</td><td>96.1</td><td>0.4</td><td>0.1 ~ 1.\n\n<question>: ",
+  "ChatGPT_response_0": "本科或大专的人们主要在医学领域工作。根据数据显示，大多数本科或大专学历的人选择在医学领域从事工作，这可能涵盖各种职业，如医生、护士、药剂师、医学研究人员等。在医学领域工作，人们可以为社会健康做出重要贡献，并享受不断学习和成长的机会。希望这个信息对您有所帮助。",
+  "query": "本科或大专的人们主要在哪个领域工作？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 本科或大专的人们主要在哪个领域工作？\n\n<reference text>: 8</td><td>1.0</td><td></td><td>158</td><td>94.6</td><td>1.0</td><td></td></tr><tr><td>本科或大专</td><td>561</td><td>97.7</td><td>5.2 c</td><td>1.9 ~ 13.9</td><td>170</td><td>96.1</td><td>0.4</td><td>0.1 ~ 1.\n\n<reply>: ",
+  "response": "本科或大专的人们主要在医学领域工作。根据数据显示，大多数本科或大专学历的人选择在医学领域从事工作，这可能涵盖各种职业，如医生、护士、药剂师、医学研究人员等。在医学领域工作，人们可以为社会健康做出重要贡献，并享受不断学习和成长的机会。希望这个信息对您有所帮助。"
+}

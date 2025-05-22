@@ -1,0 +1,9 @@
+{
+  "id": 1123,
+  "text": "</td><td>根据实际情况酌情扣分，扣完为止;</td><td rowspan=\"2\"></td></tr><tr><td>宫颈癌检出率： 宫颈癌前病变检出率：_</td></tr><tr><td></td><td>宫颈癌早诊率≥90%（10分）</td><td>10</td><td>前，对上报 的相关数据 资料进行计 算分析并在 备注中注明 实际结果</td><td>早诊率80%-89%扣2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: </td><td>根据实际情况酌情扣分，扣完为止;</td><td rowspan=\"2\"></td></tr><tr><td>宫颈癌检出率： 宫颈癌前病变检出率：_</td></tr><tr><td></td><td>宫颈癌早诊率≥90%（10分）</td><td>10</td><td>前，对上报 的相关数据 资料进行计 算分析并在 备注中注明 实际结果</td><td>早诊率80%-89%扣2.\n\n<question>: ",
+  "ChatGPT_response_0": "在评估宫颈癌早诊率时，如果实际情况下宫颈癌早诊率低于90%，就会导致扣分。另外，宫颈癌前病变检出率也是评估指标之一，如果该检出率未达到标准，同样会影响评分。因此，在评估过程中，需要对相关数据进行准确计算分析，确保宫颈癌早诊率达到或超过90%以避免扣分。",
+  "query": "在评估宫颈癌早诊率时，你觉得什么样的实际情况会导致扣分？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在评估宫颈癌早诊率时，你觉得什么样的实际情况会导致扣分？\n\n<reference text>: </td><td>根据实际情况酌情扣分，扣完为止;</td><td rowspan=\"2\"></td></tr><tr><td>宫颈癌检出率： 宫颈癌前病变检出率：_</td></tr><tr><td></td><td>宫颈癌早诊率≥90%（10分）</td><td>10</td><td>前，对上报 的相关数据 资料进行计 算分析并在 备注中注明 实际结果</td><td>早诊率80%-89%扣2.\n\n<reply>: ",
+  "response": "在评估宫颈癌早诊率时，如果实际情况下宫颈癌早诊率低于90%，就会导致扣分。另外，宫颈癌前病变检出率也是评估指标之一，如果该检出率未达到标准，同样会影响评分。因此，在评估过程中，需要对相关数据进行准确计算分析，确保宫颈癌早诊率达到或超过90%以避免扣分。"
+}

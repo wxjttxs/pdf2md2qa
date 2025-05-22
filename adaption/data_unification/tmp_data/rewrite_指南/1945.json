@@ -1,0 +1,9 @@
+{
+  "id": 1945,
+  "text": "1683</td><td>2009</td><td>51</td><td>Carboplatin/paclitaxel</td><td>53</td><td>13</td></tr><tr><td>Kitagawa et al.1702</td><td>2012</td><td>39</td><td>Carboplatin/paclitaxel</td><td>59</td><td>9.6</td></tr><tr><td>Kitagawa et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1683</td><td>2009</td><td>51</td><td>Carboplatin/paclitaxel</td><td>53</td><td>13</td></tr><tr><td>Kitagawa et al.1702</td><td>2012</td><td>39</td><td>Carboplatin/paclitaxel</td><td>59</td><td>9.6</td></tr><tr><td>Kitagawa et al.\n\n<question>: ",
+  "ChatGPT_response_0": "这些研究中使用了卡铂/紫杉醇这种化疗药物组合。",
+  "query": "这些研究中，哪种化疗药物组合被使用？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些研究中，哪种化疗药物组合被使用？\n\n<reference text>: 1683</td><td>2009</td><td>51</td><td>Carboplatin/paclitaxel</td><td>53</td><td>13</td></tr><tr><td>Kitagawa et al.1702</td><td>2012</td><td>39</td><td>Carboplatin/paclitaxel</td><td>59</td><td>9.6</td></tr><tr><td>Kitagawa et al.\n\n<reply>: ",
+  "response": "这些研究中使用了卡铂/紫杉醇这种化疗药物组合。"
+}

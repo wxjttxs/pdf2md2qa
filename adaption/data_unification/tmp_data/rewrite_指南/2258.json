@@ -1,0 +1,9 @@
+{
+  "id": 2258,
+  "text": "1867</td><td>2008</td><td>1</td><td>SCC</td><td>25</td><td>7</td><td>62</td><td>nr</td><td>NED</td></tr><tr><td></td><td></td><td>1</td><td>SCC</td><td>20</td><td>8</td><td>17</td><td>nr </td><td>DOD</td></tr><tr><td>Ishioka et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1867</td><td>2008</td><td>1</td><td>SCC</td><td>25</td><td>7</td><td>62</td><td>nr</td><td>NED</td></tr><tr><td></td><td></td><td>1</td><td>SCC</td><td>20</td><td>8</td><td>17</td><td>nr </td><td>DOD</td></tr><tr><td>Ishioka et al.\n\n<question>: ",
+  "ChatGPT_response_0": "审查委员会在2008年建议关注该国家的去世率。",
+  "query": "什么时候被审查委员会建议你国家的去世率呢？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么时候被审查委员会建议你国家的去世率呢？\n\n<reference text>: 1867</td><td>2008</td><td>1</td><td>SCC</td><td>25</td><td>7</td><td>62</td><td>nr</td><td>NED</td></tr><tr><td></td><td></td><td>1</td><td>SCC</td><td>20</td><td>8</td><td>17</td><td>nr </td><td>DOD</td></tr><tr><td>Ishioka et al.\n\n<reply>: ",
+  "response": "审查委员会在2008年建议关注该国家的去世率。"
+}

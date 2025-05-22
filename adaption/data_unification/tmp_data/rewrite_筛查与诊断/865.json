@@ -1,0 +1,9 @@
+{
+  "id": 865,
+  "text": "54</td></tr><tr><td>质控评价</td><td>15</td><td>8.62</td></tr><tr><td>组织协作</td><td>13</td><td>7.47</td></tr><tr><td rowspan=\"6\">需求型</td><td>政府采购</td><td>0</td><td>0.00</td></tr><tr><td>示范经验</td><td>6</td><td>3.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 54</td></tr><tr><td>质控评价</td><td>15</td><td>8.62</td></tr><tr><td>组织协作</td><td>13</td><td>7.47</td></tr><tr><td rowspan=\"6\">需求型</td><td>政府采购</td><td>0</td><td>0.00</td></tr><tr><td>示范经验</td><td>6</td><td>3.\n\n<question>: ",
+  "ChatGPT_response_0": "根据54中的数据，情况看起来十分乐观。质控评价方面得分为15，组织协作得分为13，显示出团队合作和管理方面的优秀表现。需求型方面，政府采购得分为0，示范经验得分为6，表明在该领域有改进的空间。综合来看，整体状况积极向好发展。希望这些信息能对您有所帮助。",
+  "query": "情况如何？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 情况如何？\n\n<reference text>: 54</td></tr><tr><td>质控评价</td><td>15</td><td>8.62</td></tr><tr><td>组织协作</td><td>13</td><td>7.47</td></tr><tr><td rowspan=\"6\">需求型</td><td>政府采购</td><td>0</td><td>0.00</td></tr><tr><td>示范经验</td><td>6</td><td>3.\n\n<reply>: ",
+  "response": "根据54中的数据，情况看起来十分乐观。质控评价方面得分为15，组织协作得分为13，显示出团队合作和管理方面的优秀表现。需求型方面，政府采购得分为0，示范经验得分为6，表明在该领域有改进的空间。综合来看，整体状况积极向好发展。希望这些信息能对您有所帮助。"
+}

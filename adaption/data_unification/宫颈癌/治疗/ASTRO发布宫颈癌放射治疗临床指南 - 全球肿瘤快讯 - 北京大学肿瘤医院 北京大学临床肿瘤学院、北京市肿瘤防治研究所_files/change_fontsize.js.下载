@@ -1,0 +1,5 @@
+﻿// JavaScript Document
+//控制字体大小，文章列表页，内容页用
+function doZoom(size) {
+    document.getElementById('zoom').style.fontSize = size + 'px';
+}

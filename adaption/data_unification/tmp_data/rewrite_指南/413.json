@@ -1,0 +1,9 @@
+{
+  "id": 413,
+  "text": "275</td><td>2007</td><td>88% (95% CI = 83-92)</td><td>92% (95% CI= 79-98)</td></tr><tr><td colspan=\"4\">Combined</td></tr><tr><td>Kadkhodayan et al.274</td><td>2015</td><td>92.3% (95% CI = 90.2-93.9)</td><td>91.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 275</td><td>2007</td><td>88% (95% CI = 83-92)</td><td>92% (95% CI= 79-98)</td></tr><tr><td colspan=\"4\">Combined</td></tr><tr><td>Kadkhodayan et al.274</td><td>2015</td><td>92.3% (95% CI = 90.2-93.9)</td><td>91.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果显示，在特定情况的患者中，治疗有效率最高的是 92.3% (95% CI = 90.2-93.9)。因此，可考虑采取该项治疗以获得最佳疗效。",
+  "query": "以下研究中，对于特定情况的患者，治疗有效率最高的是哪一项？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 以下研究中，对于特定情况的患者，治疗有效率最高的是哪一项？\n\n<reference text>: 275</td><td>2007</td><td>88% (95% CI = 83-92)</td><td>92% (95% CI= 79-98)</td></tr><tr><td colspan=\"4\">Combined</td></tr><tr><td>Kadkhodayan et al.274</td><td>2015</td><td>92.3% (95% CI = 90.2-93.9)</td><td>91.\n\n<reply>: ",
+  "response": "根据研究结果显示，在特定情况的患者中，治疗有效率最高的是 92.3% (95% CI = 90.2-93.9)。因此，可考虑采取该项治疗以获得最佳疗效。"
+}

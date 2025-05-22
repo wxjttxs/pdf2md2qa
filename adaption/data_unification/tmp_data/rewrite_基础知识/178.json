@@ -1,0 +1,9 @@
+{
+  "id": 178,
+  "text": ", 1992; Stoler et al., 2001).Broadly, low-grade SIL corresponds to a combination of the categories of CIN1 and HPV-associated changes without CIN; and high-grade SIL corresponds to a combina­ tion of CIN2 and CIN3.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: , 1992; Stoler et al., 2001).Broadly, low-grade SIL corresponds to a combination of the categories of CIN1 and HPV-associated changes without CIN; and high-grade SIL corresponds to a combina­ tion of CIN2 and CIN3.\n\n<question>: ",
+  "ChatGPT_response_0": "低级别的SIL通常对应宫颈上皮内病变1级（CIN1）和与HPV相关的改变但无CIN的情况。而高级别的SIL通常对应宫颈上皮内病变2级（CIN2）和宫颈上皮内病变3级（CIN3）的组合。",
+  "query": "低级别的SIL通常对应哪些情况？高级别的SIL则通常对应哪些情况？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 低级别的SIL通常对应哪些情况？高级别的SIL则通常对应哪些情况？\n\n<reference text>: , 1992; Stoler et al., 2001).Broadly, low-grade SIL corresponds to a combination of the categories of CIN1 and HPV-associated changes without CIN; and high-grade SIL corresponds to a combina­ tion of CIN2 and CIN3.\n\n<reply>: ",
+  "response": "低级别的SIL通常对应宫颈上皮内病变1级（CIN1）和与HPV相关的改变但无CIN的情况。而高级别的SIL通常对应宫颈上皮内病变2级（CIN2）和宫颈上皮内病变3级（CIN3）的组合。"
+}

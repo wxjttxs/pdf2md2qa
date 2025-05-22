@@ -1,0 +1,9 @@
+{
+  "id": 918,
+  "text": "Oncologic outcomes: based on 21 series70,477,524,791-793,795-820,822-826,834-837, Bentivegna et $a l .^ { 7 9 0 }$ LoE 1- reported positive or close margins $\\cdot < 5 \\mathrm { m m } )$ in $3 \\%$ of patients.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Oncologic outcomes: based on 21 series70,477,524,791-793,795-820,822-826,834-837, Bentivegna et $a l .^ { 7 9 0 }$ LoE 1- reported positive or close margins $\\cdot < 5 \\mathrm { m m } )$ in $3 \\%$ of patients.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果，癌症患者中约有3%的人术后显示出阳性或近距离（<5mm）切缘。",
+  "query": "根据研究结果，癌症患者中有多少百分比的人术后显示出阳性或近距离（<5mm）切缘？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 根据研究结果，癌症患者中有多少百分比的人术后显示出阳性或近距离（<5mm）切缘？\n\n<reference text>: Oncologic outcomes: based on 21 series70,477,524,791-793,795-820,822-826,834-837, Bentivegna et $a l .^ { 7 9 0 }$ LoE 1- reported positive or close margins $\\cdot < 5 \\mathrm { m m } )$ in $3 \\%$ of patients.\n\n<reply>: ",
+  "response": "根据研究结果，癌症患者中约有3%的人术后显示出阳性或近距离（<5mm）切缘。"
+}

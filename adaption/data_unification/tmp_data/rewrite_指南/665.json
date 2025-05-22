@@ -1,0 +1,9 @@
+{
+  "id": 665,
+  "text": "7 8$ $9 5 \\% { \\mathrm { C I } } = 0 .4 9 { - } 1 .2 { \\zeta }$ 3)).There were also no significant differences between these two surgical techniques in the rate of individual major or minor complications.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 7 8$ $9 5 \\% { \\mathrm { C I } } = 0 .4 9 { - } 1 .2 { \\zeta }$ 3)).There were also no significant differences between these two surgical techniques in the rate of individual major or minor complications.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果显示，这两种手术技术在主要或次要并发症的发生率上并没有明显差异。这意味着无论选择哪种手术技术，患者在面临并发症的风险方面都没有明显的偏好性。因此，在决定手术方式时，可能需要考虑其他因素来做出最佳决策。",
+  "query": "这两种手术技术在主要或次要并发症发生率上是否有明显差异？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这两种手术技术在主要或次要并发症发生率上是否有明显差异？\n\n<reference text>: 7 8$ $9 5 \\% { \\mathrm { C I } } = 0 .4 9 { - } 1 .2 { \\zeta }$ 3)).There were also no significant differences between these two surgical techniques in the rate of individual major or minor complications.\n\n<reply>: ",
+  "response": "根据研究结果显示，这两种手术技术在主要或次要并发症的发生率上并没有明显差异。这意味着无论选择哪种手术技术，患者在面临并发症的风险方面都没有明显的偏好性。因此，在决定手术方式时，可能需要考虑其他因素来做出最佳决策。"
+}

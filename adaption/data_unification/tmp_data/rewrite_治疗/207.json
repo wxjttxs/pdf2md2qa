@@ -1,0 +1,9 @@
+{
+  "id": 207,
+  "text": "” # Coverage surveys Coverage surveys estimate vaccine coverage based on the vaccination status of individuals in a randomly selected and representative sample, according to their vaccination record or recall.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: ” # Coverage surveys Coverage surveys estimate vaccine coverage based on the vaccination status of individuals in a randomly selected and representative sample, according to their vaccination record or recall.\n\n<question>: ",
+  "ChatGPT_response_0": "覆盖调查是根据随机选取的具代表性样本中个体的接种记录或回忆，估算疫苗覆盖率的调查方式。",
+  "query": "什么是覆盖调查？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是覆盖调查？\n\n<reference text>: ” # Coverage surveys Coverage surveys estimate vaccine coverage based on the vaccination status of individuals in a randomly selected and representative sample, according to their vaccination record or recall.\n\n<reply>: ",
+  "response": "覆盖调查是根据随机选取的具代表性样本中个体的接种记录或回忆，估算疫苗覆盖率的调查方式。"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 2287,
+  "text": "132</td><td>2010 1</td><td>37</td><td></td><td>LE-like</td><td></td><td>nr </td><td>no change</td><td>12 mm</td><td>none</td><td>12</td><td>no</td><td>15</td><td>39</td><td>yes</td></tr><tr><td>Enomoto et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 132</td><td>2010 1</td><td>37</td><td></td><td>LE-like</td><td></td><td>nr </td><td>no change</td><td>12 mm</td><td>none</td><td>12</td><td>no</td><td>15</td><td>39</td><td>yes</td></tr><tr><td>Enomoto et al.\n\n<question>: ",
+  "ChatGPT_response_0": "2010年Enomoto等人所研究的“LE-like”情况下未发生变化的指标是132。",
+  "query": "什么是2010年Enomoto等人所研究的“LE-like”情况下未发生变化的指标是多少？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么是2010年Enomoto等人所研究的“LE-like”情况下未发生变化的指标是多少？\n\n<reference text>: 132</td><td>2010 1</td><td>37</td><td></td><td>LE-like</td><td></td><td>nr </td><td>no change</td><td>12 mm</td><td>none</td><td>12</td><td>no</td><td>15</td><td>39</td><td>yes</td></tr><tr><td>Enomoto et al.\n\n<reply>: ",
+  "response": "2010年Enomoto等人所研究的“LE-like”情况下未发生变化的指标是132。"
+}

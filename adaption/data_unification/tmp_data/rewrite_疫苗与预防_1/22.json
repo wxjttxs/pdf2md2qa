@@ -1,0 +1,9 @@
+{
+  "id": 22,
+  "text": "jpg) # 增加患宫颈癌的其他风险 Other things can increase your risk of cervical cancer 吸烟 感染 HIV 或 免疫力下降 长期服用避孕药 （≥ 5 年） • 生过 ≥ 3 个孩子 有数个性伴首次性交早 ![](images/4b0e53f453d23064cd604b368513b51a63c9616e769728a79d5c3dcea46c2c72.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: jpg) # 增加患宫颈癌的其他风险 Other things can increase your risk of cervical cancer 吸烟 感染 HIV 或 免疫力下降 长期服用避孕药 （≥ 5 年） • 生过 ≥ 3 个孩子 有数个性伴首次性交早 ![](images/4b0e53f453d23064cd604b368513b51a63c9616e769728a79d5c3dcea46c2c72.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "患宫颈癌的风险因素包括吸烟、感染HIV或免疫力下降、长期服用避孕药（五年或更长时间）、生育三个或以上的孩子，以及有多个性伴侣或较早开始发生性行为。这些因素可能会增加宫颈癌的发生几率，需要引起注意和重视。",
+  "query": "什么因素可能会增加患宫颈癌的风险？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么因素可能会增加患宫颈癌的风险？\n\n<reference text>: jpg) # 增加患宫颈癌的其他风险 Other things can increase your risk of cervical cancer 吸烟 感染 HIV 或 免疫力下降 长期服用避孕药 （≥ 5 年） • 生过 ≥ 3 个孩子 有数个性伴首次性交早 ![](images/4b0e53f453d23064cd604b368513b51a63c9616e769728a79d5c3dcea46c2c72.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "患宫颈癌的风险因素包括吸烟、感染HIV或免疫力下降、长期服用避孕药（五年或更长时间）、生育三个或以上的孩子，以及有多个性伴侣或较早开始发生性行为。这些因素可能会增加宫颈癌的发生几率，需要引起注意和重视。"
+}

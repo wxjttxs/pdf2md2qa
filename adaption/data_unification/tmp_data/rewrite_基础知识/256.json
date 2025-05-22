@@ -1,0 +1,9 @@
+{
+  "id": 256,
+  "text": "5, 47.2b</td><td>34.2, 27.8b </td><td>17.1, 8.3b</td><td>7.3, 16.7b</td><td>Diaz et al.(2018)</td></tr><tr><td>Austria</td><td>Population-based cancer registry</td><td>2000-2007</td><td>56</td><td>21</td><td>7</td><td>17</td><td>Minicozzi et al.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 5, 47.2b</td><td>34.2, 27.8b </td><td>17.1, 8.3b</td><td>7.3, 16.7b</td><td>Diaz et al.(2018)</td></tr><tr><td>Austria</td><td>Population-based cancer registry</td><td>2000-2007</td><td>56</td><td>21</td><td>7</td><td>17</td><td>Minicozzi et al.\n\n<question>: ",
+  "ChatGPT_response_0": "奥地利在2000年至2007年期间进行了基于人口的癌症登记。",
+  "query": "这些数据展示了哪个国家在哪个时间段内进行了基于人口的癌症登记？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这些数据展示了哪个国家在哪个时间段内进行了基于人口的癌症登记？\n\n<reference text>: 5, 47.2b</td><td>34.2, 27.8b </td><td>17.1, 8.3b</td><td>7.3, 16.7b</td><td>Diaz et al.(2018)</td></tr><tr><td>Austria</td><td>Population-based cancer registry</td><td>2000-2007</td><td>56</td><td>21</td><td>7</td><td>17</td><td>Minicozzi et al.\n\n<reply>: ",
+  "response": "奥地利在2000年至2007年期间进行了基于人口的癌症登记。"
+}

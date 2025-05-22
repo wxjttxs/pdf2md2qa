@@ -1,0 +1,9 @@
+{
+  "id": 2410,
+  "text": "139.Ng, H.T., Chen, S.L., Wang, J.C.& Sheu, M.H.¨Preoperative examination with CT, MRI and comparison of both to histopathologic findings in cervical carcinoma.CME J Gynecol Oncol 3, 256- 257 (1998).140.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 139.Ng, H.T., Chen, S.L., Wang, J.C.& Sheu, M.H.¨Preoperative examination with CT, MRI and comparison of both to histopathologic findings in cervical carcinoma.CME J Gynecol Oncol 3, 256- 257 (1998).140.\n\n<question>: ",
+  "ChatGPT_response_0": "除了CT和MRI，类似的医学研究中常见的术前检查方法还包括超声波检查、PET-CT扫描、血液检查等。这些检查方法可以结合使用，以帮助医生全面评估病人的病情和手术准备工作。在研究中选择合适的检查方式可以更准确地帮助诊断和治疗疾病。",
+  "query": "这项研究中，病人的术前检查包括CT和MRI。在类似的医学研究中，常见的检查方法还有哪些？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这项研究中，病人的术前检查包括CT和MRI。在类似的医学研究中，常见的检查方法还有哪些？\n\n<reference text>: 139.Ng, H.T., Chen, S.L., Wang, J.C.& Sheu, M.H.¨Preoperative examination with CT, MRI and comparison of both to histopathologic findings in cervical carcinoma.CME J Gynecol Oncol 3, 256- 257 (1998).140.\n\n<reply>: ",
+  "response": "除了CT和MRI，类似的医学研究中常见的术前检查方法还包括超声波检查、PET-CT扫描、血液检查等。这些检查方法可以结合使用，以帮助医生全面评估病人的病情和手术准备工作。在研究中选择合适的检查方式可以更准确地帮助诊断和治疗疾病。"
+}

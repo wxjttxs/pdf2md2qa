@@ -1,0 +1,9 @@
+{
+  "id": 2483,
+  "text": "CMAJ 178, 855-862 (2008).231.Echt, M.L., et al.Detection of sentinel lymph nodes with lymphazurin in cervical, uterine, and vulvar malignancies.South Med J 92, 204-208 (1999).232.Dargent, D., Martin, X.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: CMAJ 178, 855-862 (2008).231.Echt, M.L., et al.Detection of sentinel lymph nodes with lymphazurin in cervical, uterine, and vulvar malignancies.South Med J 92, 204-208 (1999).232.Dargent, D., Martin, X.\n\n<question>: ",
+  "ChatGPT_response_0": "您可以使用淋巴青抑杂蓝染料来检测颈部、子宫和外阴恶性肿瘤中的前哨淋巴结。这项技术可以帮助医生确定淋巴结是否受到癌细胞转移的影响，以便制定最佳的治疗方案。淋巴青抑杂蓝染料在某些研究中已被证明在检测这些恶性肿瘤中的前哨淋巴结方面具有有效性。",
+  "query": "什么方法可以用来检测颈部、子宫和外阴恶性肿瘤中的前哨淋巴结？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么方法可以用来检测颈部、子宫和外阴恶性肿瘤中的前哨淋巴结？\n\n<reference text>: CMAJ 178, 855-862 (2008).231.Echt, M.L., et al.Detection of sentinel lymph nodes with lymphazurin in cervical, uterine, and vulvar malignancies.South Med J 92, 204-208 (1999).232.Dargent, D., Martin, X.\n\n<reply>: ",
+  "response": "您可以使用淋巴青抑杂蓝染料来检测颈部、子宫和外阴恶性肿瘤中的前哨淋巴结。这项技术可以帮助医生确定淋巴结是否受到癌细胞转移的影响，以便制定最佳的治疗方案。淋巴青抑杂蓝染料在某些研究中已被证明在检测这些恶性肿瘤中的前哨淋巴结方面具有有效性。"
+}

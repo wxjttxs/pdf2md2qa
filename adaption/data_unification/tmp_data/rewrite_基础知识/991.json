@@ -1,0 +1,9 @@
+{
+  "id": 991,
+  "text": "Recurrent disease may be defined as a positive follow-up screening test (e.g.VIA, HPV test or cytology) following a documented negative test at any time after the initial treatment in a screen-and-treat approach setting.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Recurrent disease may be defined as a positive follow-up screening test (e.g.VIA, HPV test or cytology) following a documented negative test at any time after the initial treatment in a screen-and-treat approach setting.\n\n<question>: ",
+  "ChatGPT_response_0": "复发疾病可以被定义为在筛查治疗过程中，随着时间的推移，出现了阳性的后续检测结果（例如，阴道镜检查、HPV检测或细胞学检查），这些结果与最初的阴性检测结果形成对比。",
+  "query": "什么情况下可以被定义为复发疾病？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么情况下可以被定义为复发疾病？\n\n<reference text>: Recurrent disease may be defined as a positive follow-up screening test (e.g.VIA, HPV test or cytology) following a documented negative test at any time after the initial treatment in a screen-and-treat approach setting.\n\n<reply>: ",
+  "response": "复发疾病可以被定义为在筛查治疗过程中，随着时间的推移，出现了阳性的后续检测结果（例如，阴道镜检查、HPV检测或细胞学检查），这些结果与最初的阴性检测结果形成对比。"
+}

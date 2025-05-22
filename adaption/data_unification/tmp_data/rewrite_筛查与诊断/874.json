@@ -1,0 +1,9 @@
+{
+  "id": 874,
+  "text": "50</td></tr><tr><td>2023</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3.00</td></tr><tr><td>合计</td><td>6</td><td>18</td><td>5</td><td>3</td><td>5</td><td>2.54</td></tr></table></body></html> 2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 50</td></tr><tr><td>2023</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3.00</td></tr><tr><td>合计</td><td>6</td><td>18</td><td>5</td><td>3</td><td>5</td><td>2.54</td></tr></table></body></html> 2.\n\n<question>: ",
+  "ChatGPT_response_0": "2023年的具体情况可能会受到多种因素的影响，包括全球经济状况、政治动荡、自然灾害等等。根据数据显示，2023年可能会有一些挑战和变化，但具体情况取决于各种因素的相互作用。在这种情况下，保持警惕并及时调整应对策略是非常重要的。希望这些信息能够对您有所帮助。",
+  "query": "请问2023年的具体情况是怎样的？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 请问2023年的具体情况是怎样的？\n\n<reference text>: 50</td></tr><tr><td>2023</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>3.00</td></tr><tr><td>合计</td><td>6</td><td>18</td><td>5</td><td>3</td><td>5</td><td>2.54</td></tr></table></body></html> 2.\n\n<reply>: ",
+  "response": "2023年的具体情况可能会受到多种因素的影响，包括全球经济状况、政治动荡、自然灾害等等。根据数据显示，2023年可能会有一些挑战和变化，但具体情况取决于各种因素的相互作用。在这种情况下，保持警惕并及时调整应对策略是非常重要的。希望这些信息能够对您有所帮助。"
+}

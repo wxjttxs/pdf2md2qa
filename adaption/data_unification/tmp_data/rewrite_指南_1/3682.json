@@ -1,0 +1,9 @@
+{
+  "id": 3682,
+  "text": "1682.Li, Y., et al.A phase 2 study of nanoparticle albumin-bound paclitaxel plus nedaplatin for patients with advanced, recurrent, or metastatic cervical carcinoma.Cancer 123, 420- 425 (2017).1683.Pectasides, D.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 1682.Li, Y., et al.A phase 2 study of nanoparticle albumin-bound paclitaxel plus nedaplatin for patients with advanced, recurrent, or metastatic cervical carcinoma.Cancer 123, 420- 425 (2017).1683.Pectasides, D.\n\n<question>: \n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n",
+  "ChatGPT_response_0": "已经有研究对纳米颗粒白蛋白结合紫杉醇与奈达铂的联合用药进行评估，作为治疗晚期、复发或转移性宫颈癌患者的选择。",
+  "query": "对于晚期、复发或转移性宫颈癌患者，哪种药物组合已经在研究中被评估为治疗选择？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于晚期、复发或转移性宫颈癌患者，哪种药物组合已经在研究中被评估为治疗选择？\n\n<reference text>: 1682.Li, Y., et al.A phase 2 study of nanoparticle albumin-bound paclitaxel plus nedaplatin for patients with advanced, recurrent, or metastatic cervical carcinoma.Cancer 123, 420- 425 (2017).1683.Pectasides, D.\n\n**如果text中内容跟宫颈癌无关，请回复'SKIP'**\n\n<reply>: ",
+  "response": "已经有研究对纳米颗粒白蛋白结合紫杉醇与奈达铂的联合用药进行评估，作为治疗晚期、复发或转移性宫颈癌患者的选择。"
+}

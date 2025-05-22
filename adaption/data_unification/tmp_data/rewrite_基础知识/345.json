@@ -1,0 +1,9 @@
+{
+  "id": 345,
+  "text": "Indian J Cancer.55(1):45–9.doi:10.4103/ijc.IJC_428_17 PMID:30147092 Combes J-D, Guan P, Franceschi S, Clifford GM (2015).Judging the carcinogenicity of rare human papillo­ mavirus types.Int J Cancer.136(3):740–2.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Indian J Cancer.55(1):45–9.doi:10.4103/ijc.IJC_428_17 PMID:30147092 Combes J-D, Guan P, Franceschi S, Clifford GM (2015).Judging the carcinogenicity of rare human papillo­ mavirus types.Int J Cancer.136(3):740–2.\n\n<question>: ",
+  "ChatGPT_response_0": "这两篇文章的主题是评估较罕见的人类乳头瘤病毒类型对癌症的致癌性及其相关危险性。",
+  "query": "这两篇文章的主题是什么？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 这两篇文章的主题是什么？\n\n<reference text>: Indian J Cancer.55(1):45–9.doi:10.4103/ijc.IJC_428_17 PMID:30147092 Combes J-D, Guan P, Franceschi S, Clifford GM (2015).Judging the carcinogenicity of rare human papillo­ mavirus types.Int J Cancer.136(3):740–2.\n\n<reply>: ",
+  "response": "这两篇文章的主题是评估较罕见的人类乳头瘤病毒类型对癌症的致癌性及其相关危险性。"
+}

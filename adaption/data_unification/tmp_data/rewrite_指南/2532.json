@@ -1,0 +1,9 @@
+{
+  "id": 2532,
+  "text": "297.Lecuru, F., et al.Bilateral negative sentinel nodes accurately predict absence of lymph node metastasis in early cervical cancer: results of the SENTICOL study.J Clin Oncol 29, 1686- 1691 (2011).298.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 297.Lecuru, F., et al.Bilateral negative sentinel nodes accurately predict absence of lymph node metastasis in early cervical cancer: results of the SENTICOL study.J Clin Oncol 29, 1686- 1691 (2011).298.\n\n<question>: ",
+  "ChatGPT_response_0": "根据研究结果，双侧阴性前哨淋巴结可以准确预测早期宫颈癌患者的淋巴结转移情况。这意味着如果患者的前哨淋巴结检测结果双侧均为阴性，那么淋巴结转移的可能性很低。这一结论有助于指导临床医生制定更精准的治疗方案，提高患者的治疗效果和生存率。",
+  "query": "对于早期宫颈癌患者，双侧阴性前哨淋巴结是否可以准确预测淋巴结转移的情况？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 对于早期宫颈癌患者，双侧阴性前哨淋巴结是否可以准确预测淋巴结转移的情况？\n\n<reference text>: 297.Lecuru, F., et al.Bilateral negative sentinel nodes accurately predict absence of lymph node metastasis in early cervical cancer: results of the SENTICOL study.J Clin Oncol 29, 1686- 1691 (2011).298.\n\n<reply>: ",
+  "response": "根据研究结果，双侧阴性前哨淋巴结可以准确预测早期宫颈癌患者的淋巴结转移情况。这意味着如果患者的前哨淋巴结检测结果双侧均为阴性，那么淋巴结转移的可能性很低。这一结论有助于指导临床医生制定更精准的治疗方案，提高患者的治疗效果和生存率。"
+}

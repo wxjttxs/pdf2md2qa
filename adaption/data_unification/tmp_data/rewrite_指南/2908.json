@@ -1,0 +1,9 @@
+{
+  "id": 2908,
+  "text": "JAMA 291, 2100-2106 (2004).774.Samson, S.L., Bentley, J.R., Fahey, T.J., McKay, D.J.& Gill, G.H.The effect of loop electrosurgical excision procedure on future pregnancy outcome.Obstet Gynecol 105, 325-332 (2005).",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: JAMA 291, 2100-2106 (2004).774.Samson, S.L., Bentley, J.R., Fahey, T.J., McKay, D.J.& Gill, G.H.The effect of loop electrosurgical excision procedure on future pregnancy outcome.Obstet Gynecol 105, 325-332 (2005).\n\n<question>: ",
+  "ChatGPT_response_0": "据研究，环形电切术对未来怀孕结果可能有影响。建议在考虑手术前，与医生进一步讨论可能的影响并权衡利弊。愿您未来怀孕顺利，如有更多疑问，请咨询专业医生。",
+  "query": "什么手术对未来怀孕结果有影响？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 什么手术对未来怀孕结果有影响？\n\n<reference text>: JAMA 291, 2100-2106 (2004).774.Samson, S.L., Bentley, J.R., Fahey, T.J., McKay, D.J.& Gill, G.H.The effect of loop electrosurgical excision procedure on future pregnancy outcome.Obstet Gynecol 105, 325-332 (2005).\n\n<reply>: ",
+  "response": "据研究，环形电切术对未来怀孕结果可能有影响。建议在考虑手术前，与医生进一步讨论可能的影响并权衡利弊。愿您未来怀孕顺利，如有更多疑问，请咨询专业医生。"
+}

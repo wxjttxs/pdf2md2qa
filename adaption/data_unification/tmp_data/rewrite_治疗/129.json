@@ -1,0 +1,9 @@
+{
+  "id": 129,
+  "text": "Please note that a new entry in the register should not be created each time a girl comes to a clinic for the immunization or a session is held in the school, unless the girl received the first dose in another facility.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Please note that a new entry in the register should not be created each time a girl comes to a clinic for the immunization or a session is held in the school, unless the girl received the first dose in another facility.\n\n<question>: ",
+  "ChatGPT_response_0": "不需要每次都在登记册中新建一条记录，除非该女孩在其他机构接种了第一剂疫苗。因此，当女孩再次接种疫苗或参加学校活动时，无需重复记录。",
+  "query": "请问在女孩接种疫苗或学校举办活动时，是否每次都需要在登记册中新建一条记录呢？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 请问在女孩接种疫苗或学校举办活动时，是否每次都需要在登记册中新建一条记录呢？\n\n<reference text>: Please note that a new entry in the register should not be created each time a girl comes to a clinic for the immunization or a session is held in the school, unless the girl received the first dose in another facility.\n\n<reply>: ",
+  "response": "不需要每次都在登记册中新建一条记录，除非该女孩在其他机构接种了第一剂疫苗。因此，当女孩再次接种疫苗或参加学校活动时，无需重复记录。"
+}

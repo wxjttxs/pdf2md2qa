@@ -1,0 +1,9 @@
+{
+  "id": 1022,
+  "text": "Assessed by: Data may be collected through an information system/screening registry or a survey.As population-based denominators are difficult to compare across studies, these data should be abstracted.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: Assessed by: Data may be collected through an information system/screening registry or a survey.As population-based denominators are difficult to compare across studies, these data should be abstracted.\n\n<question>: ",
+  "ChatGPT_response_0": "为了确定数据来源和采集方式，以便进行有效的比较，研究人员可以通过信息系统/筛查登记或调查收集数据。由于基于人口的分母在不同研究中很难进行比较，因此应该对这些数据进行摘要处理。",
+  "query": "他们如何确定数据来源和采集方式，以便进行有效的比较？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 他们如何确定数据来源和采集方式，以便进行有效的比较？\n\n<reference text>: Assessed by: Data may be collected through an information system/screening registry or a survey.As population-based denominators are difficult to compare across studies, these data should be abstracted.\n\n<reply>: ",
+  "response": "为了确定数据来源和采集方式，以便进行有效的比较，研究人员可以通过信息系统/筛查登记或调查收集数据。由于基于人口的分母在不同研究中很难进行比较，因此应该对这些数据进行摘要处理。"
+}

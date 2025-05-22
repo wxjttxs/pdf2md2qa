@@ -1,0 +1,9 @@
+{
+  "id": 431,
+  "text": "2009;124(3):516-20.10.1002/ijc.24010.42.World Health Organization.WHO guideline for screening and treatment of cervical precancer lesions for cervical cancer prevention, second edition.Geneva: World Health Organization; 2021.",
+  "ChatGPT_query": "Please create a <question> that closely aligns with the provided <text>. Ensure that the <question> is formulated in Chinese and does not explicitly reference the text. You may incorporate specific scenarios or contexts in the <question>, allowing the <text> to serve as a comprehensive and precise answer.\n\n<text>: 2009;124(3):516-20.10.1002/ijc.24010.42.World Health Organization.WHO guideline for screening and treatment of cervical precancer lesions for cervical cancer prevention, second edition.Geneva: World Health Organization; 2021.\n\n<question>: ",
+  "ChatGPT_response_0": "世界卫生组织在2021年发布了用于筛查和治疗宫颈癌前病变以预防宫颈癌的指南的第二版。",
+  "query": "在哪一年，世界卫生组织发布了用于筛查和治疗宫颈癌前病变以预防宫颈癌的指南的第二版？",
+  "ChatGPT_query_a": "You are HuatuoGPT-II, equipped with in-depth knowledge in medicine. Your task is to directly answer the user's <question> in Chinese. In formulating your response, you must thoughtfully reference the <reference text>, ensuring that your reply does not disclose your reliance on <reference text>. Aim to provide a comprehensive and informative response, incorporating relevant insights from <reference text> to best assist the user. Please be cautious to avoid including any content that might raise ethical concerns.\n\n<question>: 在哪一年，世界卫生组织发布了用于筛查和治疗宫颈癌前病变以预防宫颈癌的指南的第二版？\n\n<reference text>: 2009;124(3):516-20.10.1002/ijc.24010.42.World Health Organization.WHO guideline for screening and treatment of cervical precancer lesions for cervical cancer prevention, second edition.Geneva: World Health Organization; 2021.\n\n<reply>: ",
+  "response": "世界卫生组织在2021年发布了用于筛查和治疗宫颈癌前病变以预防宫颈癌的指南的第二版。"
+}
